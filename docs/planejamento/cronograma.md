@@ -48,3 +48,11 @@
 ### 3.6 Entrega 6
 
 ### 3.7 Entrega 7
+
+## 4. Tabela de Horários
+
+![Rich Picture de baixa fidelidade](../assets/membros/horarios.png)
+
+<center>
+Figura 1: Tabela de horários
+</center>

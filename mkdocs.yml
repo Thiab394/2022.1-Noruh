@@ -1,3 +1,11 @@
 site_name: Noruh
+nav:
+    - Inicio: 'index.md'
+    - Panejamento:
+        - 'Cronograma': './planejamento/cronograma.md'
+        - 'Ferramentas': './planejamento/ferramentas.md'
+    - Pré-Rastreabilidade:
+        - 'Rich Picture': './pre-rastreabilidade/RichPicture.md'
+        
 theme:
   name: material
