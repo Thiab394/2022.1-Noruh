@@ -19,10 +19,10 @@
 |                                                           | Membro             | Github            |
 | --------------------------------------------------------- | ------------------ | ----------------- |
 | <img src="" width="100">        | Eduardo Rodrigues      | Eduardo-RFarias      |
-| <img src="./assets/img/membros/eurico.png" width="100">    | Eurico Abreu       | EuricoAbreu        |
-| <img src="./assets/img/membros/Joao.png" width="100"> | João Henrique     | joao-henrique10  |
+| <img src="./assets/membros/eurico.png" width="100">    | Eurico Abreu       | EuricoAbreu        |
+| <img src="./assets/membros/Joao.png" width="100"> | João Henrique     | joao-henrique10  |
 | <img src="" width="100">           | Karla Chaiane       | KarlaCSF      |
-| <img src="./assets/img/membros/Lucas.png" width="100">         | Lucas Pimentel    | lucaspimentel123         |
+| <img src="./assets/membros/Lucas.png" width="100">         | Lucas Pimentel    | lucaspimentel123         |
 | <img src="" width="100">       | Bruno Oliveira | eng-Bruno |
 
 </center>
