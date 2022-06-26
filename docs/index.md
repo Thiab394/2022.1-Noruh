@@ -26,3 +26,6 @@
 | <img src="" width="100">       | Bruno Oliveira | eng-Bruno |
 
 </center>
+
+## Referências
+- Site oficial do app Noruh (https://www.noruh.com/)

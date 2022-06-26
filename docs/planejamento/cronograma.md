@@ -56,3 +56,6 @@
 <center>
 Figura 1: Tabela de horários
 </center>
+
+## Referências
+- Plano de ensino da disciplina de Requisitos de Software Turma-02 2022
