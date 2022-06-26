@@ -24,16 +24,16 @@
 
 <center>
 
-|           Atividade          |          Responsável         |    Revisor    |  Data |
-|:----------------------------:|:----------------------------:|:-------------:|:-----:|
-| Ver repostório da disciplina |             Todos            |               | 26/06 |
-|        Selecionar app        |             Todos            |               | 26/06 |
-|         Criar pagina         |     Lucas, João Henrique     |               | 26/06 |
-|     Adicionar ferramentas    |     João Henrique, Eurico    |               | 26/06 |
-|     Adicionar cronograma     |     Lucas, João Henrique     |               | 26/06 |
-|    Adicionar equipe/sobre    | Lucas, João Henrique, Eurico |               | 26/06 |
-|         Rich picture         |             Lucas            | João Henrique | 26/06 |
-|      Gravar apresentação     |                              |               |       |
+|           Atividade          |          Responsável                 |    Revisor    |  Data |
+|:----------------------------:|:------------------------------------:|:-------------:|:-----:|
+| Ver repostório da disciplina |             Todos                    |               | 26/06 |
+|        Selecionar app        |             Todos                    |               | 26/06 |
+|         Criar pagina         |     Lucas, João Henrique             |               | 26/06 |
+|     Adicionar ferramentas    |     João Henrique, Eurico            |               | 26/06 |
+|     Adicionar cronograma     |     Lucas, João Henrique, Eurico     |               | 26/06 |
+|    Adicionar equipe/sobre    |     Lucas, João Henrique, Eurico     |               | 26/06 |
+|         Rich picture         |             Lucas                    | João Henrique | 26/06 |
+|      Gravar apresentação     |                                      |               |       |
 
 </center>
 
