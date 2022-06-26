@@ -6,7 +6,7 @@
 
 | | Ferramenta | Finalidade |
 | :------: | :----------: | :---------------------------------------------------: |
-| <img src="docs/assets/img/ferramentas/Canva.jpg" width="100">  | Canva | Utilizado para a elaboração das apresentações |
+| <img src="/docs/assets/img/ferramentas/Canva.jpg" width="100">  | Canva | Utilizado para a elaboração das apresentações |
 | <img src="docs/assets/img/ferramentas/discord.jpg" width="100"> | Discord | Reuniões da equipe para a elaboração das atividades |
 | <img src="docs/assets/img/ferramentas/figma.jpg" width="100"> | Figma | Utilizado para fazer o Rich Picture |
 | <img src="docs/assets/img/ferramentas/github.jpg" width="100"> | Github | Repositório do Projeto |
