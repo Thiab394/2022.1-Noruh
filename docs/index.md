@@ -9,7 +9,7 @@
   
 ## 2. Sobre o aplicativo
 
-&emsp;&emsp;Noruh é um aplicativo que permite que o cliente peça, acompanhe, divida e pague sua conta em restaurentes diretamente do celular. Além disso, pelo lado do proprietário do restaurante, o aplicativo fornece relatórios personalizados, perfis de consumo criados a partir de inteligência artificial, dessa forma, automatizando e integrando o receptivo, frente de caixa e delivery em um mesmo app. 
+&emsp;&emsp;O Noruh é um aplicativo que permite que o cliente peça, acompanhe, divida e pague sua conta em restaurantes diretamente do celular. Além disso, pelo lado do proprietário do restaurante, o aplicativo fornece relatórios personalizados, perfis de consumo criados a partir de inteligência artificial, dessa forma, automatizando e integrando o receptivo, frente de caixa e delivery em um mesmo app. 
 
 
 ## 3. Equipe
