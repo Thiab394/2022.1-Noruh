@@ -3,9 +3,9 @@
 
 ## 1. Sobre o projeto
 
-Repositório reservado à disciplina de Requisitos de Software da Universidade de Brasília sobre a requisitos do aplicativo Norwh. Ele retém o armazenamento e a apresentação de artefatos e processos desenvolvidos na disciplina, como pré-rastreamento, heurística, modelagem, análise e pós-rastreamento para melhorar os requisitos não funcionais e funcionais do aplicativo.
+Repositório reservado à disciplina de Requisitos de Software da Universidade de Brasília sobre a requisitos do aplicativo Noruh. Ele retém o armazenamento e a apresentação de artefatos e processos desenvolvidos na disciplina, como pré-rastreamento, heurística, modelagem, análise e pós-rastreamento para melhorar os requisitos não funcionais e funcionais do aplicativo.
 
-## 2. Sobre o Norwh
+## 2. Sobre o Noruh
 
 O Norwh é um aplicativo de comandas de restaurante, no qual se pode fazer pedidos por ele.
 
