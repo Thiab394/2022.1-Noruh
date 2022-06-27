@@ -5,7 +5,7 @@
 &emsp;&emsp;É uma ferramenta para analisar problemas e expressar idéias de maneira informal. Ela ajuda a identificar todos os stakeholders, suas preocupações e alguns detalhes da estrutura de sistemas. Com isso, nós começamos com uma versão mais simples do desenho, utilizando apenas papel e caneta, para então começarmos a evoluí-lo.
 
 ## Rich Picture aplicativo Noruh
-### Versão 1
+### Versão 1.0
 
 ![Rich Picture de baixa fidelidade](../assets/richPictures/RichPictureV1.png)
 
@@ -13,8 +13,13 @@
 Figura 1: Versão inicial Rich Picture
 </center>
 
-### Versão 2
+### Versão 2.0
 
+![Rich Picture versão 2](../assets/richPictures/RichPictureV2.1.png)
+
+<center>
+Figura 2: Segunda versão Rich Picture feita no Figma
+</center>
 ## Referências
 - "Introducing Rich Pictures - Rich Picture Drawing Guidelines" - Software Development Project
 
