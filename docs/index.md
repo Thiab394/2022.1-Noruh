@@ -23,7 +23,7 @@
 | <img src="./assets/membros/Joao.png" width="100"> | João Henrique     | joao-henrique10  |
 | <img src="./assets/membros/Karla.png" width="100">           | Karla Chaiane       | KarlaCSF      |
 | <img src="./assets/membros/Lucas.png" width="100">         | Lucas Pimentel    | lucaspimentel123         |
-| <img src="" width="100">       | Bruno Oliveira | eng-Bruno |
+| <img src="./assets/membros/Bruno.png" width="100">       | Bruno Oliveira | eng-Bruno |
 
 </center>
 
