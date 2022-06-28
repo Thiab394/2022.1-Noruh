@@ -2,7 +2,8 @@
 
 <center>
 
-<img src="https://pro2-bar-s3-cdn-cf1.myportfolio.com/56f0cc1ab4b47f13da2d4b2db526a715/ccba2e90-a2b5-48e9-a17c-fa3b06a319f8_rw_1920.png?h=338ff6e98a9aaf617ebb0175c79adfe9" width="500">
+<img src="docs/assets/logov5.png" width="500">
+
 
 </center>
 
