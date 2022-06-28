@@ -34,7 +34,7 @@
 |    Adicionar equipe/sobre    |     Lucas, João Henrique, Eurico     |                       | 26/06 |
 |         Rich picture         |             Lucas                    |    João Henrique      | 26/06 |
 |       Rich picture V2.0      |             Lucas                    | João Henrique, Eurico | 27/06 |
-|      Gravar apresentação     |                                      |                       |       |
+|      Gravar apresentação     |   João, Karla, Lucas, Eurico, Bruno  |                       | 27/06 |
 
 </center>
 
