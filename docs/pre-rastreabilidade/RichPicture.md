@@ -15,10 +15,10 @@ Figura 1: Versão inicial Rich Picture
 
 ### Versão 2.0
 
-![Rich Picture versão 2](../assets/richPictures/RichPictureV2.1.png)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FJZg9lBOSRzqSJniBQEUttz%2FRichPictureV2%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 <center>
-Figura 2: Segunda versão Rich Picture feita no Figma
+Figura 2: Segunda Versão Rich Picture
 </center>
 ## Referências
 - "Introducing Rich Pictures - Rich Picture Drawing Guidelines" - Software Development Project
