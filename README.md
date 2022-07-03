@@ -21,7 +21,7 @@
 
 |                                                        | Membro            | Github           |
 | ------------------------------------------------------ | ----------------- | ---------------- |
-| <img src="" width="100">                               | Eduardo Rodrigues | Eduardo-RFarias  |
+| <img src="docs/assets/membros/Eduardo.png" width="100">                               | Eduardo Rodrigues | Eduardo-RFarias  |
 | <img src="docs/assets/membros/eurico.png" width="100"> | Eurico Abreu      | EuricoAbreu      |
 | <img src="docs/assets/membros/Joao.png" width="100">   | João Henrique     | joao-henrique10  |
 | <img src="docs/assets/membros/Karla.png" width="100">  | Karla Chaiane     | KarlaCSF         |
