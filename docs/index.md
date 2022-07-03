@@ -30,7 +30,7 @@
 ## 4. Aplicativos analisados
 &emsp;&emsp; Abaixo, temos os aplicativos analisados por cada membro da equipe, no qual usamos de parâmetro, para a escolha do apliativo "Noruh".
 
-- Eduardo Rodrigues:
+- Eduardo Rodrigues: -
 - Eurico Abreu: Correios
 - João Henrique: ConecteSus
 - Karla Chaiane: Reddit
