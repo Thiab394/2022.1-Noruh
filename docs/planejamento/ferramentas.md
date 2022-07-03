@@ -14,3 +14,9 @@
 | ![drawing](../assets/ferramentas/trello.png)   | Trello  | Utilizado para definir as atividades dos integrantes do projeto |
 | ![drawing](../assets/ferramentas/vscode.png)   | VsCode  | Editor de texto para o repositório |
 | ![drawing](../assets/ferramentas/whatsapp.png) | Whatsapp | Aplicativo de conversas, onde criamos um grupo para o projeto |
+
+## Histórico de Versão
+
+| Versão |                Alteração               | Responsável |         Revisor        |  Data |
+|:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
+|   1.0  |                    -                   |    João Henrique, Eurico   | Lucas | 23/06 |

@@ -9,7 +9,7 @@
   
 ## 2. Sobre o aplicativo
 
-&emsp;&emsp;O Noruh é um aplicativo que permite que o cliente peça, acompanhe, divida e pague sua conta em restaurantes diretamente do celular. Além disso, pelo lado do proprietário do restaurante, o aplicativo fornece relatórios personalizados, perfis de consumo criados a partir de inteligência artificial, dessa forma, automatizando e integrando o receptivo, frente de caixa e delivery em um mesmo app. 
+&emsp;&emsp;O Noruh é um aplicativo que permite que o cliente peça, acompanhe, divida e pague sua conta em restaurantes diretamente do celular. Além disso, pelo lado do proprietário do restaurante, o aplicativo fornece relatórios personalizados, perfis de consumo criados a partir de inteligência artificial, dessa forma, automatizando e integrando o receptivo, frente de caixa e delivery em um mesmo app. Nossa motivação pela escolha desse projeto, é pela facilidade pelo aplicativo ser de Brasília, acreditamos que iremos ter uma maior facilidade de contato com os produtores do aplicativo, para validar nossa verificação sobre o aplicativo no decorrer da matéria, e também por acharmos um aplicativo muito interessante para o uso da população.
 
 
 ## 3. Equipe
@@ -26,6 +26,23 @@
 | <img src="./assets/membros/Bruno.png" width="100">       | Bruno Oliveira | eng-Bruno |
 
 </center>
+
+## 4. Aplicativos analisados
+&emsp;&emsp; Abaixo, temos os aplicativos analisados por cada membro da equipe, no qual usamos de parâmetro, para a escolha do apliativo "Noruh".
+
+- Eduardo Rodrigues:
+- Eurico Abreu: Correios
+- João Henrique: ConecteSus
+- Karla Chaiane: Reddit
+- Lucas Pimentel: Noruh
+- Bruno Oliveira: Spotify
+
+## 5. Histórico de Versão
+
+| Versão |                Alteração               | Responsável |         Revisor        |  Data |
+|:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
+|   1.0  |                    -                   | Lucas e João Henrique|     Eurico e Bruno     | 26/06 |
+|   2.0  |      Adicionando apps analisados       |  João Henrique      |     Lucas     | 03/07 |
 
 ## Referências
 - Site oficial do app Noruh (https://www.noruh.com/)

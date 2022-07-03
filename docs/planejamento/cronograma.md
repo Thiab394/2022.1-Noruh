@@ -1,7 +1,7 @@
 # Cronograma
 
 ## 1. Introdução
-&emsp;&emsp; O cronograma geral foi definido com base no próprio plano de ensino da disciplina. Dessa forma, nos organizamos de modo que iremos dividí-lo por entrega. E cada uma destas entregas será divida em atividades, cada uma delas com: data de entrega, responsáveis e revisores.
+&emsp;&emsp; O cronograma geral abaixo foi definido com base no próprio plano de ensino da disciplina. Dessa forma, nos organizamos de modo que iremos dividí-lo por entrega. E cada uma destas entregas será divida em atividades, cada uma delas com: data de entrega, responsáveis e revisores.
 
 ## 2. Cronograma Geral
 
@@ -20,21 +20,22 @@
 </center>
 
 ## 3. Cronograma por entrega
+&emsp;&emsp; Nesse cronograma abaixo por entrega colocamos as atividades realizadas para a entrega, os integrantes que as fizeram, o revisor das atividades e a data em que foi entregue. 
 ### 3.1 Entrega 1
 
 <center>
 
 |           Atividade          |          Responsável                 |    Revisor            |  Data |
 |:----------------------------:|:------------------------------------:|:---------------------:|:-----:|
-| Ver repostório da disciplina |             Todos                    |                       | 26/06 |
-|        Selecionar app        |             Todos                    |                       | 26/06 |
-|         Criar pagina         |     Lucas, João Henrique             |                       | 26/06 |
-|     Adicionar ferramentas    |     João Henrique, Eurico            |                       | 26/06 |
-|     Adicionar cronograma     |     Lucas, João Henrique, Eurico     |                       | 26/06 |
-|    Adicionar equipe/sobre    |     Lucas, João Henrique, Eurico     |                       | 26/06 |
-|         Rich picture         |             Lucas                    |    João Henrique      | 26/06 |
+| Ver repostório da disciplina |             Todos                    |       Todos                | 26/06 |
+|        Selecionar app        |             Todos                    |       Todos                | 26/06 |
+|         Criar pagina         |     Lucas, João Henrique             |  Eurico                    | 26/06 |
+|     Adicionar ferramentas    |     João Henrique, Eurico            |       Bruno                 | 26/06 |
+|     Adicionar cronograma     |     Lucas, João Henrique, Eurico     |       Eduardo                | 26/06 |
+|    Adicionar equipe/sobre    |     Lucas, João Henrique, Eurico     |       Karla                | 26/06 |
+|         Rich picture         |             Lucas                    |    João Henrique, Eurico      | 26/06 |
 |       Rich picture V2.0      |             Lucas                    | João Henrique, Eurico | 27/06 |
-|      Gravar apresentação     |   João, Karla, Lucas, Eurico, Bruno  |                       | 27/06 |
+|      Gravar apresentação     |   João Henrique, Karla, Lucas, Eurico, Bruno  |                       | 27/06 |
 
 </center>
 
@@ -51,12 +52,27 @@
 ### 3.7 Entrega 7
 
 ## 4. Tabela de Horários
+&emsp;&emsp; Essa tabela de horários foi feita baseado nos horários das pessoas, que de acordo com o seu número colocavam os horários que geralmente estariam disponíveis durante a semana para ficar mais fácil decidirmos os horários de encontro com o time.
 
-![Rich Picture de baixa fidelidade](../assets/membros/horarios.png)
-
+![Tabela de horários](../assets/membros/horarios.png)
 <center>
 Figura 1: Tabela de horários
 </center>
+### 4.1 Tabela de Horários usando "HeatMap"
+&emsp;&emsp; Essa tabela usando o "HeatMap", é a mesma da primeira, porém ilustrando melhor com as cores, demonstrando os horários livres dos integrantes do grupo.
+
+![HeatMap](../assets/membros/horariosV2.PNG)
+
+<center>
+Figura 2: Heatmap
+</center>
+
+### 4.2 Histórico de Versão Tabela de Horários
+
+| Versão |     Alteração     |  Responsável  |    Revisor    |  Data |
+|:------:|:-----------------:|:-------------:|:-------------:|:-----:|
+|   1.0  |         -         | João Henrique |     Lucas     | 23/06 |
+|   1.1  | Colorindo Células |     Lucas     | João Henrique | 03/07 |
 
 ## Referências
 - Plano de ensino da disciplina de Requisitos de Software Turma-02 2022
