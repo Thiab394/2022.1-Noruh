@@ -41,6 +41,22 @@
 
 ### 3.2 Entrega 2
 
+<center>
+
+|           Atividade          |          Responsável                 |    Revisor            |  Data |
+|:----------------------------:|:------------------------------------:|:---------------------:|:-----:|
+| Fazer brainstorming |    João Henrique, Karla, Bruno, Eurico, Lucas |       Todos           | 05/07 |
+|        Selecionar app        |             Todos                    |       Todos           | 26/06 |
+|         Criar pagina         |     Lucas, João Henrique             |  Eurico               | 26/06 |
+|     Adicionar ferramentas    |     João Henrique, Eurico            |       Bruno           | 26/06 |
+|     Adicionar cronograma     |     Lucas, João Henrique, Eurico     |       Eduardo         | 26/06 |
+|    Adicionar equipe/sobre    |     Lucas, João Henrique, Eurico     |       Karla           | 26/06 |
+|         Rich picture         |             Lucas                    | João Henrique, Eurico | 26/06 |
+|       Rich picture V2.0      |             Lucas                    | João Henrique, Eurico | 27/06 |
+|      Gravar apresentação     |   João Henrique, Karla, Lucas, Eurico, Bruno|                  | 27/06 |
+
+</center>
+
 ### 3.3 Entrega 3
 
 ### 3.4 Entrega 4
