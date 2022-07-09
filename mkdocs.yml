@@ -6,8 +6,18 @@ nav:
         - 'Ferramentas': './planejamento/ferramentas.md'
     - Pré-Rastreabilidade:
         - 'Rich Picture': './pre-rastreabilidade/RichPicture.md'
+    - Elicitação: 
+        - 'Personas': './elicitacao/personas.md'
+        - Técnicas:
+            - 'Brainstorm': './elicitacao/tecnicas/brainstorm.md'
+            - 'Introspecção': './elicitacao/tecnicas/introspeccao.md'
+            - 'Observação': './elicitacao/tecnicas/observacao.md'
+        - Priorização:
+            - 'MoSCoW': './elicitacao/priorizacao/moscow.md'
+        - 'Resultados': './elicitacao/resultados.md'
     - Apresentações:
         - 'Apresentação 1': './apresentacoes/apresentacao1.md'
+    
         
 theme:
   name: material

@@ -46,14 +46,13 @@
 |           Atividade          |          Responsável                 |    Revisor            |  Data |
 |:----------------------------:|:------------------------------------:|:---------------------:|:-----:|
 | Fazer brainstorming |    João Henrique, Karla, Bruno, Eurico, Lucas |       Todos           | 05/07 |
-|        Selecionar app        |             Todos                    |       Todos           | 26/06 |
-|         Criar pagina         |     Lucas, João Henrique             |  Eurico               | 26/06 |
-|     Adicionar ferramentas    |     João Henrique, Eurico            |       Bruno           | 26/06 |
-|     Adicionar cronograma     |     Lucas, João Henrique, Eurico     |       Eduardo         | 26/06 |
-|    Adicionar equipe/sobre    |     Lucas, João Henrique, Eurico     |       Karla           | 26/06 |
-|         Rich picture         |             Lucas                    | João Henrique, Eurico | 26/06 |
-|       Rich picture V2.0      |             Lucas                    | João Henrique, Eurico | 27/06 |
-|      Gravar apresentação     |   João Henrique, Karla, Lucas, Eurico, Bruno|                  | 27/06 |
+|        Fazer personas        |  Eurico |     João Henrique, Karla, Bruno,Lucas    | 09/07 |
+|         Criar questionário   |     Lucas, João Henrique             |  Eurico               | 09/07 |
+|     Fazer introspecção       |     João Henrique, Lucas, Karla, Bruno            |       Eurico           | 09/07 |
+|     Fazer observação         |     Lucas, João Henrique, Bruno, Karla, Eurico    |       Todos         | 09/07 |
+|    Fazer priorização(MoSCoW)        |     Lucas, João Henrique, Eurico, Bruno, Karla  |     Todos           | 09/07 |
+|         Ver Resultados       |             Lucas                    | João Henrique, Eurico | 09/07 |
+|      Gravar apresentação     |   João Henrique, Karla, Lucas, Eurico, Bruno|                | 27/06 |
 
 </center>
 
@@ -89,6 +88,7 @@ Figura 2: Heatmap
 |:------:|:-----------------:|:-------------:|:-------------:|:-----:|
 |   1.0  |         -         | João Henrique |     Lucas     | 23/06 |
 |   1.1  | Colorindo Células |     Lucas     | João Henrique | 03/07 |
+|   2.0  | Cronograma entrega 2 | João Henrique, Bruno | Lucas | 03/07 |
 
 ## Referências
 - Plano de ensino da disciplina de Requisitos de Software Turma-02 2022
