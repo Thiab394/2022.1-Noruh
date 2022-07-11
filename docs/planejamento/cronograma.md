@@ -51,7 +51,7 @@
 |     Fazer introspecção       |     João Henrique, Lucas, Karla, Bruno            |       Eurico           | 09/07 |
 |     Fazer observação         |     Lucas, João Henrique, Bruno, Karla, Eurico    |       Todos         | 09/07 |
 |    Fazer priorização(MoSCoW)        |     Lucas, João Henrique, Eurico, Bruno, Karla  |     Todos           | 09/07 |
-|         Ver Resultados       |             Lucas                    | João Henrique, Eurico | 09/07 |
+|         Ver Resultados       |             João Henrique                   | Todos | 09/07 |
 |      Gravar apresentação     |   João Henrique, Karla, Lucas, Eurico, Bruno|                | 27/06 |
 
 </center>
