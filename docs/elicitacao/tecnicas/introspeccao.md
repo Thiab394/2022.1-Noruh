@@ -21,9 +21,9 @@
 | 5    | O usuário deve poder gerenciar o estoque de seu estabelecimento pelo app |
 | 6    | O usuário deve poder solicitar a conta para o pagamento fora do app |
 
-| Número | Requisitos não Funcionais|Prioridade
-| :------: | :--------------------------------------------------: |   |
-| 1    | O sistema deve ter integração com o sistema do restaurante |  |
+| Número | Requisitos não Funcionais|
+| :------: | :--------------------------------------------------: |  
+| 1    | O sistema deve ter integração com o sistema do restaurante | 
 
 ## Referências
 - BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. Rio de Janeiro. Elsevier Editora Ltda. 2010
