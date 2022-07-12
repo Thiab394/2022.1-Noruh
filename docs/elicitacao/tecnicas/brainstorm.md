@@ -39,18 +39,18 @@
 | 7    | O usuário deve poder abrir uma comanda a partir da leitura do QR Code       |
 | 8    | O usuário deve poder realizar pagamentos        |
 | 9    | O usuário deve poder avaliar restaurantes e bares      |
-| 10    | O usuário deve poder filtrar restaurantes por categorias       |
-| 11    | O usuário deve poder acompanhar seu pedido pelo ifood        |
-| 12    | O usuário deve poder editar seu perfil        |
-| 13    | O usuário deve poder ver restaurantes abertos no momento         |
-| 14    | O usuário deve poder filtrar restaurante por avalição       |
-| 15    | O usuário deve poder ver estabelecimentos com promoções        |
-| 16    | O usuário deve poder receber notificações sobre o andamento do pedido        |
-| 17    | O usuário deve poder pesquisar restaurantes        |
-| 18    | O usuário deve poder acessar histórico de contas       |
-| 19    | O usuário deve poder ter acesso aos termos de uso        |
-| 20    | O usuário deve poder ver a localização dos estabelecimentos a partir do google maps        |
-| 21    | O usuário deve poder ver uma breve descrição sobre o restaurante ou bar         |
+| 10   | O usuário deve poder filtrar restaurantes por categorias       |
+| 11   | O usuário deve poder acompanhar seu pedido pelo ifood        |
+| 12   | O usuário deve poder editar seu perfil        |
+| 13   | O usuário deve poder ver restaurantes abertos no momento         |
+| 14   | O usuário deve poder filtrar restaurante por avalição       |
+| 15   | O usuário deve poder ver estabelecimentos com promoções        |
+| 16   | O usuário deve poder receber notificações sobre o andamento do pedido        |
+| 17   | O usuário deve poder pesquisar restaurantes        |
+| 18   | O usuário deve poder acessar histórico de contas       |
+| 19   | O usuário deve poder ter acesso aos termos de uso        |
+| 20   | O usuário deve poder ver a localização dos estabelecimentos a partir do google maps        |
+| 21   | O usuário deve poder ver uma breve descrição sobre o restaurante ou bar         |
 
 
 <figcaption>Tabela 1: Requisitos funcionais.</figcaption>

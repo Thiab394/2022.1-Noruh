@@ -47,12 +47,12 @@
 |:----------------------------:|:------------------------------------:|:---------------------:|:-----:|
 | Fazer brainstorming |    João Henrique, Karla, Bruno, Eurico, Lucas |       Todos           | 05/07 |
 |        Fazer personas        |  Eurico |     João Henrique, Karla, Bruno,Lucas    | 09/07 |
-|         Criar questionário   |     Lucas, João Henrique             |  Eurico               | 09/07 |
+|         Criar questionário   |     Lucas, João Henrique             |  Todos               | 09/07 |
 |     Fazer introspecção       |     João Henrique, Lucas, Karla, Bruno            |       Eurico           | 09/07 |
 |     Fazer observação         |     Lucas, João Henrique, Bruno, Karla, Eurico    |       Todos         | 09/07 |
 |    Fazer priorização(MoSCoW)        |     Lucas, João Henrique, Eurico, Bruno, Karla  |     Todos           | 09/07 |
 |         Ver Resultados       |             Lucas                    | João Henrique, Eurico | 09/07 |
-|      Gravar apresentação     |   João Henrique, Karla, Lucas, Eurico, Bruno|                | 27/06 |
+|      Gravar apresentação     |   João Henrique, Karla, Lucas, Eurico, Bruno|                | 11/07 |
 
 </center>
 

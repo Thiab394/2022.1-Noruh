@@ -12,6 +12,7 @@ nav:
             - 'Brainstorm': './elicitacao/tecnicas/brainstorm.md'
             - 'Introspecção': './elicitacao/tecnicas/introspeccao.md'
             - 'Observação': './elicitacao/tecnicas/observacao.md'
+            - 'Questionário': './elicitacao/tecnicas/questionario.md'
         - Priorização:
             - 'MoSCoW': './elicitacao/priorizacao/moscow.md'
         - 'Resultados': './elicitacao/resultados.md'
