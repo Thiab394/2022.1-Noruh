@@ -19,6 +19,11 @@ nav:
     - Apresentações:
         - 'Apresentação 1': './apresentacoes/apresentacao1.md'
         - 'Apresentação 2': './apresentacoes/apresentacao2.md'
+    - Modelagem:
+        - 'Especificação Suplementar': './modelagem/especificacao.md'
+        - 'Cenários': './modelagem/cenarios.md'
+        - 'Léxicos': './modelagem/lexicos.md'
+        - 'Casos de Uso': './modelagem/casosDeUso.md'
     
         
 theme:
