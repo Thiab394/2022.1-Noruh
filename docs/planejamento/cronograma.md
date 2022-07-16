@@ -58,6 +58,18 @@
 
 ### 3.3 Entrega 3
 
+<center>
+
+|           Atividade          |          Responsável                 |    Revisor            |  Data |
+|:----------------------------:|:------------------------------------:|:---------------------:|:-----:|
+| Fazer Especificação Suplementar |    Eurico |       Todos           | - |
+|        Fazer Cenários        |  João Henrique |     Todos    | 16/07 |
+|         Fazer léxicos   |     Bruno e Karla             |  Todos               | - |
+|     Fazer casos de uso       |     Lucas            |       Todos           | - |
+|      Gravar apresentação     |   João Henrique, Karla, Lucas, Eurico, Bruno|                | - |
+
+</center>
+
 ### 3.4 Entrega 4
 
 ### 3.5 Entrega 5
@@ -89,6 +101,7 @@ Figura 2: Heatmap
 |   1.0  |         -         | João Henrique |     Lucas     | 23/06 |
 |   1.1  | Colorindo Células |     Lucas     | João Henrique | 03/07 |
 |   2.0  | Cronograma entrega 2 | João Henrique, Bruno | Lucas | 03/07 |
+|   3.0  | Cronograma entrega 3 | João Henrique | Lucas | 16/07 |
 
 ## Referências
 - Plano de ensino da disciplina de Requisitos de Software Turma-02 2022
