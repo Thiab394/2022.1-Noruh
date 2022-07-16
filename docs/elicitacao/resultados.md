@@ -38,7 +38,7 @@
 | 24   | O usuário deve poder ver uma breve descrição sobre o restaurante ou bar  |Brainstorm |
 | 25    | O usuário deve receber as avaliações dos seus clientes |Introspecção|
 | 26    | O usuário deve poder adicionar multiplas formas de pagamento |Observação|
-| 37    | O usuário deve poder ter a opção de parcelar seus pagamentos quando possível | Observação|
+| 27    | O usuário deve poder ter a opção de parcelar seus pagamentos quando possível | Observação|
 | 28   | O usuário deve poder filtrar restaurantes pela localização       |Brainstorm |
 | 29   | O usuário deve poder avaliar restaurantes e bares             | Brainstorm|
 | 30   | O usuário deve poder filtrar restaurantes por categorias       |Brainstorm|
@@ -67,3 +67,4 @@
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    João Henrique  | Todos | 09/07 |
+|   1.0.1  |                    Arrumando a numeração do RF27                   |    João Henrique  | Todos | 09/07 |
