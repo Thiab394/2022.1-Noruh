@@ -154,12 +154,12 @@
 |**Noção**| Lista das últimas contas realizadas no aplicativo |
 |**Impacto**| Acesso rápido ao histórico de contas. |
 
-## Referências
-
-- Léxico Aplicado da Linguagem (Resumo). Disponível em: http://www-di.inf.puc-rio.br/~julio/lal.pdf/. Acesso em 17/06/2022.
-
 ## Histórico de Versão
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    Karla    |          Bruno         | 17/07/22 |
+
+## Referências
+
+- Léxico Aplicado da Linguagem (Resumo). Disponível em: http://www-di.inf.puc-rio.br/~julio/lal.pdf/. Acesso em 17/06/2022.
