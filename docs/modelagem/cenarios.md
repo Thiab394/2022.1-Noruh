@@ -137,12 +137,14 @@
 | **Exceção**          |              -Falta de bateria no dispositivo;<br>-Falta de internet;<br>-Falta de uma forma de pagamento             |
 | **Episódios**        |              -Usuário clica no restaurante em que se encontra;<br>O usuário clica em "Abrir comanda por qr code" ou "Retirar no balcão";<br>O usuário clica escolhe o produto de sua escolha do restaurante;<br>O usuário adiciona no carrinho;<br> O usuário escolhe a forma de pagamento para pagar no estabelecimento e faz o pedido para consumir no estabelecimento;<br>-O usuário recebe a nota fiscal           |
 | **Rastreabilidade**  |              RF3, RF4, RF5, RF7, RF12, RF17, RF19             |
-## Referências
-- http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf
-- http://pes.inf.puc-rio.br/cel/index_old.htm
+
 
 ## Histórico de Versão
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    João Henrique  |  Eurico, Karla, Bruno, Lucas | 16/07 |
+
+## Referências
+- http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf
+- http://pes.inf.puc-rio.br/cel/index_old.htm

@@ -21,11 +21,14 @@
 | 6    | O usuário deve receber notificações sobre o andamento da fila de espera |
 | 7    | O usuário deve poder ter a opção de parcelar seus pagamentos quando possível |
 
-## Referências
-- AURUM, Aybuke; WOHLIN, Claes. Engineering and Managing Software Requirements. Springer, 2005
+
 
 ## Histórico de Versão
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    João Henrique, Bruno, Karla, Lucas  | Eurico | 09/07 |
+
+
+## Referências
+- AURUM, Aybuke; WOHLIN, Claes. Engineering and Managing Software Requirements. Springer, 2005
