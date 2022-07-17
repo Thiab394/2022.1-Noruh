@@ -62,7 +62,7 @@
 
 |           Atividade          |          Responsável                 |    Revisor            |  Data |
 |:----------------------------:|:------------------------------------:|:---------------------:|:-----:|
-| Fazer Especificação Suplementar |    Eurico |       Todos           | - |
+| Fazer Especificação Suplementar |    Eurico |       Todos           | 17/07 |
 |        Fazer Cenários        |  João Henrique |     Todos    | 16/07 |
 |         Fazer léxicos   |     Bruno e Karla             |  Todos               | - |
 |     Fazer casos de uso       |     Lucas            |       Todos           | - |
