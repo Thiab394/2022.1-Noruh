@@ -38,7 +38,7 @@
 </figcaption>
 
 ## 3. Casos de Uso Noruh
-&emsp;&emsp;Para uma melhor vizualização, dividimos os casos de uso em fluxos que agrupam casos de usos semelhantes. Os diagramas para estes casos de uso podem ser encontrados a partir dos links abaixo:
+&emsp;&emsp;Para uma melhor vizualização, dividimos os diagramas em fluxos que agrupam casos de usos semelhantes, estes podem ser econtrados a partir dos links abaixo:
 
 - [Fluxo de Conta](../modelagem/Diagramas/CasoDeUso1.md)
 - [Fluxo de Pedido](../modelagem/Diagramas/CasoDeUso2.md)
