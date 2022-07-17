@@ -25,12 +25,12 @@
 | :------: | :--------------------------------------------------: |  
 | 1    | O sistema deve ter integração com o sistema do restaurante | 
 
-## Referências
-- BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. Rio de Janeiro. Elsevier Editora Ltda. 2010
-
 
 ## Histórico de Versão
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    João Henrique,Bruno, Karla, Lucas  | Eurico | 09/07 |
+
+## Referências
+- BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. Rio de Janeiro. Elsevier Editora Ltda. 2010

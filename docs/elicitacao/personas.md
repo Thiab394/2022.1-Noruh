@@ -57,12 +57,13 @@
  <p>Expectativas: Ter um atendimento rápido, com pouco uso de tecnologia e pagar somente em dinheiro.</p>
  <p>&emsp;&emsp;Inácio tem 71 anos, mora com sua esposa em uma fazenda, e aos sábados, vai até a cidade fazer as compras da semana, e ao fim do dia gosta de ir no bar tomar uma cerveja. Tem dificuldade de mexer com tecnologia e prefere sempre pagar em dinheiro em espécie.</p>
 
-## Referências
-<p>Alan Cooper; Robert Reimann; David Cronin; <b>About Face: The Essentials of Interaction Design 3</b></p>
-<p>Maurício Viana; [et al.]; <b>Design Thinking: Inovação em Negócios</b></p>
 
 ## Histórico de Versão
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    Eurico  | João Henrique, Karla, Bruno. Lucas | 09/07 |
+
+## Referências
+- Alan Cooper; Robert Reimann; David Cronin; About Face: The Essentials of Interaction Design 3
+- Maurício Viana; [et al.]; Design Thinking: Inovação em Negócios
