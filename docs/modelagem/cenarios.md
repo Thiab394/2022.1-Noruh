@@ -1,7 +1,7 @@
 # Cenarios
 
 ## 1.Introdução
-&emsp;&emsp;A modelagem utilizando Cenários, é utilizada como uma forma de compreender melhor, as interações entre o usuário e sistema , buscando obter uma descrição completa de uma atividade que o usuário utiliza.
+&emsp;&emsp;A criação de Cenários na modelagem de requisitos, é uma etapa importante e de grande valor. A modelagem de requisitos por Cenários, é utilizada como uma forma de compreender melhor, as interações entre o usuário e sistema , buscando dessa forma obter uma descrição completa de uma atividade que o usuário utiliza.
 ## 2.Metodologia
 
 | Elementos |                Respostas              |
@@ -144,6 +144,7 @@
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    João Henrique  |  Eurico, Karla, Bruno, Lucas | 16/07 |
+|   1.1  |            Melhora da Introdução       |    João Henrique  |  Eurico, Karla, Bruno, Lucas | 17/07 |
 
 ## Referências
 - http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf
