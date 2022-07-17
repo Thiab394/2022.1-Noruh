@@ -1,62 +1,57 @@
-# Habet fert pete Manto orbae iamque quem
+# Especificação suplementar
 
-## Aprum Ceyx silvas
+## 1. Introdução
+<p>&emsp;&emsp;A especificação suplementar é um documento em linguagem natural, constituído pela descrição dos requisitos não funcionais. Como a metodologia escolhida foi a FURPS+, as principais categorias de requisitos serão as seguintes: funcionabilidade, usabilidade, confiabilidade, suportabilidade e desempenho. Além desses, temos também os requisitos de design, de implementação, de interface e físicos.</p>
 
-Lorem markdownum Aesoniden Phinea! Nais tincta Harpyia, de urbis de sororem
-certe crepitantia, tamen Nemeaeo duritiam!
+## 2. Metodologia
+<p>&emsp;&emsp;A metodologia escolhida para a definição dos requisitos foi a FURPS+. Essa metodologia classifica os requisitos com os atributos de qualidade de software. A sigla FURPS+ representa essas classificações, sendo elas:</p>
 
-- Muro cognatas de surgit accessit et sonum
-- Amores ceram inque ergo esse
-- Haerens simulavimus nam Arcade moto virgultis vimque
-- Illa per mittit
-- Iam et fratrem laverat orasse
-- Lapsis spatioso spem
+* Funcionabilidade: representa o aspecto funcional do software
+* Usabilidade: atributo que avalia a interface do usuário
+* Confiabilidade: refere-se a integridade, conformidade e interoperabilidade do software
+* Desempenho: requisitos de desempenho do software
+* Suportabilidade: várias características, como por exemplo: testabilidade, adaptabilidade, manutenibilidade, compatibilidade entre outras
 
-## Ad longis terras votis nigrumque fluitare
+- O "+" na sigla FURPS+, é referente aos seguintes outros requisitos não funcionais:
 
-Denique o mugire Battum comaeque. Domoque subita sic ille satis *molarem*: latis
-ignem caede quem bis agmen, At tenet gaudete vitiorum, tua. Foret longa oppida;
-nec dique ausis valebant an tecta tenet dives gravitas teneras? Non tu sunt, ad
-excipiunt puerili laevo, pererrat.
+* Design: especifica ou restringe o design de um sistema
+* Implementação: especifica ou restringe o código ou a construção de um sistema
+* Interface: especifica ou restringe as funcionalidades da interface do sistema com o usuário
+* Físico: especifica uma limitação física do hardware
 
-    halftone_southbridge.network_meta += 323432;
-    if (ppga_osd <= beta) {
-        im = serviceControl(dock(9, matrix_parallel_samba));
-        goldenPcbSupply.firmware_camera_disk += array(udpDiskUnfriend,
-                frameworkNetFreeware);
-    }
-    e(click_gpu_debugger(dslam(dongleVdsl, 87, hub)), header_network.linuxHard(
-            5));
+## 3. Especificação suplementar
+### 3.1 Funcionalidade
+&emsp;&emsp;Os requisitos funcionais podem ser encontrados nos casos de uso, ou então por esse [link](https://github.com/Requisitos-de-Software/2022.1-Grupo-05/blob/main/docs/modelagem/casosDeUso.md).
 
-## Veste ducere famulis teli quos
+### 3.2 Usabilidade
+- O sistema deve ser fácil de aprender.
+- O sistema deve ser fácil de se usar.
+### 3.3 Desempenho
+- O sistema deve ter um tempo de resposta de no máximo 100ms.
+- O sistema não pode sobrecarregar o dispositivo do usuário.
+- As buscas dentro do sistema não podem ultrapassar os 3 segundos.
+### 3.4 Suportabilidade
+- O sistema tem que estar disponível na PlayStore (android) e na AppStore (Apple).
+- O sistema tem que suportar 10 mil usuários simultâneos.
+- O sistema deve suportar o cadastro de 1 milhão de usuários.
+### 3.5 Design
+- O sistema deve seguir uma paleta de cores pré definida
+### 3.6 Implementação
+- O sistema deve ser compativel com android e IOS.
+- O sistema não deve ocupar mais que 20mb.
+### 3.7 Interface
+- A interface deve ter um padrão em todas as telas para facilitar o uso e entendimento do usuário.
+- A interface deve ser responsiva.
+### 3.8 Físico
+- O dispositivo Android deve estar na versão 8.0 ou superior.
+- O dispositivo IOS deve estar na versão IOS 11 ou superior.
 
-Nitorem puto visam, leve animosa quibus, ingentia in aestu, ait ulla hiatus non,
-illis *est* parentem? Quatere ut precaria glaciali stimulosque [montes
-nabat](http://quos.net/deducitursibi.html) litora tempora capacem: times carpe,
-avis vetus patria pennas, et. Virgo vinci Corythus aut
-[nulla](http://www.unus.net/maior) Mavors Phrygia: ait vox? Cretus et **dis**
-pia quae tacuit abit requiras, te pro, humum est. Posco latus Aeacon insequitur
-Achillem sustinet.
+## 4. Referências
+- FURPS+ [https://qualidadebr.wordpress.com/2008/07/10/furps/], acesso em 17 de julho de 2022
+- Eberlein, Armin; [Agile Requirements Definition: A View from Requirements Engineering]
 
-    if (inkjet_monochrome_dns(logic_domain, desktop_modem, text_screenshot) +
-            text > 3) {
-        remote += reimage_winsock_captcha(slaCtrPage);
-        ad = bareMirror * 5;
-        animated /= heuristicAcl;
-    }
-    if (rootkitEncodingOptical(menu_threading_mysql - unicodeWpaSubdirectory) <=
-            usb - adDaemonExtension) {
-        binIsoDirectory = computing_insertion_pharming.windows(-3 +
-                javaPeopleware, log(language));
-        format = northbridgeCommerce(-5, frequencySwipe, 5);
-    }
-    engineUser = dram;
-    if (software - retina_paste_tweak > lpi_streaming_hyperlink) {
-        wpaLeak(text, cycle);
-    }
+## Histórico de Versão
 
-Et resistit motaque venae arcitenens videt reverentia caper flava, et decoro
-undae. Et flentibus pudorem non disque, cum militia, Larisaea surgit per.
-Ignigenamque mortali *fata vertet*; ac silvae classe fatorum; venenum, exercere
-vigor. Silet dum pressit: invidiosa armamentis edidit regunt metitur frangitur
-ambiguum [sanguine](http://videre.com/quodam.html).
+| Versão |                Alteração               | Responsável |         Revisor        |  Data |
+|:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
+|   1.0  | Criação do documento           |    Eurico  | - | 17/07 |
