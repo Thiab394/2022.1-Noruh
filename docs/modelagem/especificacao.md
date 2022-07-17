@@ -21,7 +21,7 @@
 
 ## 3. Especificação suplementar
 ### 3.1 Funcionalidade
-&emsp;&emsp;Os requisitos funcionais podem ser encontrados nos casos de uso, ou então por esse [link](https://github.com/Requisitos-de-Software/2022.1-Grupo-05/blob/main/docs/modelagem/casosDeUso.md).
+&emsp;&emsp;Os requisitos funcionais podem ser encontrados nos casos de uso, ou então por esse [link](../modelagem/casosDeUso.md).
 
 ### 3.2 Usabilidade
 - O sistema deve ser fácil de aprender.
