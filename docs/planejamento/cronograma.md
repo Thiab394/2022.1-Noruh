@@ -68,7 +68,7 @@
 | Fazer Especificação Suplementar |                   Eurico                   |            Todos             | 17/07 |
 |         Fazer Cenários          |               João Henrique                |            Todos             | 16/07 |
 |          Fazer léxicos          |               Bruno e Karla                | Eurico, João Henrique, Lucas | 18/07 |
-|       Fazer casos de uso        |                   Lucas                    |            Todos             |   -   |
+|       Fazer casos de uso        |                   Lucas                    |            Todos             |   17/07   |
 |       Gravar apresentação       | João Henrique, Karla, Lucas, Eurico, Bruno |                              |   -   |
 
 </center>
