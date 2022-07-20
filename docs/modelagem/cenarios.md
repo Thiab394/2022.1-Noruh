@@ -113,7 +113,7 @@
 | **Episódios**        |              -Usuário clica no botão de mudar a cidade;<br>Usuário escolhe Brasília(ou qualquer outra que o Noruh possui acesso)             |
 | **Rastreabilidade**  |              RF12             |
 
-### Caso 10: Pedido no estabelecimento
+### Caso 9: Pedido no estabelecimento
 
 | Elementos |                Respostas              |
 |:------:|:----------------------------------------:|
