@@ -38,7 +38,7 @@
 | **Recursos**         |              -Dispositivo com acesso à internet;<br>Dispositivo com bateria;-Dispositivo suportado pelo Noruh            |
 | **Exceção**          |              -Queda de energia; <br>-falta de internet;<br>-Dispositivo não suporta o Noruh              |
 | **Episódios**        |              - Na tela inicial usuário clica na sua conta no canto superior esquerdo;<br>- Usuário clica em "Sair" da conta;<br>- Usuário clica em cadastrar nova conta pela conta Google;<br>Usuário clica em aceitar os termos e condições;<br>-Usuário coloca seus dados;<br>Usuário cria a conta            |
-| **Rastreabilidade**  |             -RF1, RF2, RF8, RF14             |
+| **Rastreabilidade**  |             -RF1, RF2, RF8, RF11             |
 
 ### Caso 3: Cadastrar endereço
 
@@ -50,7 +50,7 @@
 | **Recursos**         |              -Dispositivo com acesso à internet;<br>-Dispositivo suportado pelo Noruh;<br>-Dispositivo ter acesso à localização            |
 | **Exceção**          |              -Falta de bateria no dispositivo;<br>-Falta de internet;<br>-Dispositivo não ter acesso à localização            |
 | **Episódios**        |              -Usuário clica no botão de perfil no superior esquerdo da tela inicial;<br>-Usuário clica em "Endereços";<br>-Usuário clica em "+", para adicionar endereço;<br>-Usuário adiciona informações do endereço;<br>-Usuário salva o endereço             |
-| **Rastreabilidade**  |              -RF16             |
+| **Rastreabilidade**  |              -RF29             |
 
 ### Caso 4: Cadastrar forma de pagamento
 
@@ -62,7 +62,7 @@
 | **Recursos**         |              -Dispositivo com acesso à internet;<br>-Dispositivo suportado pelo Noruh;<br>- Ter uma forma de pagamento             |
 | **Exceção**          |              -Falta de bateria no dispositivo;<br>-Falta de internet;<br>-Não ter uma forma de pagamento             |
 | **Episódios**        |              -Usuário clica no botão de perfil no superior esquerdo da tela inicial;<br>-Usuário clica em "Formas de pagamento";<br>-Usuário clica em "+", para adicionar forma de pagamento;<br>-Usuário adiciona informações do seu cartão de crédito;<br>-Usuário salva seu cartão no aplicativo              |
-| **Rastreabilidade**  |              -RF18             |
+| **Rastreabilidade**  |              -RF14             |
 
 ### Caso 5: Pesquisa de estabelecimentos
 
@@ -74,7 +74,7 @@
 | **Recursos**         |              -Dispositivo com acesso à internet;<br>-Dispositivo suportado pelo Noruh;<br> O aplicativo possuir acesso à sua localização           |
 | **Exceção**          |              -Falta de bateria no dispositivo;<br>Falta de internet;            |
 | **Episódios**        |              -Usuário abre o aplicativo;<br>-Usuário clica no filtro "aberto agora";<br>Usuário clica no filtro "Destaques";Usuário clica no filtro "Descontos";Usuário clica no filtro "cozinhas" e seleciona a desejada;<br>Usuário clica no filtro "Próximos a você";<br>Após toda a pesquisa, o usuário escolhe o esabelecimento que mais o agradou      |
-| **Rastreabilidade**  |              -RF9,RF15, RF21, RF24, RF28, RF29, RF30, RF31, RF32             |
+| **Rastreabilidade**  |              -RF9,RF12, RF16, RF19, RF22, RF23, RF24, RF25, RF26             |
 
 ### Caso 6: Formas de pagamento
 
@@ -86,7 +86,7 @@
 | **Recursos**         |              -Dispositivo com acesso à internet;<br>-Dispositivo suportado pelo Noruh;<br> O usuário ter uma forma de pagamento             |
 | **Exceção**          |              -Falta de bateria no dispositivo;<br>-Falta de internet;<br>-Falta de uma forma de pagamento             |
 | **Episódios**        |              -Usuário abre o aplicativo; <br>Usuário clica em seu perfil no botão superior esquerdo;<br>Usuário clica em "formas de pagamento";<br>Usuário adiciona seu cartão de crédito;<br>Usuário volta pra tela de início;<br>Usuário escolhe o restaurante desejado;<br>Usuário faz o pedido para comer no local;<br>Usuário escolhe a forma de pagamento parcelada no cartão de crédito;<br>Usuário faz o pagamento pelo cartão de crédito cadastrado;<br>-O usuário recebe a nota fiscal;<br>Usuário recebe o pedido;<br>-Usuário avalia o pedido            |
-| **Rastreabilidade**  |              -RF4, RF5, RF6, RF7, RF12, RF17, RF18, RF19, RF25, RF26, RF27     |
+| **Rastreabilidade**  |              -RF4, RF5, RF6, RF7, RF13, RF15, RF20, RF21     |
 
 ### Caso 7: Edição do perfil 
 
@@ -111,20 +111,7 @@
 | **Recursos**         |              -Dispositivo com acesso à internet;<br>-Dispositivo suportado pelo Noruh             |
 | **Exceção**          |              -Falta de bateria no dispositivo;<br>-Falta de internet             |
 | **Episódios**        |              -Usuário clica no botão de mudar a cidade;<br>Usuário escolhe Brasília(ou qualquer outra que o Noruh possui acesso)             |
-| **Rastreabilidade**  |              RF15             |
-
-### Caso 9: Pedido delivery
-
-| Elementos |                Respostas              |
-|:------:|:----------------------------------------:|
-| **Objetivo**         |              Usuário do Noruh fazer pedidos delivery            |
-| **Contexto**         |              -Local: Tela do restaurante selecionado;<br>-Tempo: 1 a 4 minutos; <br> -Pré condição: A pessoa ter como pagar, ter acesso à internet e energia(bateria) no seu dispositivo              |
-| **Atores**           |              Usuário do Noruh            |
-| **Recursos**         |              -Dispositivo com acesso à internet;<br>-Dispositivo suportado pelo Noruh;<br>-Possuir uma forma de pagamento;<br>-O aplicativo possuir acesso à sua localização            |
-| **Exceção**          |              -Falta de energia(bateria);<br>-Falta de internet;<br>-Falta de forma de pagamento;<br>-O aplicativo não ter acesso à sua localização            |
-| **Episódios**        |              -Usuário pesquisa e clica no botão do estabelecimento desejado;<br>-Usuário clica no botão para abrir a comanda por Qr code ou outra forma;<br>-Usuário clica e escolhe o produto;<br>-Usuário clica no botão de entrega;<br>-Usuário cadastra seu endereço de entrega;<br>-Usuário clica na forma de pagamento e escolhe cartão de crédito salvo na conta;<br>-Usuário confirma o pedido;<br>-O usuário recebe a nota fiscal; Usuário recebe informações sobre sua entrega via Ifood            |
-| **Rastreabilidade**  |       RF4, RF5, RF7, RF12, RF16, RF19, RF20, RF22,                  |
-
+| **Rastreabilidade**  |              RF12             |
 
 ### Caso 10: Pedido no estabelecimento
 
@@ -136,7 +123,7 @@
 | **Recursos**         |              -Dispositivo com acesso à internet;<br>-Dispositivo suportado pelo Noruh;<br>-Possuir uma forma de pagamento;<br>            |
 | **Exceção**          |              -Falta de bateria no dispositivo;<br>-Falta de internet;<br>-Falta de uma forma de pagamento             |
 | **Episódios**        |              -Usuário clica no restaurante em que se encontra;<br>O usuário clica em "Abrir comanda por qr code" ou "Retirar no balcão";<br>O usuário clica escolhe o produto de sua escolha do restaurante;<br>O usuário adiciona no carrinho;<br> O usuário escolhe a forma de pagamento para pagar no estabelecimento e faz o pedido para consumir no estabelecimento;<br>-O usuário recebe a nota fiscal           |
-| **Rastreabilidade**  |              RF3, RF4, RF5, RF7, RF12, RF17, RF19             |
+| **Rastreabilidade**  |              RF3, RF4, RF5, RF7, RF13, RF15             |
 
 
 ## Histórico de Versão
@@ -145,6 +132,7 @@
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    João Henrique  |  Eurico, Karla, Bruno, Lucas | 16/07 |
 |   1.1  |            Melhora da Introdução       |    João Henrique  |  Eurico, Karla, Bruno, Lucas | 17/07 |
+|   1.2  |            Arrumando rastreabilidade       |    João Henrique,Lucas  |  Eurico, Karla, Bruno | 19/07 |
 
 ## Referências
 - http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf

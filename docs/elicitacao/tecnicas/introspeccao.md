@@ -20,6 +20,7 @@
 | 4    | O usuário deve ter emitir notas ficais pelo sistema |
 | 5    | O usuário deve poder gerenciar o estoque de seu estabelecimento pelo app |
 | 6    | O usuário deve poder solicitar a conta para o pagamento fora do app |
+| 7    | O usuário deve conseguir cadastrar múltiplos endereços |
 
 | Número | Requisitos não Funcionais|
 | :------: | :--------------------------------------------------: |  

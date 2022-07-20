@@ -12,40 +12,34 @@
 
 | Número | Requisito | Técnica |
 | :------: | :------------------------------------------------:|:--------:|
-| 1    | O usuário deve poder criar uma conta                            | Brainstorm |
-| 2    | O usuário deve poder realizar login na conta                    | Brainstorm|
-| 3    | O usuário deve poder fazer pedidos                              | Brainstorm |
-| 4    | O usuário deve poder acessar o cardápio                         |Brainstorm|
-| 5    | O usuário deve poder abrir uma comanda a partir da leitura do QR Code |  Brainstorm|
-| 6   | O usuário deve poder editar seu perfil        |Brainstorm|
-| 7   | O usuário deve poder pesquisar restaurantes        | Brainstorm|
-| 8   | O usuário deve poder ter acesso aos termos de uso  |  Brainstorm|
-| 9   | O usuário deve poder ver a localização dos estabelecimentos a partir do google maps | Brainstorm |
-| 10    | O usuário deve conseguir cadastrar seu restaurante |Introspecção |
-| 11    | O usuário deve conseguir receber o dinheiro dos pagamentos feitos pelos clientes pelo aplicativo |Introspecção|
-| 12    | O usuário deve ter emitir notas ficais pelo sistema |Introspecção|
-| 13    | O usuário deve poder gerenciar o estoque de seu estabelecimento pelo app |Introspecção|
-| 14    | O usuário deve fazer logout do perfil |Observação|
-| 15    | O usuário deve poder selecionar a cidade em que deseja buscar restaurantes/bares |Observação|
-| 16    | O usuário deve poder cadastrar endereços para entregas|Observação|
-| 17    | O usuário deve poder solicitar a conta para o pagamento fora do app |Instrospecção |
-| 18   | O usuário deve poder cadastrar seu cartão de crédito/débito       |Brainstorm|
-| 19   | O usuário deve poder realizar pagamentos                           | Brainstorm|
-| 20   | O usuário deve poder acompanhar seu pedido pelo ifood        |Brainstorm|
-| 21   | O usuário deve poder ver restaurantes abertos no momento         |Brainstorm |
-| 22   | O usuário deve poder receber notificações sobre o andamento do pedido |Brainstorm  |
-| 23   | O usuário deve poder acessar histórico de contas       |Brainstorm|
-| 24   | O usuário deve poder ver uma breve descrição sobre o restaurante ou bar  |Brainstorm |
-| 25    | O usuário deve receber as avaliações dos seus clientes |Introspecção|
-| 26    | O usuário deve poder adicionar multiplas formas de pagamento |Observação|
-| 27    | O usuário deve poder ter a opção de parcelar seus pagamentos quando possível | Observação|
-| 28   | O usuário deve poder filtrar restaurantes pela localização       |Brainstorm |
-| 29   | O usuário deve poder avaliar restaurantes e bares             | Brainstorm|
-| 30   | O usuário deve poder filtrar restaurantes por categorias       |Brainstorm|
-| 31   | O usuário deve poder filtrar restaurante por avaliação       |    Brainstorm|
-| 32   | O usuário deve poder ver estabelecimentos com promoções        |  Brainstorm|
-| 33    | O usuário deve poder entrar na fila de espera do estabelecimento pelo app|Observação|
-| 34    | O usuário deve receber notificações sobre o andamento da fila de espera | Observação|
+| 1    | O usuário deve poder criar uma conta                            | Brainstorm | 
+| 2    | O usuário deve poder realizar login na conta                    | Brainstorm| 
+| 3    | O usuário deve poder fazer pedidos                              | Brainstorm | 
+| 4    | O usuário deve poder acessar o cardápio                         |Brainstorm| 
+| 5    | O usuário deve poder abrir uma comanda a partir da leitura do QR Code |  Brainstorm| 
+| 6   | O usuário deve poder editar seu perfil        |Brainstorm| 
+| 7   | O usuário deve poder pesquisar restaurantes        | Brainstorm| 
+| 8   | O usuário deve poder ter acesso aos termos de uso  |  Brainstorm| 
+| 9   | O usuário deve poder ver a localização dos estabelecimentos a partir do google maps | Brainstorm | 
+| 10    | O usuário deve conseguir cadastrar múltiplos endereços|Introspecção| 
+| 11    | O usuário deve fazer logout do perfil |Observação| 
+| 12    | O usuário deve poder selecionar a cidade em que deseja buscar restaurantes/bares |Observação| 
+| 13    | O usuário deve poder solicitar a conta para o pagamento fora do app |Instrospecção |      
+| 14   | O usuário deve poder cadastrar seu cartão de crédito/débito       |Brainstorm|                                   
+| 15   | O usuário deve poder realizar pagamentos       |Brainstorm| 
+| 16   | O usuário deve poder ver restaurantes abertos no momento         |Brainstorm |               
+| 17   | O usuário deve poder receber notificações sobre o andamento do pedido |Brainstorm  |         
+| 18   | O usuário deve poder acessar histórico de contas       |Brainstorm|                          
+| 19   | O usuário deve poder ver uma breve descrição sobre o restaurante ou bar  |Brainstorm |       
+| 20    | O usuário deve poder adicionar multiplas formas de pagamento |Observação|                   
+| 21    | O usuário deve poder ter a opção de parcelar seus pagamentos quando possível | Observação|  
+| 22   | O usuário deve poder filtrar restaurantes pela localização       |Brainstorm |           
+| 23   | O usuário deve poder avaliar restaurantes e bares             | Brainstorm|              
+| 24   | O usuário deve poder filtrar restaurantes por categorias       |Brainstorm|              
+| 25   | O usuário deve poder filtrar restaurante por avaliação       |    Brainstorm|            
+| 26   | O usuário deve poder ver estabelecimentos com promoções        |  Brainstorm|            
+| 27    | O usuário deve poder entrar na fila de espera do estabelecimento pelo app|Observação|   
+| 28    | O usuário deve receber notificações sobre o andamento da fila de espera | Observação|   
 
 ### 2.2 Requisitos Não Funcionais
 
@@ -68,3 +62,4 @@
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    João Henrique  | Todos | 09/07 |
 |   1.0.1  |                    Arrumando a numeração do RF27                   |    João Henrique  | Todos | 09/07 |
+|   1.1  |                    Retirando funcionalidades ainda não implementadas                   |    Lucas,João Henrique  | Todos | 19/07 |
