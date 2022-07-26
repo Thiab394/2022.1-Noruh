@@ -81,25 +81,19 @@
 
 ### 3.7 Entrega 7
 
-## 4. Tabela de Horários
+## 4. Tabela de Horários (HeatMap)
 
 &emsp;&emsp; Essa tabela de horários foi feita baseado nos horários das pessoas, que de acordo com o seu número colocavam os horários que geralmente estariam disponíveis durante a semana para ficar mais fácil decidirmos os horários de encontro com o time.
 
-![Tabela de horários](../assets/membros/horarios.png)
-
-<center>
-Figura 1: Tabela de horários
-</center>
-### 4.1 Tabela de Horários usando "HeatMap"
-&emsp;&emsp; Essa tabela usando o "HeatMap", é a mesma da primeira, porém ilustrando melhor com as cores, demonstrando os horários livres dos integrantes do grupo.
-
 ![HeatMap](../assets/membros/horariosV2.PNG)
 
-<center>
-Figura 2: Heatmap
-</center>
+<figcaption align='center'>
+    <b>Figura 2: HeatMap</b>
+    <br><small>Fonte: Elaboração própria</small></br>
+</figcaption>
 
-### 4.2 Histórico de Versão Tabela de Horários
+
+### 4.2 Histórico de Versão
 
 | Versão |      Alteração       |     Responsável      |    Revisor    | Data  |
 | :----: | :------------------: | :------------------: | :-----------: | :---: |

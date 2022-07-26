@@ -12,9 +12,10 @@
         style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
         sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
 </iframe>
-<center>
-        Figura 1: Ideias levantadas no brainstorming
-</center>
+<figcaption align='center'>
+    <b>Figura 1: Cards Brainstorm</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption>
 
 ## 3. Participantes
 - Lucas Pimentel
