@@ -79,10 +79,10 @@
 
 |            Atividade            |                Responsável                 |           Revisor            | Data  |
 | :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
-| Fazer o NFRFramework            |         -                                  |               -              |   -   |
-| Fazer o Backlog                 |         -                                  |               -              |   -   |
-| Fazer Historias de Usuário      |     João Henrique                          | -                            |   -   |
-| Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |                              |   -   |
+| Fazer o NFRFramework            | Lucas, Eurico                              |               -              |   -   |
+| Fazer o Backlog                 | Bruno                                      |               -              |   -   |
+| Fazer Historias de Usuário      | João Henrique, Karla                       |               -              |   -   |
+| Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |               -              |   -   |
 
 
 </center>
@@ -114,6 +114,7 @@
 |  1.1   |  Colorindo Células   |        Lucas         | João Henrique | 03/07 |
 |  2.0   | Cronograma entrega 2 | João Henrique, Bruno |     Lucas     | 03/07 |
 |  3.0   | Cronograma entrega 3 |    João Henrique     |     Lucas     | 16/07 |
+|  4.0   | Cronograma entrega 4 |    João Henrique     |     Lucas     | 29/07 |
 
 ## Referências
 
