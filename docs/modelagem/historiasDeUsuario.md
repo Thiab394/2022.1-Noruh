@@ -30,4 +30,4 @@
 | Versão |      Alteração      | Responsável |           Revisor            |   Data   | Hora  |
 | :----: | :-----------------: | :---------: | :--------------------------: | :------: | :------: |
 |  1.0   |          -          |    João Henrique    |                      | 29/07/22 |09:50 às 11.30 |
-|  1.0.1   |Arrumando tabelas  |    João Henrique    |                      | 29/07/22 |09:50 às 11.30 |
+|  1.0.1   |Arrumando tabelas  |    João Henrique    |                      | 29/07/22 |11:30 às 11:35 |
