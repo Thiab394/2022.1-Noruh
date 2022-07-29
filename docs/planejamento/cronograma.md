@@ -75,6 +75,19 @@
 
 ### 3.4 Entrega 4
 
+<center>
+
+|            Atividade            |                Responsável                 |           Revisor            | Data  |
+| :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
+| Fazer o NFRFramework            |         -                                  |               -              |   -   |
+| Fazer o Backlog                 |         -                                  |               -              |   -   |
+| Fazer Historias de Usuário      |     João Henrique                          | -                            |   -   |
+| Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |                              |   -   |
+
+
+</center>
+
+
 ### 3.5 Entrega 5
 
 ### 3.6 Entrega 6
