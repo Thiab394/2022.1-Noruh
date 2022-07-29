@@ -8,6 +8,7 @@
 ## 3- Histórias de usuário
 
 | Número | Rastreabilidade | História de usuário| Prioridade(MoscoW)|
+| :------: | :------------------------------------------------:|:--------:|:--------:|
 | US01 | RF1 | Eu, como um usuário, gostaria de criar uma conta no Noruh para poder ter acesso às funcionalidades do aplicativo.| Must|
 | US02 | RF2 | Eu, como um usuário, gostaria de realizar login na minha conta, para poder acessar e fazer pedidos.| Must|
 | US03 | RF3 | Eu, como um usuário, gostaria de fazer pedidos, para poder com meu celular, pedir a minha comida no restaurante. | Must|
