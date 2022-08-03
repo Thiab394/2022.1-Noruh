@@ -39,12 +39,13 @@
 - O sistema deve ter um tempo de resposta de no máximo 100ms.
 - O sistema não deve ficar fora do ar por mais de 4 horas
 - O sistema não pode sobrecarregar o dispositivo do usuário.
-- As buscas dentro do sistema não podem ultrapassar os 10 segundos.
+- As buscas dentro do sistema não podem ultrapassar os 4 segundos.
+- O sistema não deve ocupar mais que 20mb.
 
 ### 3.5 Suportabilidade
 - O sistema tem que estar disponível na PlayStore (android) e na AppStore (Apple).
 - O sistema deve ser compativel com android versão 8.0 ou superior e IOS versão IOS 11 ou superior.
-- O sistema não deve ocupar mais que 20mb.
+
 
 
 ## 4. Referências

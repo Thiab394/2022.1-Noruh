@@ -79,10 +79,12 @@
 
 |            Atividade            |                Responsável                 |           Revisor            | Data  |
 | :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
-| Fazer o NFRFramework            | Lucas, Eurico                              |               -              |   -   |
-| Fazer o Backlog                 | Bruno                                      |               -              |   -   |
-| Fazer Historias de Usuário      | João Henrique, Karla                       |               -              |   -   |
-| Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |               -              |   -   |
+| Fazer a introdução e metodologia NFRFramework            |  Eurico                              |               Lucas              |   01/08   |
+| Fazer os Gráficos NFRFramework            | Lucas                              |              João               |   02/08   |
+| Fazer o Backlog                 | Bruno                                      |               -              |   02/08   |
+| Fazer Historias de Usuário      | João Henrique, Karla                       |               -              |   31/07   |
+| Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |               -              |   02/08   |
+| Edição e postagem da apresentação             | Lucas |               João Henrique, Karla, Lucas, Eurico, Bruno              |   03/08   |
 
 
 </center>

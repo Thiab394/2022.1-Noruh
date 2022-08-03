@@ -73,7 +73,7 @@
 </center>
 
 <figcaption align='center'>
-    <b>Figura 4: Representação gráfica rótulos</b>
+    <b>Figura 5: Representação gráfica rótulos</b>
     <br><small>Fonte: (CHUNG et al., 2000)</small>
 </figcaption>
 
@@ -88,18 +88,18 @@
 </center>
 
 <figcaption align='center'>
-    <b>Figura 5: SIG de Usabilidade</b>
+    <b>Figura 6: SIG de Usabilidade</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
 
 ### 3.1.1 SIG de Usabilidade com propagação
 
 <center>
-![Imagem softgoals](../assets/nfr)
+![Imagem softgoals](../assets/nfr/UsabilidadeAvaliado.png)
 </center>
 
 <figcaption align='center'>
-    <b>Figura 6: SIG de Usabilidade com propagação</b>
+    <b>Figura 7: SIG de Usabilidade com propagação</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
 
@@ -110,7 +110,7 @@
 </center>
 
 <figcaption align='center'>
-    <b>Figura 7: SIG de confiabilidade</b>
+    <b>Figura 8: SIG de confiabilidade</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
 
@@ -121,7 +121,51 @@
 </center>
 
 <figcaption align='center'>
-    <b>Figura 8: SIG de confiabilidade com propagação</b>
+    <b>Figura 9: SIG de confiabilidade com propagação</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption>
+
+### 3.3 SIG de Desempenho
+
+<center>
+![Imagem softgoals](../assets/nfr/desempenho.png)
+</center>
+
+<figcaption align='center'>
+    <b>Figura 10: SIG de Desempenho</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption>
+
+### 3.3.1 SIG de Desempenho com propagação
+
+<center>
+![Imagem softgoals](../assets/nfr/desenpenhoAvaliado.png)
+</center>
+
+<figcaption align='center'>
+    <b>Figura 11: SIG de Desempenho com propagação</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption>
+
+### 3.3 SIG de Suportabilidade
+
+<center>
+![Imagem softgoals](../assets/nfr/suportabilidade.png)
+</center>
+
+<figcaption align='center'>
+    <b>Figura 12: SIG de Suportabilidade</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption>
+
+### 3.3.1 SIG de Suportabilidade com propagação
+
+<center>
+![Imagem softgoals](../assets/nfr/suportabilidadeAvaliado.png)
+</center>
+
+<figcaption align='center'>
+    <b>Figura 13: SIG de Suportabilidade com propagação</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
 
@@ -136,3 +180,5 @@
 |   1.0  | Criação do documento           |    Eurico  | Lucas | 31/07 |
 |   1.1  | Adicao do conteudo (introducao, legendas, referencias e historico de versao)           |    Eurico  | Lucas | 01/08 |
 |   1.2  | Correções gramáticais e em imagens e legendas           |    Eurico  | Lucas | 02/08 |
+|   2.0  | Adicina Gráficos          |    Lucas  | João | 02/08 |
+|   2.1  | Arquivo revisado          |    João  | - | 02/08 |

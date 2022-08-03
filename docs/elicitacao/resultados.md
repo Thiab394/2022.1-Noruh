@@ -52,7 +52,7 @@
 | RNF2    | O sistema deve ser responsivo |  Brainstorm |
 | RNF3    | O sistema deve ser disponível para android versão 8.0 ou superior e IOS versão IOS 11 ou superior |  Brainstorm |
 | RNF4    | O sistema deve possuir uma interface gráfica |  Brainstorm |
-| RNF5    | O sistema deve ter um tempo de comunicação com o servidor de no máximo 10 segundos |  Brainstorm |
+| RNF5    | O sistema deve ter um tempo de comunicação com o servidor de no máximo 4 segundos |  Brainstorm |
 | RNF6    | O sistema deve garantir a privacidade e segurança dos dados do usuário | Brainstorm |
 | RNF7    | O sistema deve permitir com que pagamentos sejam realizados com segurança | Brainstorm |
 | RNF8   | O sistema deve ter integração com o sistema do restaurante | Introspecção |
