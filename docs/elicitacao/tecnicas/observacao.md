@@ -15,7 +15,9 @@
 ### 3.1 Usuário já cadastrado
 &emsp;&emsp; Como sugestão de tarefa, foi solicitado que o usuário entrasse no sistema, criasse uma comanda e pedisse uma água. Abaixo segue o vídeo da execução da tarefa:
 
+<center>
 <iframe width="320" height="560" src="https://www.youtube.com/embed/fDbP7QnnVHs" title="Usuário Já Cadastrado realizando tarefa | App Noruh | Requisitos de Software UnB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 <figcaption align='center'>
     <b>Vídeo 1: Usuário já cadastrado realizando tarefa</b>
@@ -25,10 +27,12 @@
 ### 3.1 Novo usuário 
 &emsp;&emsp; Como sugestão de tarefa, foi solicitado que ele criasse uma conta e entrasse na mesma comanda que o outro usuário. Podemos ver a realização da tarefa pelo vídeo abaixo.
 
+<center>
 <iframe width="320" height="560" src="https://www.youtube.com/embed/fDbP7QnnVHs" title="Usuário Já Cadastrado realizando tarefa | App Noruh | Requisitos de Software UnB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 <figcaption align='center'>
-    <b>Vídeo 1: Novo usuário realizando tarefa</b>
+    <b>Vídeo 2: Novo usuário realizando tarefa</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
 

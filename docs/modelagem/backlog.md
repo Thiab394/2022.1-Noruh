@@ -87,5 +87,5 @@
 
 ## 5. Referências
 
-- Artefato Backlog do Produto. Disponível em: https://www.trt9.jus.br/pds/Scrum/workproducts/product_backlog_68345C16.html#:~:text=O%20Backlog%20do%20Produto%20%C3%A9,cliente%20ao%20longo%20das%20Sprints.
-- Requisitos - Aula 15. SERRANO, Milene; SERRANO, Maurício. Disponível em: https://aprender3.unb.br/pluginfile.php/2124496/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf
+- Artefato Backlog do Produto. Disponível em: [link](https://www.trt9.jus.br/pds/Scrum/workproducts/product_backlog_68345C16.html#:~:text=O%20Backlog%20do%20Produto%20%C3%A9,cliente%20ao%20longo%20das%20Sprints).
+- Requisitos - Aula 15. SERRANO, Milene; SERRANO, Maurício. Disponível em:  [link](https://aprender3.unb.br/pluginfile.php/2124496/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf)
