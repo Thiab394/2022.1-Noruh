@@ -8,12 +8,9 @@
 
 ### 2.1 Priorização
 
-&emsp;&emsp; A técnica de priorização de requisitos MoSCoW consiste em dividir os requisitos em 4 categorias:
-
-- Must: requisitos que devem obrigatoriamente ser atendidos para que o produto tenha sucesso.
-- Should: requisitos importantes que devem ser adicionados, porém não são obrigatórios.
-- Could: requisitos que podem ser adicionados, a depender do tempo e recursos financeiros disponíveis.
-- Won't: requisitos que não serão adicionados no momento, mas talvez sejam em releases futuras.
+- Alta: requisitos que devem obrigatoriamente ser atendidos para que o produto tenha sucesso.
+- Média: requisitos importantes que devem ser adicionados, porém não são obrigatórios.
+- Baixa: requisitos que podem ser adicionados, a depender do tempo e recursos financeiros disponíveis.
 
 ## 3. Épicos
 
