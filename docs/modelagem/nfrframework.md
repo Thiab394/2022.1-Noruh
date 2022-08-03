@@ -1,7 +1,7 @@
 # NFR Framework
 
 ## 1. Introdução
-<p>&emsp;&emsp;Como descritp por Silva (2019), o framework NFR (CHUNG et al., 2000), foi admitido por propor uma abordagem especifica para o processamento de requisitos não funcionais e fornecer uma profunda representação para expressar esses requisitos, além das relações e correlações entre os mesmos.</p>
+<p>&emsp;&emsp;Como descrito por Silva (2019), o framework NFR (CHUNG et al., 2000), foi admitido por propor uma abordagem especifica para o processamento de requisitos não funcionais e fornecer uma profunda representação para expressar esses requisitos, além das relações e correlações entre os mesmos.</p>
 <p>&emsp;&emsp;Os requisitos não funcionais representados pelo framework NFR, são normalmente expressados através de um grafo SIG, e o seu principal objetivo é ajudar os desenvolvedores na implementacao de soluções personalizadas.</p>
 <p>&emsp;&emsp;O framework leva em consideração algumas características do domínio e do sistema, sendo elas:</p>
 
