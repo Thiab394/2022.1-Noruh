@@ -23,6 +23,7 @@ nav:
         - 'Casos de Uso': './modelagem/casosDeUso.md'
         - 'NFR Framework': './modelagem/nfrframework.md'
         - 'Histórias de Usuário': './modelagem/historiasDeUsuario.md'
+        - 'Backlog do Produto': './modelagem/backlog.md'
         
     - Apresentações:
         - 'Apresentação 1': './apresentacoes/apresentacao1.md'

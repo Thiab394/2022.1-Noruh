@@ -60,13 +60,15 @@
 | ------ | --------------------------------------------------|
 | 1    | O sistema deve restringir a idade para uso do app |
 | 2    | O sistema deve ser responsivo  |
-| 3    | O sistema deve ser disponível para android e IOS   |
+| 3    | O sistema deve ser disponível para android versão 8.0 ou superior e IOS versão IOS 11 ou superior   |
 | 4    | O sistema deve possuir uma interface gráfica  |
 | 5    | O sistema deve apresentar um design minimalista  |
 | 6    | O sistema deve ter um tempo de comunicação com o servidor de no máximo 10 segundos  |
 | 7    | O sistema deve garantir a privacidade e segurança dos dados do usuário   |
 | 8    | O sistema não deve ficar fora do ar por mais de 4 horas   |
 | 9    | O sistema deve permitir com que pagamentos sejam realizados com segurança   |
+| 10    | O sistema deve fornecer uma interface gráfica intuitiva   |
+
 
 <figcaption>Tabela 2: Requisitos não funcionais.</figcaption>
 
