@@ -32,11 +32,11 @@
 
 | História de Usuário | Rastreabilidade |   Eu, como um usuário, gostaria de...   |                      Para poder...                       | Prioridade(Moscow) |
 | :-----------------: | :-------------: | :-------------------------------------: | :------------------------------------------------------: | :----------------: |
-|        US01         |       RF1       |               Criar conta               |           Ter acesso às funcionalidades do app           |        Must        |
-|        US02         |       RF2       |        Realizar o login da conta        |          Ter acesso a conta e realizar pedidos           |        Must        |
-|        US06         |       RF6       |              Editar perfil              |          Atualizar minhas informações pessoais           |        Must        |
-|        US11         |      RF11       |       Realizar o logout da conta        |       Fazer login com outro perfil no meu celular        |        Must        |
-|        US20         |      RF20       | Adicionar múltiplas formas de pagamento | Escolher entre diferentes opções ao realizar o pagamento |       Should       |
+|        US01         |       RF1       |               Criar conta               |           Ter acesso às funcionalidades do app           |        Alta        |
+|        US02         |       RF2       |        Realizar o login da conta        |          Ter acesso a conta e realizar pedidos           |        Alta        |
+|        US06         |       RF6       |              Editar perfil              |          Atualizar minhas informações pessoais           |        Alta        |
+|        US11         |      RF11       |       Realizar o logout da conta        |       Fazer login com outro perfil no meu celular        |        Alta        |
+|        US20         |      RF20       | Adicionar múltiplas formas de pagamento | Escolher entre diferentes opções ao realizar o pagamento |       Média        |
 
 <figcaption>Fonte: Elaboração Própria</figcaption>
 
@@ -50,29 +50,29 @@
 
 | História de Usuário | Rastreabilidade |       Eu, como um usuário, gostaria de...        |                        Para poder...                        | Prioridade(Moscow) |
 | :-----------------: | :-------------: | :----------------------------------------------: | :---------------------------------------------------------: | :----------------: |
-|        US03         |       RF3       |                 Realizar pedidos                 |   Pedir a minha comida no restaurante através do celular    |        Must        |
-|        US04         |       RF4       |                Acessar o cardápio                |                    Escolher o meu pedido                    |        Must        |
-|        US05         |       RF5       |         Abrir uma comanda por um QR Code         |           Realizar o pedido de forma mais prática           |        Must        |
-|        US07         |       RF7       |           Pesquisar restaurantes/bares           |         Escolher o restaurante de minha preferência         |        Must        |
-|        US08         |       RF8       |             Acessar os termos de uso             |          Analisar as informações que o app utiliza          |        Must        |
-|        US09         |       RF9       |        Ver a localização dos restaurantes        |                Chegar ao restaurante com GPS                |        Must        |
-|        US10         |      RF10       |          Cadastrar múltiplos endereços           |                Salvar no app caso eu precise                |        Must        |
-|        US12         |      RF12       |              Selecionar uma cidade               |    Buscar restaurantes/bares perto da minha localização     |        Must        |
-|        US13         |      RF13       |               Solicitar a comanda                |       Realizar o pagamento de outra forma fora do app       |        Must        |
-|        US14         |      RF14       |                Cadastrar cartões                 |            Acessá-los de forma rápida e prática             |       Should       |
-|        US15         |      RF15       |               Realizar pagamentos                |            Concluir o pedido e fechar a comanda             |       Should       |
-|        US16         |      RF16       |        Visualizar os restaurantes abertos        | Identificar quais lugares estão em serviço no horário atual |       Should       |
-|        US17         |      RF17       |          Receber notificações do pedido          |        Ficar atualizado sobre o andamento do pedido         |       Should       |
-|        US18         |      RF18       |          Acessar o histórico de contas           |        Verificar informações sobre contas anteriores        |       Should       |
-|        US19         |      RF19       |     Visualizar descrição do estabelecimento      |     Verificar informações mais detalhadas sobre o local     |       Should       |
-|        US21         |      RF21       |               Parcelar pagamentos                |    Realizar o pagamento em parcelas ao invés de à vista     |       Should       |
-|        US22         |      RF22       |    Filtrar estabelecimentos pela localização     |      Escolher o local de acordo com minha necessidade       |       Could        |
-|        US23         |      RF23       |            Avaliar restaurantes/bares            |   Dar opiniões sobre minha experiência no estabelecimento   |       Could        |
-|        US24         |      RF24       |     Filtrar estabelecimentos pela categoria      |      Especificar qual tipo de especialidade eu desejo       |       Could        |
-|        US25         |      RF25       |     Filtrar estabelecimentos pela avaliação      |        Ter uma noção da qualidade do estabelecimento        |       Could        |
-|        US26         |      RF26       | Visualizar estabelecimentos com promoções ativas |         Economizar ao frequentar um estabelecimento         |       Could        |
-|        US27         |      RF27       |  Entrar na fila de espera dos estabelecimentos   |              Esperar minha vez de ser atendido              |       Could        |
-|        US28         |      RF28       |   Receber notificações sobre a fila de espera    |        Me manter atualizado sobre a situação da fila        |       Could        |
+|        US03         |       RF3       |                 Realizar pedidos                 |   Pedir a minha comida no restaurante através do celular    |        Alta        |
+|        US04         |       RF4       |                Acessar o cardápio                |                    Escolher o meu pedido                    |        Alta        |
+|        US05         |       RF5       |         Abrir uma comanda por um QR Code         |           Realizar o pedido de forma mais prática           |        Alta        |
+|        US07         |       RF7       |           Pesquisar restaurantes/bares           |         Escolher o restaurante de minha preferência         |        Alta        |
+|        US08         |       RF8       |             Acessar os termos de uso             |          Analisar as informações que o app utiliza          |        Alta        |
+|        US09         |       RF9       |        Ver a localização dos restaurantes        |                Chegar ao restaurante com GPS                |        Alta        |
+|        US10         |      RF10       |          Cadastrar múltiplos endereços           |                Salvar no app caso eu precise                |        Alta        |
+|        US12         |      RF12       |              Selecionar uma cidade               |    Buscar restaurantes/bares perto da minha localização     |        Alta        |
+|        US13         |      RF13       |               Solicitar a comanda                |       Realizar o pagamento de outra forma fora do app       |        Alta        |
+|        US14         |      RF14       |                Cadastrar cartões                 |            Acessá-los de forma rápida e prática             |       Média        |
+|        US15         |      RF15       |               Realizar pagamentos                |            Concluir o pedido e fechar a comanda             |       Média        |
+|        US16         |      RF16       |        Visualizar os restaurantes abertos        | Identificar quais lugares estão em serviço no horário atual |       Média        |
+|        US17         |      RF17       |          Receber notificações do pedido          |        Ficar atualizado sobre o andamento do pedido         |       Média        |
+|        US18         |      RF18       |          Acessar o histórico de contas           |        Verificar informações sobre contas anteriores        |       Média        |
+|        US19         |      RF19       |     Visualizar descrição do estabelecimento      |     Verificar informações mais detalhadas sobre o local     |       Média        |
+|        US21         |      RF21       |               Parcelar pagamentos                |    Realizar o pagamento em parcelas ao invés de à vista     |       Média        |
+|        US22         |      RF22       |    Filtrar estabelecimentos pela localização     |      Escolher o local de acordo com minha necessidade       |       Baixa        |
+|        US23         |      RF23       |            Avaliar restaurantes/bares            |   Dar opiniões sobre minha experiência no estabelecimento   |       Baixa        |
+|        US24         |      RF24       |     Filtrar estabelecimentos pela categoria      |      Especificar qual tipo de especialidade eu desejo       |       Baixa        |
+|        US25         |      RF25       |     Filtrar estabelecimentos pela avaliação      |        Ter uma noção da qualidade do estabelecimento        |       Baixa        |
+|        US26         |      RF26       | Visualizar estabelecimentos com promoções ativas |         Economizar ao frequentar um estabelecimento         |       Baixa        |
+|        US27         |      RF27       |  Entrar na fila de espera dos estabelecimentos   |              Esperar minha vez de ser atendido              |       Baixa        |
+|        US28         |      RF28       |   Receber notificações sobre a fila de espera    |        Me manter atualizado sobre a situação da fila        |       Baixa        |
 
 <figcaption>Fonte: Elaboração Própria</figcaption>
 
