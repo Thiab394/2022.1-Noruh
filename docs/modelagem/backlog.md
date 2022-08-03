@@ -10,12 +10,9 @@
 
 ### 2.1 Priorização
 
-&emsp;&emsp; A técnica de priorização de requisitos MoSCoW consiste em dividir os requisitos em 4 categorias:
-
-- Must: requisitos que devem obrigatoriamente ser atendidos para que o produto tenha sucesso.
-- Should: requisitos importantes que devem ser adicionados, porém não são obrigatórios.
-- Could: requisitos que podem ser adicionados, a depender do tempo e recursos financeiros disponíveis.
-- Won't: requisitos que não serão adicionados no momento, mas talvez sejam em releases futuras.
+- Alta: requisitos que devem obrigatoriamente ser atendidos para que o produto tenha sucesso.
+- Média: requisitos importantes que devem ser adicionados, porém não são obrigatórios.
+- Baixa: requisitos que podem ser adicionados, a depender do tempo e recursos financeiros disponíveis.
 
 ## 3. Épicos
 
@@ -32,7 +29,7 @@
 
 #### Tabela 1: Conta
 
-| História de Usuário | Rastreabilidade |   Eu, como um usuário, gostaria de...   |                      Para poder...                       | Prioridade(Moscow) |
+| História de Usuário | Rastreabilidade |   Eu, como um usuário, gostaria de...   |                      Para poder...                       | Prioridade |
 | :-----------------: | :-------------: | :-------------------------------------: | :------------------------------------------------------: | :----------------: |
 |        US01         |       RF1       |               Criar conta               |           Ter acesso às funcionalidades do app           |        Alta        |
 |        US02         |       RF2       |        Realizar o login da conta        |          Ter acesso a conta e realizar pedidos           |        Alta        |
@@ -50,7 +47,7 @@
 
 #### Tabela 2: Conteúdo
 
-| História de Usuário | Rastreabilidade |       Eu, como um usuário, gostaria de...        |                        Para poder...                        | Prioridade(Moscow) |
+| História de Usuário | Rastreabilidade |       Eu, como um usuário, gostaria de...        |                        Para poder...                        | Prioridade |
 | :-----------------: | :-------------: | :----------------------------------------------: | :---------------------------------------------------------: | :----------------: |
 |        US03         |       RF3       |                 Realizar pedidos                 |   Pedir a minha comida no restaurante através do celular    |        Alta        |
 |        US04         |       RF4       |                Acessar o cardápio                |                    Escolher o meu pedido                    |        Alta        |
