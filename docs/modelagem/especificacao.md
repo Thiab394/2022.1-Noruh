@@ -24,27 +24,28 @@
 &emsp;&emsp;Os requisitos funcionais podem ser encontrados nos casos de uso, ou então por esse [link](../modelagem/casosDeUso.md).
 
 ### 3.2 Usabilidade
-- O sistema deve ser fácil de aprender.
-- O sistema deve ser fácil de se usar.
-### 3.3 Desempenho
+- O sistema deve permitir a navegação pelo app sem a necessidade de um cadastro.
+- A navegação pelo cardápio dos restaurantes deve ser de fácil entendimento e mostrar imagens dos produtos.
+- O pagamento pelo app deve ser simples e rápido.
+- O sistema deve fornecer uma interface gráfica intuitiva.
+- O sistema deve fornecer uma interface responsiva.
+- O sistema deve apresentar um design minimalista
+
+### 3.3 Confiabilidade
+- O sistema deve garantir a privacidade e segurança dos dados do usuário
+- O sistema deve permitir com que pagamentos sejam realizados com segurança
+
+### 3.4 Desempenho
 - O sistema deve ter um tempo de resposta de no máximo 100ms.
+- O sistema não deve ficar fora do ar por mais de 4 horas
 - O sistema não pode sobrecarregar o dispositivo do usuário.
-- As buscas dentro do sistema não podem ultrapassar os 3 segundos.
-### 3.4 Suportabilidade
+- As buscas dentro do sistema não podem ultrapassar os 10 segundos.
+
+### 3.5 Suportabilidade
 - O sistema tem que estar disponível na PlayStore (android) e na AppStore (Apple).
-- O sistema tem que suportar 10 mil usuários simultâneos.
-- O sistema deve suportar o cadastro de 1 milhão de usuários.
-### 3.5 Design
-- O sistema deve seguir uma paleta de cores pré definida
-### 3.6 Implementação
-- O sistema deve ser compativel com android e IOS.
+- O sistema deve ser compativel com android versão 8.0 ou superior e IOS versão IOS 11 ou superior.
 - O sistema não deve ocupar mais que 20mb.
-### 3.7 Interface
-- A interface deve ter um padrão em todas as telas para facilitar o uso e entendimento do usuário.
-- A interface deve ser responsiva.
-### 3.8 Físico
-- O dispositivo Android deve estar na versão 8.0 ou superior.
-- O dispositivo IOS deve estar na versão IOS 11 ou superior.
+
 
 ## 4. Referências
 - FURPS+ [https://qualidadebr.wordpress.com/2008/07/10/furps/], acesso em 17 de julho de 2022
@@ -54,4 +55,6 @@
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  | Criação do documento           |    Eurico  | - | 17/07 |
+|   1.0  | Criação do documento           |    Eurico  | Lucas | 17/07 |
+|   1.1  | Documento revisado          |    Eurico  | Lucas | 18/07 |
+|   2.0  | Correção após feedback do professor          |    Lucas  | - | 02/08 |

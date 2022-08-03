@@ -39,7 +39,10 @@
 | RF25   | O usuário deve poder filtrar restaurante por avaliação       |    Brainstorm|            
 | RF26   | O usuário deve poder ver estabelecimentos com promoções        |  Brainstorm|            
 | RF27    | O usuário deve poder entrar na fila de espera do estabelecimento pelo app|Observação|   
-| RF28    | O usuário deve receber notificações sobre o andamento da fila de espera | Observação|   
+| RF28    | O usuário deve receber notificações sobre o andamento da fila de espera | Observação| 
+| RF29    | O usuário deve receber um tutorial no primeiro uso | Observação| 
+| RF30    | O usuário deve poder cirar uma comanda compartilhada | Observação| 
+| RF31    | O usuário deve poder pesquisar produtos no cardápio | Observação|
 
 ### 2.2 Requisitos Não Funcionais
 
@@ -47,7 +50,7 @@
 | :------: | :------------------------------------------------:|:--------:|
 | RNF1    | O sistema deve restringir a idade para uso do app |  Brainstorm |
 | RNF2    | O sistema deve ser responsivo |  Brainstorm |
-| RNF3    | O sistema deve ser disponível para android e IOS |  Brainstorm |
+| RNF3    | O sistema deve ser disponível para android versão 8.0 ou superior e IOS versão IOS 11 ou superior |  Brainstorm |
 | RNF4    | O sistema deve possuir uma interface gráfica |  Brainstorm |
 | RNF5    | O sistema deve ter um tempo de comunicação com o servidor de no máximo 10 segundos |  Brainstorm |
 | RNF6    | O sistema deve garantir a privacidade e segurança dos dados do usuário | Brainstorm |
@@ -55,6 +58,13 @@
 | RNF8   | O sistema deve ter integração com o sistema do restaurante | Introspecção |
 | RNF9    | O sistema deve apresentar um design minimalista | Brainstorm |
 | RNF10    | O sistema não deve ficar fora do ar por mais de 4 horas | Brainstorm |
+| RNF11    | O sistema deve permitir a navegação pelo app sem a necessidade de um cadastro | Observação |
+| RNF12    | A navegação pelo cardápio dos restaurantes deve ser de fácil entendimento e mostrar imagens dos produtos | Observação |
+| RNF13    | O pagamento pelo app deve ser simples e rápido | Observação |
+| RNF14    | O sistema deve fornecer uma interface gráfica intuitiva | Brainstorm |
+| RNF16    | O sistema deve ter um tempo de resposta de no máximo 100ms | Observação |
+| RNF17    | O sistema deve ter integração com o google e facebook para criar contas | Observação |
+
 
 ## Histórico de Versão
 
@@ -63,3 +73,4 @@
 |   1.0  |                    -                   |    João Henrique  | Todos | 09/07 |
 |   1.0.1  |                    Arrumando a numeração do RF27                   |    João Henrique  | Todos | 09/07 |
 |   1.1  |                    Retirando funcionalidades ainda não implementadas                   |    Lucas,João Henrique  | Todos | 19/07 |
+|   1.2  |                    Adicionando novos requisitos encontrados                   |    Lucas  | João | 02/08 |
