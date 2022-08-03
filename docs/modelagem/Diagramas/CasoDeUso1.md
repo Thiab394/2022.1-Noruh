@@ -1,11 +1,12 @@
 # Fluxo de Conta
 
-## Diagrama 
+&emsp;&emsp; O diagrama de casos de uso do fluxo de contas pode ser encontrado abaixo:
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FR4iYxZgfl8foolUpTcSHZo%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 <figcaption align='center'>
-    <b>Figura 1: Diagrama de casos de uso</b>
+    <b>Figura 1: Diagrama de casos de uso fluxo de contas</b>
+    <br><small>Fonte: Elaboração Própia</small>
 </figcaption>
 
 ## Casos de Uso
@@ -28,6 +29,7 @@
 
 <figcaption align='center'>
     <b>Tabela 1: caso de uso 1</b>
+    <br><small>Fonte: Elaboração Própia</small>
 </figcaption>
 
 ### Caso de Uso 2 - Fazer login na conta
@@ -47,6 +49,7 @@
 
 <figcaption align='center'>
     <b>Tabela 2: caso de uso 2</b>
+    <br><small>Fonte: Elaboração Própia</small>
 </figcaption>
 
 ### Caso de Uso 3 - Editar conta
@@ -66,6 +69,7 @@
 
 <figcaption align='center'>
     <b>Tabela 3: caso de uso 3</b>
+    <br><small>Fonte: Elaboração Própia</small>
 </figcaption>
 
 ### Caso de Uso 4 - Fazer logout da conta
@@ -84,10 +88,13 @@
 
 <figcaption align='center'>
     <b>Tabela 3: caso de uso 3</b>
+    <br><small>Fonte: Elaboração Própia</small>
 </figcaption>
 
 ## Histórico de Versão
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  |                    -                   |    Lucas |  | 17/07 |
+|   1.0  |                    Criação do documento                  |    Lucas | João Henrique | 17/07 |
+|   1.1  |                   Documento Revisado                   |    João Henrique | - | 18/07 |
+|   1.2  |                  Adiciona legendas e texto introdutório                   |    Lucas | - | 02/08 |
