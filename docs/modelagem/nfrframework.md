@@ -78,26 +78,50 @@
 </figcaption>
 
 ## 3. Gráficos de Interdependência de Softgoals (SIG)
+&emsp;&emsp; Com o objetivo de organizarmos nossos gráficos, os separamos com base nas classifições da metologia FURPS+ definida em nossa [Especificação Suplementar](./especificacao.md), como podemos ver abaixo:
 
-### 3.1 SIG de Segurança
+
+### 3.1 SIG de Usabilidade
 
 <center>
-![Imagem softgoals](../assets/nfr/segurancav2.png)
+![Imagem softgoals](../assets/nfr/usabilidade.png)
 </center>
 
 <figcaption align='center'>
-    <b>Figura 5: SIG de segurança</b>
+    <b>Figura 5: SIG de Usabilidade</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
 
-### 3.1.1 SIG de Segurança com propagação
+### 3.1.1 SIG de Usabilidade com propagação
 
 <center>
-![Imagem softgoals](../assets/nfr/segurancaAvalicao.png)
+![Imagem softgoals](../assets/nfr)
 </center>
 
 <figcaption align='center'>
-    <b>Figura 6: SIG de segurança com propagação</b>
+    <b>Figura 6: SIG de Usabilidade com propagação</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption>
+
+### 3.2 SIG de Confiabilidade
+
+<center>
+![Imagem softgoals](../assets/nfr/Confiabilidade.png)
+</center>
+
+<figcaption align='center'>
+    <b>Figura 7: SIG de confiabilidade</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption>
+
+### 3.2.1 SIG de Confiabilidade com propagação
+
+<center>
+![Imagem softgoals](../assets/nfr/ConfiabilidadeAvaliado.png)
+</center>
+
+<figcaption align='center'>
+    <b>Figura 8: SIG de confiabilidade com propagação</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
 

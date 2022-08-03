@@ -4,7 +4,23 @@
 &emsp;&emsp; Em Agile, a técnica de Histórias de usuário, é utilizada para se fazer uma breve descrição, com linguagem simples, e informal, do que um certo usuário quer fazer com o produto de software.Nessas histórias de usuário, utilizaremos os usuários, baseados nas personas que foram criadas na elicitação de requisitos.
 
 ## 2- Metodologia
-&emsp;&emsp;* Eu, como um usuário, gostaria de < OBJETIVO >, para poder < UMA RAZÃO >
+
+&emsp;&emsp; Para a elaboração das Histórias de Usuários, a equipe utilizou na técnica de role playing, para que desta forma pudessemos simular a participação de um usário real do sistema. Nesta técnica, os integrantes Eurico e João Henrique tiveram uma conversa com a integrante Karla que estava interpretando a [persona](../elicitacao/personas.md) Giulia. Podemos ver esta interação a partir do vídeo abaixo:
+
+<center>
+<iframe width="942" height="530" src="https://www.youtube.com/embed/Vs2QrBwkFas" title="Role playing História de Usuário | Requisitos de Software UnB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<figcaption align='center'>
+    <b>Vídeo 1: Role playing</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption>
+
+&emsp;&emsp;Também definimos como padrão de formtado da história o seguinte modelo: 
+<center>
+** Eu, como um usuário, gostaria de < OBJETIVO >, para poder < UMA RAZÃO > **
+</center>
+
 ## 3- Histórias de usuário
 
 | Número | Rastreabilidade | História de usuário| Prioridade(MoscoW)|

@@ -6,6 +6,8 @@
 
 ## 2. Metodologia
 
+&emsp;&emsp; Tomando como base a conversa com a persona durante a realização das [história de usuários](./historiasDeUsuario.md), coletamos informações para poder seguirmos com nosso Backlog.
+
 ### 2.1 Priorização
 
 &emsp;&emsp; A técnica de priorização de requisitos MoSCoW consiste em dividir os requisitos em 4 categorias:
