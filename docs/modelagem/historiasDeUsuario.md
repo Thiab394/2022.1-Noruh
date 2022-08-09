@@ -5,7 +5,7 @@
 
 ## 2- Metodologia
 
-&emsp;&emsp; Para a elaboração das Histórias de Usuários, a equipe utilizou na técnica de role playing, para que desta forma pudessemos simular a participação de um usário real do sistema. Nesta técnica, os integrantes Eurico e João Henrique tiveram uma conversa com a integrante Karla que estava interpretando a [persona](../elicitacao/personas.md) Giulia. Podemos ver esta interação a partir do vídeo abaixo:
+&emsp;&emsp; Para a elaboração das Histórias de Usuários, a equipe utilizou na técnica de role playing, para que desta forma pudessemos simular a participação de um usário real do sistema. Nesta técnica, os integrantes Eurico e João Henrique tiveram uma conversa com a integrante Karla que estava interpretando a [persona](../elicitacao/personas.md) Julia. Podemos ver esta interação a partir do vídeo abaixo:
 
 <center>
 <iframe width="942" height="530" src="https://www.youtube.com/embed/Vs2QrBwkFas" title="Role playing História de Usuário | Requisitos de Software UnB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
