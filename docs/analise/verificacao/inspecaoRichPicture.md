@@ -30,3 +30,9 @@
 - "Introducing Rich Pictures - Rich Picture Drawing Guidelines" - Software Development Project
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2022. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 - MONK, Andrew; HOWARD, Steve. "The Rich Picture: A Tool for Reasoning About Work Context". 1998
+
+## Histórico de versão
+| Versão |      Alteração      | Responsável |           Revisor            |   Data   | Hora  |
+| :----: | :-----------------: | :---------: | :--------------------------: | :------: | :------: |
+|  1.0   |          -          |    João Henrique    |      -               | 12/08/22 |13:00 às 14:55 |
+|  1.1   | Adicionando historico de versões|João Henrique    |      -       | 12/08/22 |15:00 às 15:05 |
