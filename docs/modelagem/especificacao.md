@@ -30,10 +30,13 @@
 - O sistema deve fornecer uma interface gráfica intuitiva.
 - O sistema deve fornecer uma interface responsiva.
 - O sistema deve apresentar um design minimalista
+- O aplicativo precisa de 42.5 mb de espaço para baixar no iphone e de 20 mb para baixar no android
 
 ### 3.3 Confiabilidade
 - O sistema deve garantir a privacidade e segurança dos dados do usuário
 - O sistema deve permitir com que pagamentos sejam realizados com segurança
+- O sistema deve fornecer ao usuário segurança em caso de falhas e proteger o usuário e seus dados
+- O sistema deve se manter ativo pelo maior tempo possível, com seus servidores ativos quase 100% do tempo, e em caso de quedas, ou manutenção do sistema, os usuários devem ser previamente informados.
 
 ### 3.4 Desempenho
 - O sistema deve ter um tempo de resposta de no máximo 100ms.
@@ -45,6 +48,10 @@
 ### 3.5 Suportabilidade
 - O sistema tem que estar disponível na PlayStore (android) e na AppStore (Apple).
 - O sistema deve ser compativel com android versão 8.0 ou superior e IOS versão IOS 11 ou superior.
+
+### 3.6 Requisitos de licenciamento
+- O sistema do Noruh apresenta termos de uso e de privacidade para que o usuário concorde para a utilização do aplicativo. [Termo de Uso Duolingo](https://novo.noruh.com/Home/Politica?codigo=termosDeServico)
+
 
 
 
@@ -59,3 +66,4 @@
 |   1.0  | Criação do documento           |    Eurico  | Lucas | 17/07 |
 |   1.1  | Documento revisado          |    Eurico  | Lucas | 18/07 |
 |   2.0  | Correção após feedback do professor          |    Lucas  | - | 02/08 |
+|   3.0  | Adicionando melhorias após inspeção          |    João  | - | 12/08 |
