@@ -66,4 +66,4 @@
 |   1.0  | Criação do documento           |    Eurico  | Lucas | 17/07 |
 |   1.1  | Documento revisado          |    Eurico  | Lucas | 18/07 |
 |   2.0  | Correção após feedback do professor          |    Lucas  | - | 02/08 |
-|   3.0  | Adicionando melhorias após inspeção          |    João  | - | 12/08 |
+|   3.0  | Adicionando melhorias após inspeção          |    João Henrique  | - | 12/08 |

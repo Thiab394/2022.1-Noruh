@@ -1,10 +1,10 @@
 ## 1.Introdução
 
-Para verificar a parte de Especificação suplementar do projeto de Requisitos de software do aplicativo Noruh, usarei a estratégia de "inspeções", que se trata de um método gerencial de reuniões, no qual se objetiva o descobrimento de defeitos em documentos, buscando assim achar os defeitos na nossa especificação suplementar.
+&emsp;&emsp;Para verificar a parte de Especificação suplementar do projeto de Requisitos de software do aplicativo Noruh, usarei a estratégia de "inspeções", que se trata de um método gerencial de reuniões, no qual se objetiva o descobrimento de defeitos em documentos, buscando assim achar os defeitos na nossa especificação suplementar.
 
 ## 2.Metodologia
 
-Para fazer a inspeção vamos utilizar um "checklist" com algumas perguntas sobre a especificação suplementar que devem ser feitas para que esteja correeto, quando estiver correto, terá um "check" confirmando e quando estiver errado, terá um "X" dizendo que não está correto.
+&emsp;&emsp;Para fazer a inspeção vamos utilizar um "checklist" com algumas perguntas com base no padrão FURPS+ sobre a especificação suplementar que devem ser feitas para que esteja correto, quando estiver correto, terá um "check" confirmando e quando estiver errado, terá um "X" dizendo que não está correto.
 
 ## 3.Perguntas
 
@@ -40,8 +40,17 @@ Para fazer a inspeção vamos utilizar um "checklist" com algumas perguntas sobr
 | 06 | Especificar termo de uso nos requisitos de licenciamento |
 | 07 | Especificar termo de privacidade nos requisitos de licenciamento |
 
+### 4.1 Melhorias Feitas
+- Todas as melhorias encontradas após a inspeção já foram feitas e arrumadas na parte de especificação suplementar do projeto.
+
+## Referências
+- FURPS+ [https://qualidadebr.wordpress.com/2008/07/10/furps/], acesso em 17 de julho de 2022
+- Eberlein, Armin; [Agile Requirements Definition: A View from Requirements Engineering]
+- https://aprender3.unb.br/pluginfile.php/2124537/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf
+ 
 
 ## Histórico de versão
 | Versão |      Alteração      | Responsável |           Revisor            |   Data   | Hora  |
 | :----: | :-----------------: | :---------: | :--------------------------: | :------: | :------: |
-|  1.0   |          -          |    João Henrique    |      Eurico, Lucas                | 12/08/22 |12:30 às 14:30 |
+|  1.0   |          -          |    João Henrique    |      -               | 12/08/22 |12:30 às 14:30 |
+|  1.1   | Adicionando referencias e melhorias feitas ao documento|João Henrique|-| 12/08/22 |14:35 às 14:40 |
