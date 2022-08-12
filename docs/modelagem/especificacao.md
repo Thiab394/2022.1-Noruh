@@ -50,7 +50,7 @@
 - O sistema deve ser compativel com android versão 8.0 ou superior e IOS versão IOS 11 ou superior.
 
 ### 3.6 Requisitos de licenciamento
-- O sistema do Noruh apresenta termos de uso e de privacidade para que o usuário concorde para a utilização do aplicativo. [Termo de Uso Duolingo](https://novo.noruh.com/Home/Politica?codigo=termosDeServico)
+- O sistema do Noruh apresenta termos de uso e de privacidade para que o usuário concorde para a utilização do aplicativo. [Termo de Uso Noruh](https://novo.noruh.com/Home/Politica?codigo=termosDeServico)
 
 
 
