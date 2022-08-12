@@ -27,6 +27,9 @@
 |15 |  O documento fala sobre o termo de uso nos requisitos de licenciamento?| :x: |
 |16 |  O documento fala sobre o termos de privacidade no requisito de licenciamento? | :x: |
 
+### 3.1 Porcentagem de sucesso do checklist
+- 6 ERROS e 10 ACERTOS
+- 62,5% de acertos na especificação suplementar após a inspeção
 
 ## 4.Melhorias
 
@@ -41,16 +44,17 @@
 | 07 | Especificar termo de privacidade nos requisitos de licenciamento |
 
 ### 4.1 Melhorias Feitas
-- Todas as melhorias encontradas após a inspeção já foram feitas e arrumadas na parte de especificação suplementar do projeto.
+- Todas as melhorias encontradas após a inspeção com o "checklist" já foram feitas e arrumadas na parte de especificação suplementar do projeto.
 
 ## Referências
 - FURPS+ [https://qualidadebr.wordpress.com/2008/07/10/furps/], acesso em 17 de julho de 2022
 - Eberlein, Armin; [Agile Requirements Definition: A View from Requirements Engineering]
 - https://aprender3.unb.br/pluginfile.php/2124537/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf
- 
+- SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2022. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
 ## Histórico de versão
 | Versão |      Alteração      | Responsável |           Revisor            |   Data   | Hora  |
 | :----: | :-----------------: | :---------: | :--------------------------: | :------: | :------: |
 |  1.0   |          -          |    João Henrique    |      -               | 12/08/22 |12:30 às 14:30 |
 |  1.1   | Adicionando referencias e melhorias feitas ao documento|João Henrique|-| 12/08/22 |14:35 às 14:40 |
+|  1.2   | Adicionando porcentagem de sucesso|João Henrique|-| 12/08/22 |14:50 às 15:00 |
