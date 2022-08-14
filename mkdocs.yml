@@ -24,7 +24,11 @@ nav:
         - 'NFR Framework': './modelagem/nfrframework.md'
         - 'Histórias de Usuário': './modelagem/historiasDeUsuario.md'
         - 'Backlog do Produto': './modelagem/backlog.md'
-        
+    - Análise:
+        - Verificação:
+            - 'Rich Picture': './analise/verificacao/inspecaoRichPicture.md'
+            - 'Especificação Suplementar': './analise/verificacao/inspecaoEspecificacaoSuplementar.md'
+            - 'Backlog': './analise/verificacao/inspecaoBacklog.md'
     - Apresentações:
         - 'Apresentação 1': './apresentacoes/apresentacao1.md'
         - 'Apresentação 2': './apresentacoes/apresentacao2.md'
