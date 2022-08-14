@@ -1,6 +1,6 @@
 ## 1. Introdução
 
-&emsp;&emsp;Para verificar a parte do Rich Picture do projeto de Requisitos de software do aplicativo Noruh, usarei a estratégia de "inspeções", que se trata de um método gerencial de reuniões, no qual se objetiva o descobrimento de defeitos em documentos, buscando assim achar os defeitos na nossa especificação suplementar.
+&emsp;&emsp;Para verificar a Rich Picture do projeto de Requisitos de software do aplicativo Noruh, usaremos a estratégia de "inspeções", que se trata de um método gerencial de reuniões, no qual se objetiva o descobrimento de defeitos em documentos, buscando assim achar os defeitos em nosso Rich Picture.
 
 ## 2. Metodologia
 
@@ -23,6 +23,11 @@
 | 7 | As relações fazem sentido?| ✅|
 | 8 | Os atores estão fora da fronteira?| ✅|
 | 9 | As operações e armazenamento de dados estão associados corretamente?| ✅|
+
+<figcaption align='center'>
+    <b>Tabela 1: Checklist  </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
 
 ### 3.1 Porcentagem de sucesso do checklist
 - 0 ERROS e 9 ACERTOS

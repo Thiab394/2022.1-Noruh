@@ -20,62 +20,258 @@
 
 &emsp;&emsp;Os Épicos foram separados da seguinte forma:
 
-- Conta
-- Conteúdo
+- Gerenciamento de Conta
+- Restaurante
+- Informações sobre Estabelecimentos
 
-### 3.1 Épico 1 - Conta
+## 4. Backlog
 
-<center>
+### 4.1 Épico Gerenciamento de Conta
+&emsp;&emsp; Abaixo pode-se encontrar as histórias referentes ao épico Gerenciamento de conta:
 
-#### Tabela 1: Conta
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-nrix">Épico</th>
+    <th class="tg-nrix">Tema</th>
+    <th class="tg-nrix">ID / Rastreabilidade</th>
+    <th class="tg-nrix">História de Usuário</th>
+    <th class="tg-nrix">Prioridade</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nrix" rowspan="7">Gerenciamento <br>de Conta</td>
+    <td class="tg-nrix" rowspan="4">Cadastro e Login</td>
+    <td class="tg-nrix">US01 / RF1</td>
+    <td class="tg-nrix">Eu, como um usuário, gostaria de Criar conta, Para poder Ter acesso às funcionalidades do app</td>
+    <td class="tg-nrix">Alta</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">US02/ RF02</td>
+    <td class="tg-nrix">Eu, como um usuário, gostaria de Realizar o login da conta, Para poder Ter acesso a conta e realizar pedidos</td>
+    <td class="tg-nrix">Alta</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">US11/ RF11</td>
+    <td class="tg-nrix">Eu, como um usuário, gostaria de Realizar o logout da conta, Para poder Fazer login com outro perfil no meu celular</td>
+    <td class="tg-nrix">Alta</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">US10 / RF10</td>
+    <td class="tg-0lax">Eu, como um usuário, gostaria de Cadastrar múltiplos endereços, Para poder Salvar no app caso eu precise</td>
+    <td class="tg-0lax">Alta</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Edição de Conta</td>
+    <td class="tg-nrix">US06 / RF06</td>
+    <td class="tg-nrix">Eu, como um usuário, gostaria de Editar perfil, Para poder Atualizar minhas informações pessoais</td>
+    <td class="tg-nrix">Alta</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Histórico </td>
+    <td class="tg-0lax">US18 / RF18</td>
+    <td class="tg-0lax">Eu, como um usuário, gostaria de Acessar o histórico de contas, Para poder Verificar informações sobre contas anteriores</td>
+    <td class="tg-0lax">Média</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Termos de Uso</td>
+    <td class="tg-0lax">US08 / RF08</td>
+    <td class="tg-0lax">Eu, como um usuário, gostaria de Acessar os termos de uso, Para poder Analisar as informações que o app utiliza</td>
+    <td class="tg-0lax">Alta</td>
+  </tr>
+</tbody>
+</table>
 
-| História de Usuário | Rastreabilidade |   Eu, como um usuário, gostaria de...   |                      Para poder...                       | Prioridade |
-| :-----------------: | :-------------: | :-------------------------------------: | :------------------------------------------------------: | :----------------: |
-|        US01         |       RF1       |               Criar conta               |           Ter acesso às funcionalidades do app           |        Alta        |
-|        US02         |       RF2       |        Realizar o login da conta        |          Ter acesso a conta e realizar pedidos           |        Alta        |
-|        US06         |       RF6       |              Editar perfil              |          Atualizar minhas informações pessoais           |        Alta        |
-|        US11         |      RF11       |       Realizar o logout da conta        |       Fazer login com outro perfil no meu celular        |        Alta        |
-|        US20         |      RF20       | Adicionar múltiplas formas de pagamento | Escolher entre diferentes opções ao realizar o pagamento |       Média        |
+<figcaption align='center'>
+    <b>Tabela 1: Tabela épico Gerenciamento de Contas  </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
 
-<figcaption>Fonte: Elaboração Própria</figcaption>
 
-</center>
+### 4.2 Épico Restaurante
+&emsp;&emsp; Abaixo pode-se encontrar as histórias referentes ao épico Restaurante:
 
-### 3.2 Épico 2 - Conteúdo
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow">Épico</th>
+    <th class="tg-c3ow">Tema</th>
+    <th class="tg-c3ow">ID / Rastreabilidade</th>
+    <th class="tg-c3ow">História de Usuário</th>
+    <th class="tg-c3ow">Prioridade</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9wq8" rowspan="11">Restaurante</td>
+    <td class="tg-9wq8" rowspan="4">Fazer pedido <br>no restaurante</td>
+    <td class="tg-9wq8">US03 / RF3</td>
+    <td class="tg-9wq8">Eu, como um usuário, gostaria de Realizar pedidos Para poder Pedir a minha comida no restaurante através do celular </td>
+    <td class="tg-9wq8">Alta</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">US04 / RF4</td>
+    <td class="tg-9wq8">Eu, como um usuário, gostaria de Acessar o cardápio Para poder Escolher o meu pedido</td>
+    <td class="tg-9wq8">Alta</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">US05 / RF5</td>
+    <td class="tg-9wq8">Eu, como um usuário, gostaria de Abrir uma comanda por um QR Code Para poder Realizar o pedido de forma mais prática</td>
+    <td class="tg-9wq8">Alta</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">US17 / RF17</td>
+    <td class="tg-nrix">Eu, como um usuário, gostaria de Receber notificações do pedido Para poder Ficar atualizado sobre o andamento do pedido</td>
+    <td class="tg-cly1">Média</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8" rowspan="5">Pagamento</td>
+    <td class="tg-9wq8">US20 / RF20</td>
+    <td class="tg-9wq8">Eu como usuario, gostaria de adicionar multíplas formas de pagamento, para poder escolher entre diferentes opções ao realizar o pagamento</td>
+    <td class="tg-9wq8">Média</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">US15 / RF15</td>
+    <td class="tg-9wq8">Eu como usuario, gostaria de Realizar pagamentos, para poder Concluir o pedido e fechar a comanda</td>
+    <td class="tg-9wq8">Média</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">US21 / RF21</td>
+    <td class="tg-9wq8">Eu como usuario, gostaria de Parcelar pagamentos, para poder Realizar o pagamento em parcelas ao invés de à vista</td>
+    <td class="tg-lboi">Média</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">US14 / RF14</td>
+    <td class="tg-9wq8">Eu como usuario, gostaria de Cadastrar cartões, para poder Acessá-los de forma rápida e prática</td>
+    <td class="tg-lboi">Média</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">US13 / RF13</td>
+    <td class="tg-nrix">Eu como usuario, gostaria de Solicitar a comanda, para poder Realizar o pagamento de outra forma fora do app</td>
+    <td class="tg-cly1">Alta</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2">Fila de espera <br>do Restaurante</td>
+    <td class="tg-cly1">US27 / RF27</td>
+    <td class="tg-nrix">Eu como usuario, gostaria de Entrar na fila de espera dos estabelecimentos, para poder Esperar minha vez de ser atendido</td>
+    <td class="tg-cly1">Baixa</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">US28 / RF28</td>
+    <td class="tg-nrix">Eu como usuario, gostaria de Receber notificações sobre a fila de espera, para poder Me manter atualizado sobre a situação da fila</td>
+    <td class="tg-cly1">Baixa</td>
+  </tr>
+</tbody>
+</table>
 
-<center>
+<figcaption align='center'>
+    <b>Tabela 2: Tabela épico Restaurantes  </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
 
-#### Tabela 2: Conteúdo
+### 4.3 Épico Informações sobre Estabelecimentos
 
-| História de Usuário | Rastreabilidade |       Eu, como um usuário, gostaria de...        |                        Para poder...                        | Prioridade |
-| :-----------------: | :-------------: | :----------------------------------------------: | :---------------------------------------------------------: | :----------------: |
-|        US03         |       RF3       |                 Realizar pedidos                 |   Pedir a minha comida no restaurante através do celular    |        Alta        |
-|        US04         |       RF4       |                Acessar o cardápio                |                    Escolher o meu pedido                    |        Alta        |
-|        US05         |       RF5       |         Abrir uma comanda por um QR Code         |           Realizar o pedido de forma mais prática           |        Alta        |
-|        US07         |       RF7       |           Pesquisar restaurantes/bares           |         Escolher o restaurante de minha preferência         |        Alta        |
-|        US08         |       RF8       |             Acessar os termos de uso             |          Analisar as informações que o app utiliza          |        Alta        |
-|        US09         |       RF9       |        Ver a localização dos restaurantes        |                Chegar ao restaurante com GPS                |        Alta        |
-|        US10         |      RF10       |          Cadastrar múltiplos endereços           |                Salvar no app caso eu precise                |        Alta        |
-|        US12         |      RF12       |              Selecionar uma cidade               |    Buscar restaurantes/bares perto da minha localização     |        Alta        |
-|        US13         |      RF13       |               Solicitar a comanda                |       Realizar o pagamento de outra forma fora do app       |        Alta        |
-|        US14         |      RF14       |                Cadastrar cartões                 |            Acessá-los de forma rápida e prática             |       Média        |
-|        US15         |      RF15       |               Realizar pagamentos                |            Concluir o pedido e fechar a comanda             |       Média        |
-|        US16         |      RF16       |        Visualizar os restaurantes abertos        | Identificar quais lugares estão em serviço no horário atual |       Média        |
-|        US17         |      RF17       |          Receber notificações do pedido          |        Ficar atualizado sobre o andamento do pedido         |       Média        |
-|        US18         |      RF18       |          Acessar o histórico de contas           |        Verificar informações sobre contas anteriores        |       Média        |
-|        US19         |      RF19       |     Visualizar descrição do estabelecimento      |     Verificar informações mais detalhadas sobre o local     |       Média        |
-|        US21         |      RF21       |               Parcelar pagamentos                |    Realizar o pagamento em parcelas ao invés de à vista     |       Média        |
-|        US22         |      RF22       |    Filtrar estabelecimentos pela localização     |      Escolher o local de acordo com minha necessidade       |       Baixa        |
-|        US23         |      RF23       |            Avaliar restaurantes/bares            |   Dar opiniões sobre minha experiência no estabelecimento   |       Baixa        |
-|        US24         |      RF24       |     Filtrar estabelecimentos pela categoria      |      Especificar qual tipo de especialidade eu desejo       |       Baixa        |
-|        US25         |      RF25       |     Filtrar estabelecimentos pela avaliação      |        Ter uma noção da qualidade do estabelecimento        |       Baixa        |
-|        US26         |      RF26       | Visualizar estabelecimentos com promoções ativas |         Economizar ao frequentar um estabelecimento         |       Baixa        |
-|        US27         |      RF27       |  Entrar na fila de espera dos estabelecimentos   |              Esperar minha vez de ser atendido              |       Baixa        |
-|        US28         |      RF28       |   Receber notificações sobre a fila de espera    |        Me manter atualizado sobre a situação da fila        |       Baixa        |
+&emsp;&emsp; Abaixo pode-se encontrar as histórias referentes ao épico Informações sobre Estabelecimentos:
 
-<figcaption>Fonte: Elaboração Própria</figcaption>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-nrix">Épico</th>
+    <th class="tg-nrix">Tema</th>
+    <th class="tg-nrix">ID / Rastreabilidade</th>
+    <th class="tg-nrix">História de Usuário</th>
+    <th class="tg-nrix">Prioridade</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nrix" rowspan="9">Informações sobre <br>Estabelecimentos</td>
+    <td class="tg-nrix" rowspan="6">Pesquisas e Filtros<br>para Visulaização</td>
+    <td class="tg-nrix">US07 / RF7</td>
+    <td class="tg-nrix">Eu como usuario, gostaria de Pesquisar restaurantes/bares, para poder Escolher o restaurante de minha preferência</td>
+    <td class="tg-nrix">Alta</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">US12 / RF12</td>
+    <td class="tg-nrix">Eu como usuario, gostaria de Selecionar uma cidade, para poder Buscar restaurantes/bares perto da minha localização</td>
+    <td class="tg-nrix">Alta</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">US16 / RF16</td>
+    <td class="tg-nrix">Eu como usuario, gostaria de Visualizar os restaurantes abertos, para poder Identificar quais lugares estão em serviço no horário atual</td>
+    <td class="tg-nrix">Média</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">US22 / RF22</td>
+    <td class="tg-nrix">Eu como usuario, gostaria de Filtrar estabelecimentos pela localização, para poder Escolher o local de acordo com minha necessidade</td>
+    <td class="tg-nrix">Baixa</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">US25 / RF25</td>
+    <td class="tg-0lax">Eu como usuario, gostaria de Filtrar estabelecimentos pela avaliação, para poder Ter uma noção da qualidade do estabelecimento</td>
+    <td class="tg-0lax">Baixa</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">US26 / RF26</td>
+    <td class="tg-0lax">Eu como usuario, gostaria de Visualizar estabelecimentos com promoções ativas, para poder Economizar ao frequentar um estabelecimento</td>
+    <td class="tg-0lax">Baixa</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Avaliação</td>
+    <td class="tg-nrix">US23 / RF23</td>
+    <td class="tg-nrix">Eu como usuario, gostaria de Avaliar restaurantes/bares, para poder Dar opiniões sobre minha experiência no estabelecimento</td>
+    <td class="tg-nrix">Baixa</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2">Descrição</td>
+    <td class="tg-nrix">US19/ RF19</td>
+    <td class="tg-nrix">Eu como usuario, gostaria de Visualizar descrição do estabelecimento, para poder Verificar informações mais detalhadas sobre o local</td>
+    <td class="tg-nrix">Média</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">US09 / RF09</td>
+    <td class="tg-nrix">Eu como usuario, gostaria de Ver a localização dos restaurantes, para poder Chegar ao restaurante com GPS</td>
+    <td class="tg-nrix">Alta</td>
+  </tr>
+</tbody>
+</table>
 
-</center>
+<figcaption align='center'>
+    <b>Tabela 3: Tabela épico Informações sobre Estabelecimentos  </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
 
 ## 4. Histórico de Versão
 
@@ -83,6 +279,7 @@
 | :----: | :-------------------: | :---------: | :-----: | :--------: | :------------: |
 |  1.0   | Abertura do documento |    Bruno    |         |  01/08/22  | 10:30 às 12:10 |
 |  1.1   |  Adicionando épicos   |    Bruno    |         | 02/08/2022 | 19:30 às 20:15 |
+|  2.0   |  Adicionando temas e alterando épicos   |    Lucas    |         | 14/08/2022 | 14:00 às 16:30 |
 
 ## 5. Referências
 
