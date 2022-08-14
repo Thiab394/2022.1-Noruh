@@ -68,7 +68,7 @@
 | Fazer Especificação Suplementar |                   Eurico                   |            Todos             | 17/07 |
 |         Fazer Cenários          |               João Henrique                |            Todos             | 16/07 |
 |          Fazer léxicos          |               Bruno e Karla                | Eurico, João Henrique, Lucas | 18/07 |
-|       Fazer casos de uso        |                   Lucas                    |            Todos             |   17/07   |
+|       Fazer casos de uso        |                   Lucas                    |            Todos             | 17/07 |
 |       Gravar apresentação       | João Henrique, Karla, Lucas, Eurico, Bruno |                              |   -   |
 
 </center>
@@ -91,6 +91,25 @@
 
 
 ### 3.5 Entrega 5
+
+<center>
+
+|            Atividade            |                Responsável                 |           Revisor            | Data  |
+| :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
+| Fazer verificação dos cenários           |  Bruno                             |               -             |  -   |
+| Fazer prototipação           | Lucas                              |              -                          |   -   |
+| Fazer verificação Rich Picture                 | João Henrique                                      |               Lucas              |   12/08   |
+| Fazer verificação backlog      | Lucas                       |               -              |   14/08   |
+| Fazer verificação especificação suplementar             |João Henrique |               Lucas              |   12/08   |   
+| Fazer verificação Léxicos             | Bruno |               -              |   -   |    
+| Fazer validação viewpoint             | Eurico |               -              |   -   |
+| Fazer validação informal             | Eurico |               -              |   -   |    
+| Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |               -              |   16/8   |
+
+
+
+</center>
+
 
 ### 3.6 Entrega 6
 
@@ -117,6 +136,7 @@
 |  2.0   | Cronograma entrega 2 | João Henrique, Bruno |     Lucas     | 03/07 |
 |  3.0   | Cronograma entrega 3 |    João Henrique     |     Lucas     | 16/07 |
 |  4.0   | Cronograma entrega 4 |    João Henrique     |     Lucas     | 29/07 |
+|  5.0   | Cronograma entrega 5 |    João Henrique     |     Lucas     | 14/08 |
 
 ## Referências
 
