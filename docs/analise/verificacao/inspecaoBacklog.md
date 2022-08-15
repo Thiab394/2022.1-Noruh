@@ -44,7 +44,7 @@
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
-### 3.2 Histórias de Usuário
+## 4. Checklist Histórias de Usuário
 
 ## Referências
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2022. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
