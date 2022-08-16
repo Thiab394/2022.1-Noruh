@@ -139,13 +139,7 @@
     <br><small> Fonte:Elaboração Própria </small>
 </figcaption>
 
-#### 3.2 Porcentagem de sucesso do checklist
-- 6 ERROS e 10 ACERTOS
-- 62,5% de acertos na especificação suplementar após a inspeção
-#### 3.3 Grafico
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FP04h4Jf130atOAqtxMnFGh%2Fgrafico-especificacao-suplementar" allowfullscreen></iframe>
-
-## 4.Melhorias
+## 4.Correção
 &emsp;&emsp; Após fazermos a checklist, identificamos as seguintes melhorias a serem feita no artfato:
 
 | Especificação Suplementar | Melhoria |
@@ -163,8 +157,15 @@
     <br><small> Fonte:Elaboração Própria </small>
 </figcaption>
 
-## 5. Checklist Versão 2
-&emsp;&emsp; Todas as melhorias encontradas após a inspeção com o "checklist" foram feitas e arrumadas na parte de especificação suplementar do projeto. Dessa forma, obtivemos a seguinte checklist:
+## 5. Acompanhamento
+#### 5.1 Porcentagem de sucesso do checklist
+- 6 ERROS e 10 ACERTOS
+- 62,5% de acertos na especificação suplementar após a inspeção
+#### 5.2 Grafico
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FP04h4Jf130atOAqtxMnFGh%2Fgrafico-especificacao-suplementar" allowfullscreen></iframe>
+
+
+## 5. Inspeção Versão 2
 
 |ID|Questão| Inspeção |
 |-----------|-------------|-------------|
@@ -190,10 +191,14 @@
     <br><small> Fonte:Elaboração Própria </small>
 </figcaption>
 
-### 5.1 Porcentagem de sucesso do checklist
+## 6. Correção
+&emsp;&emsp; Todas as melhorias encontradas após a inspeção com o "checklist" foram feitas e arrumadas na parte de especificação suplementar do projeto. Dessa forma, obtivemos a seguinte checklist:
+
+## 7. Acompanhamento
+### 7.1 Porcentagem de sucesso do checklist
 - 0 ERROS e 16 ACERTOS
 - 100% de acertos na especificação suplementar após a inspeção
-### 5.2 Grafico
+### 7.2 Grafico
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FRwJ08bM4KVk5hGlX5QAW7e%2Fgrafico-EspecificacaoSuplementar2" allowfullscreen></iframe>
 
 
