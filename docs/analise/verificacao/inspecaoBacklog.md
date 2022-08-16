@@ -46,8 +46,42 @@
 
 ## 4. Checklist Histórias de Usuário
 
+| ID | Questão | US01 | US02 | US03 | US04 | US05 | US06 | US07 | US08 | US09 | US10 | US11 | US12 | US13 | US14 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Possui descrição clara e de fácil entendimento? | ✅ |✅  |✅  |✅  |✅  |✅  |✅  |✅  |✅  |✅  |✅  |✅  |✅  |✅  |
+| 2 | Possui rastreabilidade? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 3 | É possível identificar os atores? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |✅  |✅  |✅  |✅  |✅  |
+| 4 | É possível identificar os desejos dos atores? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 5 | A prioridade está correta? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 6 | Possui identificação? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 7 | Possui critérios de aceitação? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 8 | Foi definido um critério de aceitação para cada funcionalidade dentro da história? | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+<figcaption align='center'>
+    <b>Tabela 3: Checklist Histórias de Usuário US01-US14 </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
+
+| ID | Questão | US15 | US16 | US17 | US18 | US19 | US20 | US21 | US22 | US23 | US24 | US25 | US26 | US27 | US28 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Possui descrição clara e de fácil entendimento? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 2 | Possui rastreabilidade? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 3 | É possível identificar os atores? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 4 | É possível identificar os desejos dos atores? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 5 | A prioridade está correta? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 6 | Possui identificação? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |✅  | ✅ |
+| 7 | Possui critérios de aceitação? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |  ✅|  ✅|  ✅|  ✅|  ✅|  ✅|
+| 8 | Foi definido um critério de aceitação para cada funcionalidade dentro da história? | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+<figcaption align='center'>
+    <b>Tabela 4: Checklist Histórias de Usuário US15-US28 </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
+
 ## Referências
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2022. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+- Lista de Verificação da Qualidade de Artefatos - Checklist Ágil. Ministério da Agricultura, Pecuária e Abastecimento. Disponível em:  [link](https://www.gov.br/agricultura/pt-br/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view)
 
 ## Histórico de versão
 | Versão |      Alteração      | Responsável |           Revisor            |   Data   | Hora  |

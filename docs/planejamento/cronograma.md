@@ -103,7 +103,9 @@
 | Fazer verificação especificação suplementar             |João Henrique |               Lucas              |   12/08   |   
 | Fazer verificação Léxicos             | Bruno |               -              |   -   |    
 | Fazer validação viewpoint             | Eurico |               -              |   -   |
-| Fazer validação informal             | Eurico |               -              |   -   |    
+| Fazer validação informal             | Eurico |               -              |   -   | 
+| Fazer verificação NFR Framework             | Karla |               -              |   -   | 
+| Fazer verificação Casos de Uso             | Karla |               -              |   -   |    
 | Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |               -              |   16/8   |
 
 

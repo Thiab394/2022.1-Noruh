@@ -65,7 +65,7 @@
 </figcaption>
 
 ### 2.4 Rótulos
-<p>&emsp;&emsp;Os rótulos sao graus de satisfacao, determinados a partir de um processo de avaliacao.</p>
+<p>&emsp;&emsp;Os rótulos são graus de satisfação, determinados a partir de um processo de avaliação.</p>
 
 
 <center>

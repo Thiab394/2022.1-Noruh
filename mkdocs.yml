@@ -26,6 +26,7 @@ nav:
         - 'Backlog do Produto': './modelagem/backlog.md'
     - Análise:
         - Verificação:
+            - 'Planejamento da Verificação': './analise/verificacao/planejamento.md'
             - 'Rich Picture': './analise/verificacao/inspecaoRichPicture.md'
             - 'Especificação Suplementar': './analise/verificacao/inspecaoEspecificacaoSuplementar.md'
             - 'Backlog': './analise/verificacao/inspecaoBacklog.md'
