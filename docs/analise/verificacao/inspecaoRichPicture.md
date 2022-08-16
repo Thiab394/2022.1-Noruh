@@ -74,14 +74,15 @@
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
-#### 3.2 Porcentagem de sucesso do checklist
+## 4. Correção 
+&emsp;&emsp;Após a inspeção do rich picture de acordo com o nosso checklist feito com base nas referências citadas abaixo nesse documento, o nosso rich picture está bom, e não será necessário nenhuma mudança na imagem, sendo assim não necessita de nenhuma melhoria até o presente momento.
+
+## 5. Acompanhamento
+### 5.1 Porcentagem de sucesso do checklist
 - 0 ERROS e 9 ACERTOS
 - 100% de acertos
-#### 3.3 Grafico
+#### 5.2 Grafico de acompanhamento
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FB6LxppBqsl4UCasYZczm6s%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
-
-## 4. Melhorias 
-&emsp;&emsp;Após a inspeção do rich picture de acordo com o nosso checklist feito com base nas referências citadas abaixo nesse documento, o nosso rich picture está bom, e não será necessário nenhuma mudança na imagem, sendo assim não necessita de nenhuma melhoria até o presente momento.
 
 
 ## Referências
