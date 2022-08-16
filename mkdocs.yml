@@ -29,6 +29,7 @@ nav:
             - 'Rich Picture': './analise/verificacao/inspecaoRichPicture.md'
             - 'Especificação Suplementar': './analise/verificacao/inspecaoEspecificacaoSuplementar.md'
             - 'Backlog': './analise/verificacao/inspecaoBacklog.md'
+            - 'Casos de Uso': './analise/verificacao/inspecaoCasosDeUso.md'
         - Validação:
             - 'Protótipo': './analise/validacao/prototipo.md'
     - Apresentações:
