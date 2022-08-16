@@ -51,6 +51,11 @@
 - MONK, Andrew; HOWARD, Steve. "The Rich Picture: A Tool for Reasoning About Work Context". 1998
 
 ## Histórico de versão
+
 | Versão |      Alteração      | Responsável |           Revisor            |   Data   | Hora  |
 | :----: | :-----------------: | :---------: | :--------------------------: | :------: | :------: |
-|  1.0   | Adicionando versão 2.0  |João Henrique    |      -       | 16/08/22 |12:40 às 13:10 |
+|  1.0   |          -          |    João Henrique    |Lucas               | 12/08/22 |13:00 às 14:55 |
+|  1.1   | Adicionando historico de versões|João Henrique    |      Lucas       | 12/08/22 |15:00 às 15:05 |
+|  1.2   | Arquivo revisado |Lucas    |      -       | 14/08/22 |13:00 às 13:30 |
+|  1.3   | Adicionando V1  |João Henrique    |      -       | 16/08/22 |13:56 às 14:00 |
+|  2.0   | Adicionando versão 2.0  |João Henrique    |      -       | 16/08/22 |12:40 às 13:10 |
