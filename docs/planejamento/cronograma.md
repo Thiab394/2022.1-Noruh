@@ -98,9 +98,9 @@
 | :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
 | Fazer verificação dos cenários           |  Bruno                             |               -             |  -   |
 | Fazer prototipação           | Lucas                              |              -                          |   -   |
-| Fazer verificação Rich Picture                 | João Henrique                                      |               Lucas              |   12/08   |
+| Fazer verificação Rich Picture                 | João Henrique                                      |               Lucas              |   16/08   |
 | Fazer verificação backlog      | Lucas                       |               -              |   14/08   |
-| Fazer verificação especificação suplementar             |João Henrique |               Lucas              |   12/08   |   
+| Fazer verificação especificação suplementar             |João Henrique |               Lucas              |   16/08   |   
 | Fazer verificação Léxicos             | Bruno |               -              |   -   |    
 | Fazer validação viewpoint             | Eurico |               -              |   -   |
 | Fazer validação informal             | Eurico |               -              |   -   | 
