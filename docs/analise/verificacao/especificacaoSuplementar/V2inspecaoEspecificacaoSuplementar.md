@@ -1,4 +1,4 @@
-# Versão 2.0
+# Versão 2.0  inspeção especificação suplementar
 
 ## 1. Introdução
 
