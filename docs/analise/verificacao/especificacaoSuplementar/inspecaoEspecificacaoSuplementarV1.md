@@ -1,3 +1,5 @@
+# Versão 1 inspeção especificação suplementar
+
 ## 1.Introdução
 
 &emsp;&emsp;Para verificar a parte de Especificação suplementar do projeto de Requisitos de software do aplicativo Noruh, usaremos a estratégia de "inspeções", que se trata de um método gerencial de reuniões, no qual se objetiva o descobrimento de defeitos em documentos, buscando assim achar os defeitos na nossa especificação suplementar.
