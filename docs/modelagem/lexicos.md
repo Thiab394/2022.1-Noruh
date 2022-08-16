@@ -228,10 +228,10 @@
 
 ## Histórico de Versão
 
-| Versão |      Alteração      | Responsável |           Revisor            |   Data   |
-| :----: | :-----------------: | :---------: | :--------------------------: | :------: |
-|  1.0   |          -          |    Karla    |            Bruno             | 17/07/22 |
-|  1.1   | Adicionando léxicos |    Bruno    | Eurico, João Henrique, Lucas | 18/07/22 |
+| Versão |      Alteração      | Responsável |               Revisor               |   Data   |
+| :----: | :-----------------: | :---------: | :---------------------------------: | :------: |
+|  1.0   |          -          |    Karla    |                Bruno                | 17/07/22 |
+|  1.1   | Adicionando léxicos |    Karla    | Bruno, Eurico, João Henrique, Lucas | 18/07/22 |
 
 ## Referências
 
