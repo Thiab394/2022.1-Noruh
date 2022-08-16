@@ -132,5 +132,9 @@ Como podemos ver no checklist obtivemos as informações abaixo:
 ## Histórico de versão
 | Versão |      Alteração      | Responsável |           Revisor            |   Data   | Hora  |
 | :----: | :-----------------: | :---------: | :--------------------------: | :------: | :------: |
-|  1.0   |          Adicionando V2 especificação suplementar          |    João Henrique    |Lucas               | 16/08/22 |11:30 às 12:55 |
+|  1.0   |          -          |    João Henrique    |    Lucas               | 12/08/22 |12:30 às 14:30 |
+|  1.1   | Adicionando referencias e melhorias feitas ao documento|João Henrique|Lucas| 12/08/22 |14:35 às 14:40 |
+|  1.2   | Adicionando porcentagem de sucesso|João Henrique|Lucas| 12/08/22 |14:50 às 15:00 |
+|  1.3   | Arquivo revisado |Lucas    |      -       | 14/08/22 |13:30 às 14:00 |
+|  2.0   | Adicionando versão 2.0 |João Henrique    |      -       | 16/08/22 |11:30 às 12:50 |
 
