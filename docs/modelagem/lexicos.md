@@ -39,21 +39,21 @@
 
 ### Léxico 03
 
-| **L03**           | Cardápio                                                          |
-| ----------------- | ----------------------------------------------------------------- |
-| **Classificação** | Objeto.                                                           |
-| **Sinônimos**     | Menu, lista.                                                      |
-| **Noção**         | Lista de pratos de um estabelecimento.                            |
-| **Impacto**       | O usuário visualiza o cardápio. <br> O usuário fornece cardápios. |
+| **L03**           | Cardápio                                                                  |
+| ----------------- | ------------------------------------------------------------------------- |
+| **Classificação** | Objeto.                                                                   |
+| **Sinônimos**     | Menu, lista.                                                              |
+| **Noção**         | Lista de pratos de um estabelecimento.                                    |
+| **Impacto**       | O usuário visualiza o cardápio. <br> O estabelecimento fornece cardápios. |
 
 ### Léxico 04
 
-| **L04**           | Cidade                                                  |
-| ----------------- | ------------------------------------------------------- |
-| **Classificação** | Objeto.                                                 |
-| **Sinônimos**     | Local, município.                                       |
-| **Noção**         | Local onde o usuário ou o estabelecimento se encontram. |
-| **Impacto**       | O usuário escolhe uma cidade.                           |
+| **L04**           | Cidade                              |
+| ----------------- | ----------------------------------- |
+| **Classificação** | Objeto.                             |
+| **Sinônimos**     | Local, município.                   |
+| **Noção**         | Local onde o usuário o se encontra. |
+| **Impacto**       | O usuário escolhe uma cidade.       |
 
 ### Léxico 05
 
@@ -70,7 +70,7 @@
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Objeto.                                                                                                                                                                                                                     |
 | **Sinônimos**     | Ajustar.                                                                                                                                                                                                                    |
-| **Noção**         | Configurar permisões do aplicativo no sistema móvel.                                                                                                                                                                        |
+| **Noção**         | Configurar permissões do aplicativo no sistema móvel.                                                                                                                                                                       |
 | **Impacto**       | O usuário pode ligar/desligar a localização. <br> O usuário pode ligar/desligar as notificações. <br> O usuário pode ligar/desligar o acesso à câmera. <br> O usuário pode ligar/desligar o acesso à galeria de fotos. <br> |
 
 ### Léxico 07
@@ -78,7 +78,7 @@
 | **L07**           | Cozinhas                                                                                                                    |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Objeto.                                                                                                                     |
-| **Sinônimos**     | Especialidade, tipo.                                                                                                        |
+| **Sinônimos**     | Especialidade, categoria.                                                                                                   |
 | **Noção**         | Tipo dos serviços fornecidos por um estabelecimento.                                                                        |
 | **Impacto**       | O usuário escolhe uma cozinha. <br> O estabelecimento tem tipos de cozinha. <br> O sistema apresenta uma lista de cozinhas. |
 
@@ -123,7 +123,7 @@
 | **L12**           | Estabelecimento                                                                   |
 | ----------------- | --------------------------------------------------------------------------------- |
 | **Classificação** | Objeto.                                                                           |
-| **Sinônimos**     | Empresa, armazém, loja.                                                           |
+| **Sinônimos**     | Restaurante, armazém, loja.                                                       |
 | **Noção**         | Lugar que oferece serviços aos usuários.                                          |
 | **Impacto**       | O usuário escolhe um estabelecimento. <br> O usuário cadastra um estabelecimento. |
 
@@ -177,7 +177,7 @@
 | **L18**           | Notificar                                                                                     |
 | ----------------- | --------------------------------------------------------------------------------------------- |
 | **Classificação** | Verbo.                                                                                        |
-| **Sinônimos**     | Avisar, informar, atualizar.                                                                  |
+| **Sinônimos**     | Avisar, informar.                                                                             |
 | **Noção**         | Informa o usuário sobre o estado de algo.                                                     |
 | **Impacto**       | O usuário notifica o cliente. <br> O usuário é notificado. <br> O sistema notifica o usuário. |
 
@@ -196,7 +196,7 @@
 | ----------------- | ------------------------------------------------------------------------------------------------------------- |
 | **Classificação** | Verbo.                                                                                                        |
 | **Sinônimos**     | Explorar, buscar.                                                                                             |
-| **Noção**         | Pesquisar por estabelecimentos por cozinha ou nome.                                                           |
+| **Noção**         | Pesquisar por estabelecimentos por categoria ou nome.                                                         |
 | **Impacto**       | O usuário escreve ou seleciona uma opção de pesquisa. <br> Uma lista filtrada é disponibilizada após a busca. |
 
 ### Léxico 21
