@@ -122,9 +122,10 @@ Como podemos ver no checklist obtivemos as informações abaixo:
 
 
 ## Referências
-- "Introducing Rich Pictures - Rich Picture Drawing Guidelines" - Software Development Project
+- FURPS+ [https://qualidadebr.wordpress.com/2008/07/10/furps/], acesso em 17 de julho de 2022
+- Eberlein, Armin; [Agile Requirements Definition: A View from Requirements Engineering]
+- https://aprender3.unb.br/pluginfile.php/2124537/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2022. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
-- MONK, Andrew; HOWARD, Steve. "The Rich Picture: A Tool for Reasoning About Work Context". 1998
 
 ## Histórico de versão
 | Versão |      Alteração      | Responsável |           Revisor            |   Data   | Hora  |
