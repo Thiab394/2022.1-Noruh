@@ -57,3 +57,4 @@
 |   1.0  |                    Criação do documento                  |    Lucas | João Henrique | 17/07 |
 |   1.1  |                   Documento Revisado                   |    João Henrique | - | 18/07 |
 |   1.2  |                  Adiciona legendas e texto introdutório                   |    Lucas | - | 02/08 |
+|   1.3  |                  Correções após a etapa de verificação                    |    Karla | - | 16/08 |    
