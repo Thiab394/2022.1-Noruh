@@ -133,6 +133,7 @@
 |  1.0   |             -             |    João Henrique    | Eurico, Karla, Bruno, Lucas | 16/07 |
 |  1.1   |   Melhora da Introdução   |    João Henrique    | Eurico, Karla, Bruno, Lucas | 17/07 |
 |  1.2   | Arrumando rastreabilidade | João Henrique,Lucas |    Eurico, Karla, Bruno     | 19/07 |
+|  2.0   | Revisando documento | Bruno |    Eurico, Karla, João Henrique, Lucas     | 16/08 |
 
 ## Referências
 
