@@ -72,8 +72,8 @@
 |  1  | Os cenários possuem título, objetivo, contexto, recurso, episódios e exceção? |    ✅    |
 |  2  |                   É possível associar o título ao objetivo?                   |    ✅    |
 |  3  |                         O contexto foi bem definido?                          |    ❌    |
-|  4  |                     Os atores foram colocados no cenário?                     |          |
-|  5  |              Os episódios ajudam a atingir o objetivo descrito?               |          |
+|  4  |                     Os atores foram colocados no cenário?                     |     ✅     |
+|  5  |              Os episódios ajudam a atingir o objetivo descrito?               |     ✅     |
 |  6  |        Os recursos são realmente necessários e estão todos presentes?         |    ✅    |
 
 <figcaption align='center'>
