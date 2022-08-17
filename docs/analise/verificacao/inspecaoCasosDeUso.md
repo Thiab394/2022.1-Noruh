@@ -1,6 +1,6 @@
 ## 1. Introdução
 
-&emsp;&emsp;Para verificar os Casos de Uso do projeto de Requisitos de software do aplicativo Noruh, usaremos a estratégia de "inspeções", no qual se objetiva o descobrimento de defeitos em documentos, buscando assim achar os defeitos em nossos Casos de Uso.
+&emsp;&emsp;Para verificar os Casos de Uso do projeto de Requisitos de software do aplicativo Noruh, usaremos a estratégia de "inspeções", no qual se objetiva o descobrimento de defeitos em documentos, buscando assim achar os defeitos no documento de [Casos de Uso](../../modelagem/casosDeUso.md).
 
 ## 2. Preparação
 
@@ -63,7 +63,7 @@
 - 0 ERROS e 12 ACERTOS
 - 100% de acertos
 
-<center>![graficoFluxoConta](../../assets/verificacao/graficoFluxoConta.png)</center>
+<center>![graficoFluxoConta](../../assets/verificacao/grafico100porcento.png)</center>
 
 <figcaption align='center'>
     <b>Gráfico 1: Porcentagem de sucesso do checklist de Fluxo de Conta </b>
@@ -201,7 +201,7 @@
 ## 4.2 Gráficos da Porcentagem de Sucesso
 &emsp;&emsp;A versão 2 do gráfico de acompanhamento da porcentagem de sucesso dos checklists de todos os fluxos pode ser encontrado abaixo:
 
-<center>![graficoTodosFluxos](../../assets/verificacao/graficoFluxoConta.png)</center>
+<center>![graficoTodosFluxos](../../assets/verificacao/grafico100porcento.png)</center>
 
 <figcaption align='center'>
     <b>Gráfico 4: Porcentagem de sucesso do checklist de Todos os Fluxos </b>
