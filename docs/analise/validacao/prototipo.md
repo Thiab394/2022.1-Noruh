@@ -23,7 +23,7 @@
 </figcaption>
 
 ## 4. Resultados
-&emsp;&emsp;  
+&emsp;&emsp; A do protótipo feito, conduzimos uma entrevista com um usuário do aplicativo para podermos validar a funcionalidade. Desta forma, entramos em contato com o usuário Matheus Zacarias que aceitou o convite para participar dessa entrevista. A entrevista foi marcada para o dia 17 de agosto às 21:30, por ser o único horário disponível para o entrevistado. O vídeo com a entrevista pode ser encontrado abaixo:
 
 ## Histórico de Versão
 
@@ -33,3 +33,5 @@
 |  1.1   | Adição do protótipo |    Lucas    |         |  14/08/22  | 19:30 às 21:30 |
 
 ## Referências
+
+-  Rogers, Sharp e Preece. Design de Interação, 2013.
