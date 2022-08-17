@@ -232,6 +232,7 @@
 | :----: | :-----------------: | :---------: | :---------------------------------: | :------: |
 |  1.0   |          -          |    Karla    |                Bruno                | 17/07/22 |
 |  1.1   | Adicionando léxicos |    Karla    | Bruno, Eurico, João Henrique, Lucas | 18/07/22 |
+|  2.0   | Revisando artefato |    Bruno    | Karla, Eurico, João Henrique, Lucas | 16/08/22 |
 
 ## Referências
 
