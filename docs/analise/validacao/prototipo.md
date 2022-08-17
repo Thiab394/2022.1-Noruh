@@ -2,9 +2,9 @@
 &emsp;&emsp; Como definido por Rogers, Sharp e Preece no livro design de interação, o protótipo possibilita que os stakeholders interajam com um produto com o objetivo de adquirir alguma experiência de como utilizá-lo. Dessa forma, um protótipo pode ser definido como a representação limitada de um design que permite os usuários interagir com ele.
 
 ## 2. Metodologia
-&emsp;&emsp; Neste projeto, optamos por realizar um protótipo de baixa fidelidade. Estes são protótipos que não se assemelham muito com o produto final, e são vantajosos por serem simples de fazer e permitirem modificações rápidas. Com este objetivo, fizemos o protótipo utilizando a ferramenta Figma, e nele focamos em representar as funcionalidades representadas pelos requisitos levantados pela equipe.
+&emsp;&emsp; Neste projeto, optamos por realizar um protótipo de baixa fidelidade. Estes são protótipos que não se assemelham muito com o produto final, e são vantajosos por serem simples de fazer e permitirem modificações rápidas. Com este objetivo, fizemos o protótipo utilizando a ferramenta Figma, e nele focamos em representar a funcionalidade de avaliar um restaurante (US23), pois esta é uma funcionalidade que a equipe definiu como um requisito funcional (RF23) durante o [BrainStorm](../../elicitacao/tecnicas/brainstorm.md) e não está implementada no App.
 
-&emsp;&emsp; Além disso, por este se tratar de um projeto de engenharia reversa, iremos levar em consideração o app original para podermos validar este protótipo.
+
 
 ## 3. Protótipo
 
@@ -23,6 +23,7 @@
 </figcaption>
 
 ## 4. Resultados
+&emsp;&emsp;  
 
 ## Histórico de Versão
 
