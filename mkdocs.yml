@@ -27,8 +27,8 @@ nav:
     - Análise:
         - Verificação:
             - 'Planejamento da Verificação': './analise/verificacao/planejamento.md'
-            - 'Rich Picture': './analise/verificacao/inspecaoRichPicture.md'
-            - 'Especificação Suplementar': './analise/verificacao/inspecaoEspecificacaoSuplementar.md'
+            - 'Rich Picture': './analise/verificacao/RichPicture/V2InspecaoRichPicture.md'
+            - 'Especificação Suplementar': './analise/verificacao/especificacaoSuplementar/V2inspecaoEspecificacaoSuplementar.md'
             - 'Backlog': './analise/verificacao/inspecaoBacklog.md'
             - 'Casos de Uso': './analise/verificacao/inspecaoCasosDeUso.md'
             - 'NFR Framework': './analise/verificacao/inspecaoNFRFramework.md'

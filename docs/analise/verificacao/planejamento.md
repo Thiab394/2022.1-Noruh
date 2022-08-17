@@ -27,7 +27,7 @@
 
 |            Atividade            |                Responsável                 |           Revisor            | Data Prevista  |
 | :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
-| Fazer verificação dos cenários           |  Bruno                             |               -             |  -   |
+| Fazer verificação dos cenários           |  Bruno                             |               -             |  14/08   |
 | Fazer verificação Rich Picture                 | João Henrique                                      |               Lucas   | 12/08   |
 | Fazer verificação backlog      | Lucas                       |               -              |   14/08   |
 | Fazer verificação especificação suplementar             |João Henrique |               Lucas              |   12/08   |   

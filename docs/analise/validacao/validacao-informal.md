@@ -25,6 +25,6 @@ No presente cenário, em que foi realizada uma engenharia reversa na aplicação
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  | Criação do documento           |    Eurico  | - | 16/08 |
-|   1.0  | Adição dos conteúdos (introdução, metodologia, resultados e referência)           |    Eurico  | - | 16/08 |
-|   1.1  | Correção link da figura           |    Eurico  | - | 16/08 |
+|   1.0  | Criação do documento           |    Eurico  | João Henrique | 16/08 |
+|   1.0  | Adição dos conteúdos (introdução, metodologia, resultados e referência)           |    Eurico  | João Henrique | 16/08 |
+|   1.1  | Correção link da figura           |    Eurico  | João Henrique | 16/08 |
