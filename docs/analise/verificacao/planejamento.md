@@ -50,4 +50,5 @@
 
 | Versão |      Alteração       |     Responsável      |    Revisor    | Data  |
 | :----: | :------------------: | :------------------: | :-----------: | :---: |
-|  1.0   |          -           |    Lucas     |     -     | 16/08 |
+|  1.0   |          Criação do docuemnto           |    Lucas     |     João     | 16/08 |
+|  1.1   |            Documento revisado        |    João     |     -     | 16/08 |
