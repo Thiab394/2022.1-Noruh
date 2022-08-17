@@ -17,6 +17,7 @@ No presente cenário, em que foi realizada uma engenharia reversa na aplicação
 
 ## 3. Resultados
 <p>&emsp;&emsp;No momento, ainda estamos aguardando um retorno após a tentativa de contato.</p>
+<p>&emsp;&emsp;Atualização, dia 16/08/2022, um dia após a tentativa de contato, recebemos uma ligação do setor comercial da empresa, e ficaram de retornar com uma pessoa do time técnico, no entanto, até o presente momento (dia 17/08/2022) não ouveram mais respostas.</p>
 
 ## Referências
 - SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 23. Material apresentado durante a disciplina de Requisitos de Software, FGA 2022.1.
@@ -28,3 +29,4 @@ No presente cenário, em que foi realizada uma engenharia reversa na aplicação
 |   1.0  | Criação do documento           |    Eurico  | João Henrique | 16/08 |
 |   1.0  | Adição dos conteúdos (introdução, metodologia, resultados e referência)           |    Eurico  | João Henrique | 16/08 |
 |   1.1  | Correção link da figura           |    Eurico  | João Henrique | 16/08 |
+|   1.2  | Atualização sobre a tentativa de contato           |    Eurico  | João Henrique | 17/08 |
