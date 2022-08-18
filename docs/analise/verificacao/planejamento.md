@@ -27,13 +27,16 @@
 
 |            Atividade            |                Responsável                 |           Revisor            | Data Prevista  |
 | :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
-| Fazer verificação dos cenários           |  Bruno                             |               -             |  -   |
-| Fazer verificação Rich Picture                 | João Henrique                                      |               Lucas   | 12/08   |
-| Fazer verificação backlog      | Lucas                       |               -              |   14/08   |
-| Fazer verificação especificação suplementar             |João Henrique |               Lucas              |   12/08   |   
-| Fazer verificação Léxicos             | Bruno |               -              |   14/08   |
-| Fazer verificação NFR Framework             | Karla |               -              |   14/08   | 
-| Fazer verificação Casos de Uso             | Karla |               -              |   14/08   | 
+| Fazer verificação dos cenários           |  Bruno                             |             Lucas           |  16/08   |
+| Fazer prototipação           | Lucas                              |             João Henrique                       |   16/08    |
+| Fazer verificação Rich Picture                 | João Henrique                                 |               Lucas     |   16/08   |
+| Fazer verificação backlog      | Lucas                       |            João Henrique               |   14/08   |
+| Fazer verificação especificação suplementar             |João Henrique |               Lucas              |   16/08   |   
+| Fazer verificação Léxicos             | Bruno |         Lucas             |   16/08    |    
+| Fazer validação viewpoint             | Eurico |        Bruno             |   16/08    |
+| Fazer validação informal             | Eurico |         Bruno             |   16/08    | 
+| Fazer verificação NFR Framework             | Karla |               Eurico              |   16/08   | 
+| Fazer verificação Casos de Uso             | Karla |             Eurico              |   16/08   |  
 
 <figcaption align='center'>
     <b>Tabela 1: Cronograma Verificação </b>
