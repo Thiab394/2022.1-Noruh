@@ -97,17 +97,18 @@
 |            Atividade            |                Responsável                 |           Revisor            | Data  |
 | :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
 | Planejamento da verificação           |  Lucas                             |               João             |  -   |
-| Fazer verificação dos cenários           |  Bruno                             |               -             |  -   |
-| Fazer prototipação           | Lucas                              |              -                          |   -   |
-| Fazer verificação Rich Picture                 | João Henrique                                      |               Lucas              |   16/08   |
-| Fazer verificação backlog      | Lucas                       |               -              |   14/08   |
+| Fazer verificação dos cenários           |  Bruno                             |             Lucas           |  -   |
+| Fazer prototipação           | Lucas                              |             João Henrique                       |   -   |
+| Fazer verificação Rich Picture                 | João Henrique                                 |               Lucas     |   16/08   |
+| Fazer verificação backlog      | Lucas                       |            João Henrique               |   14/08   |
 | Fazer verificação especificação suplementar             |João Henrique |               Lucas              |   16/08   |   
-| Fazer verificação Léxicos             | Bruno |               -              |   -   |    
-| Fazer validação viewpoint             | Eurico |               -              |   -   |
-| Fazer validação informal             | Eurico |               -              |   -   | 
-| Fazer verificação NFR Framework             | Karla |               -              |   -   | 
-| Fazer verificação Casos de Uso             | Karla |               -              |   -   |    
-| Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |               -              |   16/8   |
+| Fazer verificação Léxicos             | Bruno |         Lucas             |   16/08    |    
+| Fazer validação viewpoint             | Eurico |        Bruno             |   16/08    |
+| Fazer validação informal             | Eurico |         Bruno             |   16/08    | 
+| Fazer verificação NFR Framework             | Karla |               Eurico              |   16/08   | 
+| Fazer verificação Casos de Uso             | Karla |             Eurico              |   16/08   |    
+| Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |               -              |   17/8   |
+| Gravar entrevista protótipo             |  Lucas |            João Henrique            |   17/8   |
 
 
 

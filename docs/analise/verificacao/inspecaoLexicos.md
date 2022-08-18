@@ -111,4 +111,5 @@
 
 | Versão |      Alteração       | Responsável | Revisor |   Data   |      Hora      |
 | :----: | :------------------: | :---------: | :-----: | :------: | :------------: |
-|  1.0   | Criação do documento |    Bruno    |    -    | 16/08/22 | 19:00 às 19:55 |
+|  1.0   | Criação do documento |    Bruno    |    Lucas    | 16/08/22 | 19:00 às 19:55 |
+|  1.1   | Documento revisado |    Lucas    |    -    | 17/08/22 | 22:30 às 23:00 |
