@@ -25,12 +25,22 @@
 ## 4. Resultados
 &emsp;&emsp; A do protótipo feito, conduzimos uma entrevista com um usuário do aplicativo para podermos validar a funcionalidade. Desta forma, entramos em contato com o usuário Matheus Zacarias que aceitou o convite para participar dessa entrevista. A entrevista foi marcada para o dia 17 de agosto às 21:30, por ser o único horário disponível para o entrevistado. O vídeo com a entrevista pode ser encontrado abaixo:
 
+<iframe width="942" height="530" src="https://www.youtube.com/embed/fweqFpc6jNc" title="Avaliação Protótipo Noruh | Requisitos de Software | UnB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<figcaption align='center'>
+    <b>Vídeo 1: Entrevista com o usuário</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption>
+
+&emsp;&emsp; Como podemos observar no vídeo, foi utilizada a técnica do "Thinking Loud", que consiste no entrevistador solicitar ao entrevistado que ele pense em voz alta, descrevendo seus passos no sistema. Dessa forma, podemos ver que o usuário considerou o fluxo para a realização da tarefa como um fluxo natural e acredita que a funcionalidade está bem implementada. Porém, ele também resaltou que o botão para a avaliação poderia ter um destaque a mais, citando a possibilidade de uma alteração de cor ou de tamanho no botão.
+
 ## Histórico de Versão
 
 | Versão |       Alteração       | Responsável | Revisor |    Data    |      Hora      |
 | :----: | :-------------------: | :---------: | :-----: | :--------: | :------------: |
 |  1.0   | Abertura do documento |    Lucas    |         |  14/08/22  | 10:30 às 12:10 |
 |  1.1   | Adição do protótipo |    Lucas    |         |  14/08/22  | 19:30 às 21:30 |
+|  1.2   | Adição da entrevista |    Lucas    |   João    |  17/08/22  | 21:30 às 22:00 |
 
 ## Referências
 
