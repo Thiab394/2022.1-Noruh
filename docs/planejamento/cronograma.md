@@ -96,9 +96,9 @@
 
 |            Atividade            |                Responsável                 |           Revisor            | Data  |
 | :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
-| Planejamento da verificação           |  Lucas                             |               João             |  -   |
-| Fazer verificação dos cenários           |  Bruno                             |             Lucas           |  -   |
-| Fazer prototipação           | Lucas                              |             João Henrique                       |   -   |
+| Planejamento da verificação           |  Lucas                             |               João             |  16/08   |
+| Fazer verificação dos cenários           |  Bruno                             |             Lucas           |  16/08   |
+| Fazer prototipação           | Lucas                              |             João Henrique                       |   16/08    |
 | Fazer verificação Rich Picture                 | João Henrique                                 |               Lucas     |   16/08   |
 | Fazer verificação backlog      | Lucas                       |            João Henrique               |   14/08   |
 | Fazer verificação especificação suplementar             |João Henrique |               Lucas              |   16/08   |   
