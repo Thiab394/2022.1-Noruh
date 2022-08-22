@@ -16,12 +16,6 @@
 | Requisito não funcional |      Técnica utilizada      | Onde encontrar |           Elos            |
 | :----: | :-----------------: | :---------: | :--------------------------: |
 
-- Para a pós rastreabilidade da modelagem dos requisitos funcionais:
-
-| Requisito não funcional |      Técnica utilizada      | Onde encontrar |           Elos            |
-| :----: | :-----------------: | :---------: | :--------------------------: |
-
-- Para a pós rastreabilidade da modelagem dos requisitos não funcionais:
 
 ## Legenda:
 - RF: Requisito Funcional
@@ -125,6 +119,7 @@ Agregação:
 | :----: | :-----------------: | :---------: | :--------------------------: | :------: | :------: |
 |  1.0   |          -          |    João Henrique    |        -       | 20/08/22 |08:25 às 09:25  |
 |  1.1   |          Adicionando Rfs 1 a0 9 e suas representações nos elos          |    João Henrique    |       -        | 22/08/22 |12:30 às 13:20  |
+|  1.2   |          Atualizando metodologia          |    João Henrique    |       -        | 22/08/22 |16:00 às 16:15  |
 
 
 
