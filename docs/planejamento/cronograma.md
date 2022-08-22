@@ -96,15 +96,36 @@
 
 |            Atividade            |                Responsável                 |           Revisor            | Data  |
 | :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
+| Planejamento da verificação           |  Lucas                             |               João             |  16/08   |
+| Fazer verificação dos cenários           |  Bruno                             |             Lucas           |  16/08   |
+| Fazer prototipação           | Lucas                              |             João Henrique                       |   16/08    |
+| Fazer verificação Rich Picture                 | João Henrique                                 |               Lucas     |   16/08   |
+| Fazer verificação backlog      | Lucas                       |            João Henrique               |   14/08   |
+| Fazer verificação especificação suplementar             |João Henrique |               Lucas              |   16/08   |   
+| Fazer verificação Léxicos             | Bruno |         Lucas             |   16/08    |    
+| Fazer validação viewpoint             | Eurico |        Bruno             |   16/08    |
+| Fazer validação informal             | Eurico |         Bruno             |   16/08    | 
+| Fazer verificação NFR Framework             | Karla |               Eurico              |   16/08   | 
+| Fazer verificação Casos de Uso             | Karla |             Eurico              |   16/08   |    
+| Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |               -              |   17/8   |
+| Gravar entrevista protótipo             |  Lucas |            João Henrique            |   17/8   |
+
+
+
+</center>
+
+
+
+### 3.6 Entrega 6
+<center>
+
+|            Atividade            |                Responsável                 |           Revisor            | Data  |
+| :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
 | Fazer backward-from          |  Todos                             |               -             |  -   |
 | Fazer forward-from           |  Todos                             |             -           |  -   |   
 | Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |               -              |   24/8   |
 
 </center>
-
-
-### 3.6 Entrega 6
-
 
 ### 3.7 Entrega 7
 
