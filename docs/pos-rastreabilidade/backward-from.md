@@ -42,7 +42,7 @@
 |RF6|[Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)|[RF06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/)|[**EF06**](#ef06)|
 |RF7|[Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)|[RF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/)|[**EF07**](#ef07)|
 |RF8|[Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)|[RF08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/)|[**EF08**](#ef08)|
-|RF9|[Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)[Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)|[RF09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/)|[**EF09**](#ef09)|
+|RF9|[Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)|[RF09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/)|[**EF09**](#ef09)|
 
 ## Elos Funcionais
 
