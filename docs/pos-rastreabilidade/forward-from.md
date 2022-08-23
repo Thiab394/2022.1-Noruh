@@ -29,7 +29,7 @@
 |US|[US01](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)|
 |Critérios de aceitação|[US01](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)|
 |Observação|Requisito totalmente implementado|
-|Funcionalidade|Imagem|
+|Funcionalidade|<img src="../assets/foward-from/rf1.gif" alt="Employee data" width="180" height=auto title="Employee Data title">|<img src="../assets/foward-from/rf1.gif" alt="Employee data" width="50" height="60" title="Employee Data title">
 
 ### RF2
 
