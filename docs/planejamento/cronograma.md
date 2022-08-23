@@ -117,12 +117,21 @@
 
 
 ### 3.6 Entrega 6
+
 <center>
 
 |            Atividade            |                Responsável                 |           Revisor            | Data  |
 | :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
-| Fazer backward-from          |  Todos                             |               -             |  -   |
-| Fazer forward-from           |  Todos                             |             -           |  -   |   
+| Fazer RFs 1 ao 9 backward-from          | João Henrique                             |               -             |  -   |
+| Fazer RFs 1 ao 9 forward-from            |  João Henrique                             |             -           |  -   |
+| Fazer RFs 10 ao 19 backward-from          | Lucas                             |               -             |  -   |
+| Fazer RFs 10 ao 19 forward-from            |  Lucas                             |             -           |  -   |
+| Fazer RFs 20 ao 29 backward-from          | Eurico                             |               -             |  -   |
+| Fazer RFs 20 ao 29 forward-from            |  Eurico                             |             -           |  -   |
+| Fazer RFs 30 e 31 / RNFs 1 ao 7 backward-from          | Karla                            |               -             |  -   |
+| Fazer RFs 30 e 31 / RNFs 1 ao 7 forward-from            |  Karla                             |             -           |  -   |
+| Fazer  RNFs 8 ao 17 backward-from          | Bruno                            |               -             |  -   |
+| Fazer RNFs 8 ao 17 forward-from            |  Bruno                             |             -           |  -   |        
 | Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |               -              |   24/8   |
 
 </center>
@@ -152,6 +161,7 @@
 |  4.0   | Cronograma entrega 4 |    João Henrique     |     Lucas     | 29/07 |
 |  5.0   | Cronograma entrega 5 |    João Henrique     |     Lucas     | 14/08 |
 |  6.0   | Cronograma entrega 6 |    João Henrique     |     Lucas     | 22/08 |
+|  6.1   | Atualizando cronograma entrega 6 |    João Henrique, Eurico     |     Lucas     | 23/08 |
 
 ## Referências
 
