@@ -110,7 +110,7 @@
 
 ### RF9
 
-|RF6|O usuário deve poder editar seu perfil|
+|RF9|O usuário deve poder ver a localização dos estabelecimentos a partir do google maps|
 |:--:|:----------------------------------:|
 |Épico|[Informações sobre estabelecimentos](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)|
 |Tema|[Descrição](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)|
