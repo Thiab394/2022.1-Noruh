@@ -2,20 +2,36 @@
 
 ## 1.Introdução
 
-&emsp;&emsp; Para começão a nossa pós rastreabilidade do nosso projeto de requisitos de software do aplicativo Noruh, utilizamos a técnica de rastreabilidade do backward-from, que basicamente irá ligar todos os requisitos elicitados no nosso projeto aos seus respectivos métodos de elicitação e modelagem.
+&emsp;&emsp; A pós-rastreabilidade tem como objetivo ligar os artefatos que são criados durante o ciclo de vida de um projeto aos seus devidos requisitos elicitados. Sendo assim, neste documento iremos utilizar a técnica de rastreabilidade backward-from com o intuito de conectar os requisitos a suas respectivas técnicas de elicitação e evidenciar os elos presentes entre eles.
 
 ## 2. Metodologia
 
-- Para a pós rastreabidade da elicitação dos requisitos funcionais:
+- Para a análise backward-from dos requisitos funcionais iremos utilizar a seguinte tabela:
+<center>
 
 | Requisito funcional |      Técnica utilizada      | Onde encontrar |           Elos            |
 | :----: | :-----------------: | :---------: | :--------------------------: |
 
-- Para a pós rastreabidade da elicitação dos requisitos não funcionais:
+</center>
+
+<figcaption align='center'>
+    <b>Tabela 1: tabela para análise backward-from requisitos funcionais  </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
+
+<center>
+
+- Já para a análise dos requisitos não funcionais iremos utilizar esta:
+
+</center>
 
 | Requisito não funcional |      Técnica utilizada      | Onde encontrar |           Elos            |
 | :----: | :-----------------: | :---------: | :--------------------------: |
 
+<figcaption align='center'>
+    <b>Tabela 2: tabela para análise backward-from requisitos não-funcionais  </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
 
 ## Legenda:
 - RF: Requisito Funcional
