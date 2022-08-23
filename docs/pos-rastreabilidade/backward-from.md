@@ -47,7 +47,10 @@
 - UC: Casos de Uso
 - EF: Elo Funcional
 
+
 ## Requisitos Funcionais
+&emsp;&emsp; A tabela da pós-ratreabilidade backward-from dos requisitos funcionais podem ser encontrados abaixo:
+
 | Requisito funcional |      Técnica utilizada      | Onde encontrar |           Elos            |
 | :----: | :-----------------: | :---------: | :--------------------------: |
 |RF1|[Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)|[RF01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/)|[**EF01**](#ef01)|
@@ -59,6 +62,11 @@
 |RF7|[Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)|[RF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/)|[**EF07**](#ef07)|
 |RF8|[Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)|[RF08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/)|[**EF08**](#ef08)|
 |RF9|[Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)|[RF09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/)|[**EF09**](#ef09)|
+
+<figcaption align='center'>
+    <b>Tabela 3: análise backward-from requisitos funcionais  </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
 
 ## Elos Funcionais
 
