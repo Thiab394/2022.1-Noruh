@@ -1,0 +1,2264 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="icon" href="../../assets/favicon.png">
+      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.3.8">
+    
+    
+      
+        <title>Backward-from - Noruh</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.1d29e8d0.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.cbb835fc.min.css">
+        
+      
+      
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#backward-from" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Noruh" class="md-header__button md-logo" aria-label="Noruh" data-md-component="logo">
+      
+  <img src="../../assets/favicon.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Noruh
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Backward-from
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Noruh" class="md-nav__button md-logo" aria-label="Noruh" data-md-component="logo">
+      
+  <img src="../../assets/favicon.png" alt="logo">
+
+    </a>
+    Noruh
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Inicio
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          Panejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Panejamento" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Panejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Pré-Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Pré-Rastreabilidade" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Pré-Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre-rastreabilidade/RichPicture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Elicitação" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_2" type="checkbox" id="__nav_4_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_2">
+          Técnicas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Técnicas" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_2">
+          <span class="md-nav__icon md-icon"></span>
+          Técnicas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/brainstorm/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/observacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/questionario/" class="md-nav__link">
+        Questionário
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_3" type="checkbox" id="__nav_4_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_3">
+          Priorização
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Priorização" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_3">
+          <span class="md-nav__icon md-icon"></span>
+          Priorização
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/priorizacao/moscow/" class="md-nav__link">
+        MoSCoW
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/resultados/" class="md-nav__link">
+        Resultados
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Modelagem
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Modelagem" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/especificacao/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/lexicos/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/casosDeUso/" class="md-nav__link">
+        Casos de Uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/nfrframework/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/historiasDeUsuario/" class="md-nav__link">
+        Histórias de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/backlog/" class="md-nav__link">
+        Backlog do Produto
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6">
+          Análise
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Análise" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Análise
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_1" type="checkbox" id="__nav_6_1" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_1">
+          Verificação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Verificação" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_1">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/planejamento/" class="md-nav__link">
+        Planejamento da Verificação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/RichPicture/V2InspecaoRichPicture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/especificacaoSuplementar/V2inspecaoEspecificacaoSuplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/inspecaoBacklog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/inspecaoCasosDeUso/" class="md-nav__link">
+        Casos de Uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/inspecaoNFRFramework/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/inspecaoCenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/inspecaoLexicos/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_2" type="checkbox" id="__nav_6_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_2">
+          Validação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Validação" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          Validação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/validacao/prototipo/" class="md-nav__link">
+        Protótipo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/validacao/validacao-informal/" class="md-nav__link">
+        Validação Informal
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/validacao/viewpoint/" class="md-nav__link">
+        View Point
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7">
+          Pós-Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Pós-Rastreabilidade" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Pós-Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Backward-from
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Backward-from
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1introducao" class="md-nav__link">
+    1.Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-requisitos-funcionais" class="md-nav__link">
+    3. Requisitos Funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elos-funcionais" class="md-nav__link">
+    Elos Funcionais
+  </a>
+  
+    <nav class="md-nav" aria-label="Elos Funcionais">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ef01" class="md-nav__link">
+    EF01
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef02" class="md-nav__link">
+    EF02
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef03" class="md-nav__link">
+    EF03
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef04" class="md-nav__link">
+    EF04
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef05" class="md-nav__link">
+    EF05
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef06" class="md-nav__link">
+    EF06
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef07" class="md-nav__link">
+    EF07
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef08" class="md-nav__link">
+    EF08
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef09" class="md-nav__link">
+    EF09
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef10" class="md-nav__link">
+    EF10
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef11" class="md-nav__link">
+    EF11
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef12" class="md-nav__link">
+    EF12
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef13" class="md-nav__link">
+    EF13
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef14" class="md-nav__link">
+    EF14
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef15" class="md-nav__link">
+    EF15
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef16" class="md-nav__link">
+    EF16
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef17" class="md-nav__link">
+    EF17
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef18" class="md-nav__link">
+    EF18
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef19" class="md-nav__link">
+    EF19
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef20" class="md-nav__link">
+    EF20
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef21" class="md-nav__link">
+    EF21
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef22" class="md-nav__link">
+    EF22
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef23" class="md-nav__link">
+    EF23
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef24" class="md-nav__link">
+    EF24
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef25" class="md-nav__link">
+    EF25
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef26" class="md-nav__link">
+    EF26
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef27" class="md-nav__link">
+    EF27
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef28" class="md-nav__link">
+    EF28
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef29" class="md-nav__link">
+    EF29
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef30" class="md-nav__link">
+    EF30
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef31" class="md-nav__link">
+    EF31
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../forward-from/" class="md-nav__link">
+        Foward-from
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8">
+          Apresentações
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Apresentações" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Apresentações
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao1/" class="md-nav__link">
+        Apresentação 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao2/" class="md-nav__link">
+        Apresentação 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao3/" class="md-nav__link">
+        Apresentação 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao4/" class="md-nav__link">
+        Apresentação 4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao5/" class="md-nav__link">
+        Apresentação 5
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1introducao" class="md-nav__link">
+    1.Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-requisitos-funcionais" class="md-nav__link">
+    3. Requisitos Funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elos-funcionais" class="md-nav__link">
+    Elos Funcionais
+  </a>
+  
+    <nav class="md-nav" aria-label="Elos Funcionais">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ef01" class="md-nav__link">
+    EF01
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef02" class="md-nav__link">
+    EF02
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef03" class="md-nav__link">
+    EF03
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef04" class="md-nav__link">
+    EF04
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef05" class="md-nav__link">
+    EF05
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef06" class="md-nav__link">
+    EF06
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef07" class="md-nav__link">
+    EF07
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef08" class="md-nav__link">
+    EF08
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef09" class="md-nav__link">
+    EF09
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef10" class="md-nav__link">
+    EF10
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef11" class="md-nav__link">
+    EF11
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef12" class="md-nav__link">
+    EF12
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef13" class="md-nav__link">
+    EF13
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef14" class="md-nav__link">
+    EF14
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef15" class="md-nav__link">
+    EF15
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef16" class="md-nav__link">
+    EF16
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef17" class="md-nav__link">
+    EF17
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef18" class="md-nav__link">
+    EF18
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef19" class="md-nav__link">
+    EF19
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef20" class="md-nav__link">
+    EF20
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef21" class="md-nav__link">
+    EF21
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef22" class="md-nav__link">
+    EF22
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef23" class="md-nav__link">
+    EF23
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef24" class="md-nav__link">
+    EF24
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef25" class="md-nav__link">
+    EF25
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef26" class="md-nav__link">
+    EF26
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef27" class="md-nav__link">
+    EF27
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef28" class="md-nav__link">
+    EF28
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef29" class="md-nav__link">
+    EF29
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef30" class="md-nav__link">
+    EF30
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ef31" class="md-nav__link">
+    EF31
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+
+
+<h1 id="backward-from">Backward-from</h1>
+<h2 id="1introducao">1.Introdução</h2>
+<p>&emsp;&emsp; A pós-rastreabilidade tem como objetivo ligar os artefatos que são criados durante o ciclo de vida de um projeto aos seus devidos requisitos elicitados. Sendo assim, neste documento iremos utilizar a técnica de rastreabilidade backward-from com o intuito de conectar os requisitos a suas respectivas técnicas de elicitação e evidenciar os elos presentes entre eles.</p>
+<h2 id="2-metodologia">2. Metodologia</h2>
+<p>&emsp;&emsp; Para a análise backward-from dos requisitos iremos utilizar uma tabela dividida nas seguintes colunas:</p>
+<ul>
+<li>Requisito</li>
+<li>Ténica utilizada</li>
+<li>Onde encontrar</li>
+<li>Elos</li>
+</ul>
+<p>&emsp;&emsp; Abaixo pode-se encontrar a legenda para as abreviaturas que serão utilizadas:</p>
+<ul>
+<li>RF: Requisito Funcional</li>
+<li>RNF: Requisito Não Funcional</li>
+<li>US: Histórias de Usuário</li>
+</ul>
+<h2 id="3-requisitos-funcionais">3. Requisitos Funcionais</h2>
+<p>&emsp;&emsp; A tabela da pós-ratreabilidade backward-from dos requisitos funcionais podem ser encontrados abaixo:</p>
+<table>
+<thead>
+<tr>
+<th align="center">Requisito funcional</th>
+<th align="center">Técnica utilizada</th>
+<th align="center">Onde encontrar</th>
+<th align="center">Elos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">RF1</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF01</a></td>
+<td align="center"><a href="#ef01"><strong>EF01</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF2</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF02</a></td>
+<td align="center"><a href="#ef02"><strong>EF02</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF3</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF03</a></td>
+<td align="center"><a href="#ef03"><strong>EF03</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF4</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF04</a></td>
+<td align="center"><a href="#ef04"><strong>EF04</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF5</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF05</a></td>
+<td align="center"><a href="#ef05"><strong>EF05</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF6</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF06</a></td>
+<td align="center"><a href="#ef06"><strong>EF06</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF7</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF07</a></td>
+<td align="center"><a href="#ef07"><strong>EF07</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF8</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF08</a></td>
+<td align="center"><a href="#ef08"><strong>EF08</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF9</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF09</a></td>
+<td align="center"><a href="#ef09"><strong>EF09</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF10</td>
+<td align="center"><a href="../../elicitacao/tecnicas/introspeccao/">Introspecção</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF10</a></td>
+<td align="center"><a href="#ef10"><strong>EF10</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF11</td>
+<td align="center"><a href="../../elicitacao/tecnicas/observacao/">Observação</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF11</a></td>
+<td align="center"><a href="#ef11"><strong>EF11</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF12</td>
+<td align="center"><a href="../../elicitacao/tecnicas/observacao/">Observação</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF12</a></td>
+<td align="center"><a href="#ef12"><strong>EF12</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF13</td>
+<td align="center"><a href="../../elicitacao/tecnicas/introspeccao/">Introspecção</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF13</a></td>
+<td align="center"><a href="#ef13"><strong>EF13</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF14</td>
+<td align="center"><a href="../../elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF14</a></td>
+<td align="center"><a href="#ef14"><strong>EF14</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF15</td>
+<td align="center"><a href="../../elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF15</a></td>
+<td align="center"><a href="#ef15"><strong>EF15</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF16</td>
+<td align="center"><a href="../../elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF16</a></td>
+<td align="center"><a href="#ef16"><strong>EF16</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF17</td>
+<td align="center"><a href="../../elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF17</a></td>
+<td align="center"><a href="#ef17"><strong>EF17</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF18</td>
+<td align="center"><a href="../../elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF18</a></td>
+<td align="center"><a href="#ef18"><strong>EF18</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF19</td>
+<td align="center"><a href="../../elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF19</a></td>
+<td align="center"><a href="#ef19"><strong>EF19</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF20</td>
+<td align="center"><a href="../../elicitacao/tecnicas/observacao/">Observação</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF20</a></td>
+<td align="center"><a href="#ef20"><strong>EF20</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF21</td>
+<td align="center"><a href="../../elicitacao/tecnicas/observacao/">Observação</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF21</a></td>
+<td align="center"><a href="#ef21"><strong>EF21</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF22</td>
+<td align="center"><a href="../../elicitacao/tecnicas/observacao/">Brainstorm</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF22</a></td>
+<td align="center"><a href="#ef22"><strong>EF22</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF23</td>
+<td align="center"><a href="../elicitacao/tecnicas/Brainstorm.md">Brainstorm</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF23</a></td>
+<td align="center"><a href="#ef23"><strong>EF23</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF24</td>
+<td align="center"><a href="../../elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF24</a></td>
+<td align="center"><a href="#ef24"><strong>EF24</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF25</td>
+<td align="center"><a href="../../elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF25</a></td>
+<td align="center"><a href="#ef25"><strong>EF25</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF26</td>
+<td align="center"><a href="../../elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF26</a></td>
+<td align="center"><a href="#ef26"><strong>EF26</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF27</td>
+<td align="center"><a href="../../elicitacao/tecnicas/observacao/">Observação</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF27</a></td>
+<td align="center"><a href="#ef27"><strong>EF27</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF28</td>
+<td align="center"><a href="../../elicitacao/tecnicas/observacao/">Observação</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF28</a></td>
+<td align="center"><a href="#ef28"><strong>EF28</strong></a></td>
+</tr>
+<tr>
+<td align="center">RF29</td>
+<td align="center"><a href="../../elicitacao/tecnicas/observacao/">Observação</a></td>
+<td align="center"><a href="../../elicitacao/resultados/#21-requisitos-funcionais">RF29</a></td>
+<td align="center"><a href="#ef29"><strong>EF29</strong></a></td>
+</tr>
+</tbody>
+</table>
+<figcaption align='center'>
+    <b>Tabela 1: análise backward-from requisitos funcionais  </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
+
+<h2 id="elos-funcionais">Elos Funcionais</h2>
+<h3 id="ef01">EF01</h3>
+<p><strong>Categoria</strong>:Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF01</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US01</a> </br></p>
+<h3 id="ef02">EF02</h3>
+<p><strong>Categoria</strong>:Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF02</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US02</a> </br></p>
+<h3 id="ef03">EF03</h3>
+<p><strong>Categoria</strong>:Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF03</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US03</a> </br></p>
+<h3 id="ef04">EF04</h3>
+<p><strong>Categoria</strong>:Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF04</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US04</a> </br></p>
+<h3 id="ef05">EF05</h3>
+<p><strong>Categoria</strong>:Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF05</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US05</a> </br></p>
+<h3 id="ef06">EF06</h3>
+<p><strong>Categoria</strong>:Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF06</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US06</a> </br></p>
+<h3 id="ef07">EF07</h3>
+<p><strong>Categoria</strong>:Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF07</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US07</a> </br></p>
+<h3 id="ef08">EF08</h3>
+<p><strong>Categoria</strong>:Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF08</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US08</a> </br></p>
+<h3 id="ef09">EF09</h3>
+<p><strong>Categoria</strong>:Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF09</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US09</a> </br></p>
+<h3 id="ef10">EF10</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF10</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US10</a> </br></p>
+<h3 id="ef11">EF11</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF11</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US11</a> </br></p>
+<h3 id="ef12">EF12</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF12</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US12</a> </br></p>
+<h3 id="ef13">EF13</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF13</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US13</a> </br></p>
+<h3 id="ef14">EF14</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF14</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US14</a> </br></p>
+<h3 id="ef15">EF15</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF15</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US15</a> </br></p>
+<h3 id="ef16">EF16</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF16</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US16</a> </br></p>
+<h3 id="ef17">EF17</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF17</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US17</a> </br></p>
+<h3 id="ef18">EF18</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF18</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US18</a> </br></p>
+<h3 id="ef19">EF19</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF19</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US19</a> </br></p>
+<h3 id="ef20">EF20</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF20</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US20</a> </br></p>
+<h3 id="ef21">EF21</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF21</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US21</a> </br></p>
+<h3 id="ef22">EF22</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF22</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US22</a> </br></p>
+<h3 id="ef23">EF23</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF23</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US23</a> </br></p>
+<h3 id="ef24">EF24</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF24</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US24</a> </br></p>
+<h3 id="ef25">EF25</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF25</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US25</a> </br></p>
+<h3 id="ef26">EF26</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF26</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US26</a> </br></p>
+<h3 id="ef27">EF27</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF27</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US27</a> </br></p>
+<h3 id="ef28">EF28</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF28</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US28</a> </br></p>
+<h3 id="ef29">EF29</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong> </br>
+Representação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/">RF29</a> representa <a href="https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/">US29</a> </br></p>
+<h3 id="ef30">EF30</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong><br />
+Recurso: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RF30</a> depende dos recursos do <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RF05</a></p>
+<h3 id="ef31">EF31</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong><br />
+Recurso: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RF31</a> depende dos recursos do <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RF04</a></p>
+<h1 id="4-requisitos-nao-funcionais">4. Requisitos Não Funcionais</h1>
+<p>&emsp;&emsp; A tabela da pós-ratreabilidade backward-from dos requisitos não funcionais podem ser encontrados abaixo:</p>
+<table>
+<thead>
+<tr>
+<th align="center">Requisito funcional</th>
+<th align="center">Técnica utilizada</th>
+<th align="center">Onde encontrar</th>
+<th align="center">Elos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">RNF1</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF1</a></td>
+<td align="center"><a href="#ENF01"><strong>ENF01</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF2</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF2</a></td>
+<td align="center"><a href="#ENF02"><strong>ENF02</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF3</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF3</a></td>
+<td align="center"><a href="#ENF03"><strong>ENF03</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF4</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF4</a></td>
+<td align="center"><a href="#ENF04"><strong>ENF04</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF5</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF5</a></td>
+<td align="center"><a href="#ENF05"><strong>ENF05</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF6</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF6</a></td>
+<td align="center"><a href="#ENF06"><strong>ENF06</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF7</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF7</a></td>
+<td align="center"><a href="#ENF07"><strong>ENF07</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF8</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/">Introspecção</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF8</a></td>
+<td align="center"><a href="#ENF08"><strong>ENF08</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF9</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF9</a></td>
+<td align="center"><a href="#ENF09"><strong>ENF09</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF10</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF10</a></td>
+<td align="center"><a href="#ENF10"><strong>ENF10</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF11</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/">Observação</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF11</a></td>
+<td align="center"><a href="#ENF11"><strong>ENF11</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF12</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/">Observação</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF12</a></td>
+<td align="center"><a href="#ENF12"><strong>ENF12</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF13</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/">Observação</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF13</a></td>
+<td align="center"><a href="#ENF13"><strong>ENF13</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF14</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/">Brainstorm</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF14</a></td>
+<td align="center"><a href="#ENF14"><strong>ENF14</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF15</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/">Observação</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF15</a></td>
+<td align="center"><a href="#ENF15"><strong>ENF15</strong></a></td>
+</tr>
+<tr>
+<td align="center">RNF16</td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/">Observação</a></td>
+<td align="center"><a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais">RNF16</a></td>
+<td align="center"><a href="#ENF16"><strong>ENF16</strong></a></td>
+</tr>
+</tbody>
+</table>
+<figcaption align='center'>
+    <b>Tabela 2: análise backward-from requisitos não funcionais  </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
+
+<h2 id="elos-nao-funcionais">Elos Não-Funcionais</h2>
+<h3 id="enf01">ENF01</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong><br />
+Alocado: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RNF01</a> está alocado no <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados">Brainstorm</a></p>
+<h3 id="enf02">ENF02</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong><br />
+Alocado: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RNF02</a> está alocado no <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados">Brainstorm</a></p>
+<h3 id="enf03">ENF03</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong><br />
+Alocado: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RNF03</a> está alocado no <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados">Brainstorm</a></p>
+<h3 id="enf04">ENF04</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong><br />
+Alocado: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RNF04</a> está alocado no <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados">Brainstorm</a></p>
+<h3 id="enf05">ENF05</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong><br />
+Alocado: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RNF05</a> está alocado no <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados">Brainstorm</a></p>
+<h3 id="enf06">ENF06</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong><br />
+Alocado: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RNF06</a> está alocado no <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados">Brainstorm</a></p>
+<h3 id="enf07">ENF07</h3>
+<p><strong>Categoria</strong>: Desenvolvimento</p>
+<p><strong>Elos:</strong><br />
+Alocado: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RNF07</a> está alocado no <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados">Brainstorm</a><br />
+Recurso: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RNF07</a> depende dos recursos do <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RF15</a><br />
+Agregação: <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RNF07</a> agrega <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RF20</a> e <a href="https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais">RF21</a></p>
+<h2 id="referencias">Referências</h2>
+<ul>
+<li>Sayão e Leite. Rastreabilidade de Requisitos. ISSN 0103-9741</li>
+<li>SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 1º/2022. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.</li>
+</ul>
+<h2 id="historico-de-versao">Histórico de versão</h2>
+<table>
+<thead>
+<tr>
+<th align="center">Versão</th>
+<th align="center">Alteração</th>
+<th align="center">Responsável</th>
+<th align="center">Revisor</th>
+<th align="center">Data</th>
+<th align="center">Hora</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1.0</td>
+<td align="center">-</td>
+<td align="center">João Henrique</td>
+<td align="center">-</td>
+<td align="center">20/08/22</td>
+<td align="center">08:25 às 09:25</td>
+</tr>
+<tr>
+<td align="center">1.1</td>
+<td align="center">Adicionando Rfs 1 ao 9 e suas representações nos elos</td>
+<td align="center">João Henrique</td>
+<td align="center">Lucas</td>
+<td align="center">22/08/22</td>
+<td align="center">12:30 às 13:20</td>
+</tr>
+<tr>
+<td align="center">1.2</td>
+<td align="center">Atualizando metodologia</td>
+<td align="center">João Henrique</td>
+<td align="center">Lucas</td>
+<td align="center">22/08/22</td>
+<td align="center">16:00 às 16:15</td>
+</tr>
+<tr>
+<td align="center">1.3</td>
+<td align="center">Atualizando metodologia e introdução</td>
+<td align="center">Lucas</td>
+<td align="center">-</td>
+<td align="center">23/08/22</td>
+<td align="center">10:00 às 11:00</td>
+</tr>
+<tr>
+<td align="center">1.4</td>
+<td align="center">Adicionando Rfs 9 ao 19 e suas representações nos elos</td>
+<td align="center">Lucas</td>
+<td align="center">Eurico</td>
+<td align="center">23/08/22</td>
+<td align="center">20:00 às 20:50</td>
+</tr>
+<tr>
+<td align="center">1.5</td>
+<td align="center">Adicionando Rfs 20 ao 29 na tabela</td>
+<td align="center">Eurico</td>
+<td align="center">João</td>
+<td align="center">23/08/22</td>
+<td align="center">22:00 às 20:25</td>
+</tr>
+<tr>
+<td align="center">1.6</td>
+<td align="center">Elos funcionais Rfs 20 ao 29</td>
+<td align="center">Eurico</td>
+<td align="center">João</td>
+<td align="center">23/08/22</td>
+<td align="center">22:25 às 20:50</td>
+</tr>
+<tr>
+<td align="center">1.7</td>
+<td align="center">Adicionando tabela RNFS</td>
+<td align="center">Bruno</td>
+<td align="center">-</td>
+<td align="center">24/08/22</td>
+<td align="center">11:30 às 11:45</td>
+</tr>
+</tbody>
+</table>
+
+              
+            </article>
+            
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+    <nav class="md-footer__inner md-grid" aria-label="Footer" >
+      
+        
+        <a href="../../analise/validacao/viewpoint/" class="md-footer__link md-footer__link--prev" aria-label="Previous: View Point" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              View Point
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../forward-from/" class="md-footer__link md-footer__link--next" aria-label="Next: Foward-from" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Foward-from
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.b97dbffb.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.0238f547.min.js"></script>
+      
+    
+  </body>
+</html>
