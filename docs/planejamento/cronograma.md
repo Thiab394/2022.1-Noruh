@@ -189,6 +189,8 @@
 |  5.0   | Cronograma entrega 5 |    João Henrique     |     Lucas     | 14/08 |
 |  6.0   | Cronograma entrega 6 |    João Henrique     |     Lucas     | 22/08 |
 |  6.1   | Atualizando cronograma entrega 6 |    João Henrique, Eurico     |     Lucas     | 23/08 |
+|  6.1   | Atualizando cronograma entrega 6 |    João Henrique, Eurico     |     Lucas     | 23/08 |
+|  7.0   | Atualizando cronograma entrega 7 |    Lucas     |     João     | 24/08 |
 
 ## Referências
 
