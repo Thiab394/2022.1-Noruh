@@ -65,7 +65,7 @@
 |          Tema          | [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) |
 |           US           |      [US04](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
 |       Status da implementação       |                                              Requisito totalmente implementado                                               |
-| Artefatos| [Cenario](), [caso de uso]()|
+| Artefatos| [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-9-pedido-no-estabelecimento), [caso de uso]()|
 |     Funcionalidade     |     <img src="../../assets/foward-from/rf4.gif" alt="Employee data" width="180" height=auto title="Employee Data title">     |
 
 ### RF5
@@ -76,7 +76,7 @@
 |          Tema          | [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) |
 |           US           |      [US05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
 |       Status da implementação       |                                              Requisito totalmente implementado                                               |
-| Artefatos| [Cenario](), [caso de uso]()|
+| Artefatos| [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-9-pedido-no-estabelecimento), [caso de uso]()|
 |     Funcionalidade     |     <img src="../../assets/foward-from/rf5.gif" alt="Employee data" width="180" height=auto title="Employee Data title">     |
 
 ### RF6
@@ -87,7 +87,7 @@
 |          Tema          |    [Edição de conta](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)     |
 |           US           |         [US06](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)         |
 |       Status da implementação       |                                                 Requisito totalmente implementado                                                  |
-| Artefatos| [Cenario](), [caso de uso]()|
+| Artefatos| [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-7-edicao-do-perfil), [caso de uso]()|
 |     Funcionalidade     |        <img src="../../assets/foward-from/rf6.gif" alt="Employee data" width="180" height=auto title="Employee Data title">        |
 
 ### RF7
@@ -98,7 +98,7 @@
 |          Tema          | [Pesquisas e filtros para visualização](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos) |
 |           US           |                      [US07](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)                       |
 |       Status da implementação       |                                                               Requisito totalmente implementado                                                               |
-| Artefatos| [Cenario](), [caso de uso]()|
+| Artefatos| [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-9-pedido-no-estabelecimento), [caso de uso]()|
 |     Funcionalidade     |                     <img src="../../assets/foward-from/rf7.gif" alt="Employee data" width="180" height=auto title="Employee Data title">                      |
 
 ### RF8
@@ -109,7 +109,7 @@
 |          Tema          |     [Termos de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)      |
 |           US           |         [US08](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)         |
 |       Status da implementação       |                                                 Requisito totalmente implementado                                                  |
-| Artefatos| [Cenario](), [caso de uso]()|
+| Artefatos| [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-1-criar-perfil), [caso de uso]()|
 |     Funcionalidade     |        <img src="../../assets/foward-from/rf8.gif" alt="Employee data" width="180" height=auto title="Employee Data title">        |
 
 ### RF9
@@ -120,7 +120,7 @@
 |          Tema          |             [Descrição](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)              |
 |           US           |                     [US09](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)                     |
 |       Status da implementação       |                                                             Requisito totalmente implementado                                                              |
-| Artefatos| [Cenario](), [caso de uso]()|
+| Artefatos| [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos), [caso de uso]()|
 |     Funcionalidade     |                    <img src="../../assets/foward-from/rf9.gif" alt="Employee data" width="180" height=auto title="Employee Data title">                    |
 
 ### RF30
