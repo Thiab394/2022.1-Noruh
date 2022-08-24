@@ -301,11 +301,11 @@
 
 |          RF25           |                                          O usuário deve poder filtrar restaurante por avaliação                                           |
 | :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
-|         Épico          |                  |
-|          Tema          |  |
-|           US           |            |
+|         Épico          | [Informações sobre Estabelecimentos](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                 |
+|          Tema          | [Pesquisas e Filtros para Visualização](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos) |
+|           US           |   [US25](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)         |
 |       Status da implementação       |                                              Requisito totalmente implementado                                               |
-| Artefatos| |
+| Artefatos|[UC03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/), [C05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos) |
 |     Funcionalidade     |          |
 
 ### RF26
