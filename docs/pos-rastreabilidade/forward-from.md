@@ -189,23 +189,23 @@
 |          Tema          | [Pesquisas e Filtros para Visualização](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos) |
 |           US           |       [US22](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)     |
 |       Status da implementação       |                                              Requisito totalmente implementado                                               |
-| Artefatos| [UC05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos), [UC03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/)|
+| Artefatos| [C05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos), [UC03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/)|
 |     Funcionalidade     |          |
 
 ### RF23
 
-|          RF23           |                                           O usuário deve poder acessar o cardápio                                            |
+|          RF23           |                                           O usuário deve poder avaliar restaurantes e bares                                            |
 | :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
-|         Épico          |                  |
-|          Tema          |  |
-|           US           |            |
-|       Status da implementação       |                                              Requisito totalmente implementado                                               |
-| Artefatos| |
+|         Épico          |       [Informações sobre Estabelecimentos](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)           |
+|          Tema          | [Avaliação](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos) |
+|           US           |      [US23](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
+|       Status da implementação       |                                              Requisito não implementado                                               |
+| Artefatos|[UC02](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido), [C06](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-6-formas-de-pagamento) |
 |     Funcionalidade     |          |
 
 ### RF24
 
-|          RF24           |                                           O usuário deve poder acessar o cardápio                                            |
+|          RF24           |                                           O usuário deve poder filtrar restaurantes por categorias                                |
 | :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 |         Épico          |                  |
 |          Tema          |  |
@@ -216,7 +216,7 @@
 
 ### RF25
 
-|          RF25           |                                           O usuário deve poder acessar o cardápio                                            |
+|          RF25           |                                          O usuário deve poder filtrar restaurante por avaliação                                           |
 | :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 |         Épico          |                  |
 |          Tema          |  |
@@ -227,7 +227,7 @@
 
 ### RF26
 
-|          RF26           |                                           O usuário deve poder acessar o cardápio                                            |
+|          RF26           |                                       O usuário deve poder ver estabelecimentos com promoções                                           |
 | :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 |         Épico          |                  |
 |          Tema          |  |
@@ -238,7 +238,7 @@
 
 ### RF27
 
-|          RF27           |                                           O usuário deve poder acessar o cardápio                                            |
+|          RF27           |                                          O usuário deve poder entrar na fila de espera do estabelecimento pelo app|
 | :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 |         Épico          |                  |
 |          Tema          |  |
@@ -249,7 +249,7 @@
 
 ### RF28
 
-|          RF28           |                                           O usuário deve poder acessar o cardápio                                            |
+|          RF28           |                                           O usuário deve receber notificações sobre o andamento da fila de espera|
 | :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 |         Épico          |                  |
 |          Tema          |  |
@@ -260,7 +260,7 @@
 
 ### RF29
 
-|          RF29           |                                           O usuário deve poder acessar o cardápio                                            |
+|          RF29           |                         O usuário deve receber um tutorial no primeiro uso                                        |
 | :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 |         Épico          |                  |
 |          Tema          |  |
