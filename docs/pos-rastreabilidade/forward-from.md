@@ -13,8 +13,15 @@
 - Tema onde se encontra o requisito no backlog
 - História de usuário correspondente ao requisito
 - Artefatos derivados do requisito 
-- Status da immplementação do requisito
+- Status da implementação do requisito
 - Vídeo da tela onde esta implementada a funcionalidade
+
+&emsp;&emsp; Já para a rastreabilidade foward-from dos requisitos não-funcionais iremos utilizar uma tabela divida pelas seguintes linhas:
+
+- Identificador do requisito
+- Artefatos derivados do requisito
+- Status da implementação do requisito
+- Imagem da implementação
 
 ## 3. Legenda:
 
@@ -156,8 +163,84 @@
 |          Tema          | [Pesquisas e Filtros para Visulaização](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)       |
 |           US           | [US12](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                |
 |    Artefatos           | [UC07](../../modelagem/Diagramas/CasoDeUso3/#caso-de-uso-1-fazer-pesquisa-por-restaurantes) <br> [C05](../../modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos)|
+|Status da implementação |   Requisito parcialmente implementado                                                |
+|     Funcionalidade     |<img src="../../assets/foward-from/RF12.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">|
+
+### RF13
+
+|          RF13           |    O usuário deve poder solicitar a conta para o pagamento fora do app            |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          | [Restaurante](../../modelagem/backlog/#42-epico-restaurante) |
+|          Tema          | [Pagamento](../../modelagem/backlog/#42-epico-restaurante)       |
+|           US           | [US12](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                |
+|    Artefatos           | [UC05](../../modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido) <br> [C09](../../modelagem/cenarios/#caso-9-pedido-no-estabelecimento)|
 |Status da implementação |   Requisito totalmente implementado                                                |
-|     Funcionalidade     |<img src="../../assets/foward-from/RF11.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">|
+|     Funcionalidade     |<img src="../../assets/foward-from/RF13.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">|
+
+### RF14
+
+|          RF14           |    O usuário deve poder cadastrar seu cartão de crédito/débito           |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          | [Restaurante](../../modelagem/backlog/#42-epico-restaurante) |
+|          Tema          | [Pagamento](../../modelagem/backlog/#42-epico-restaurante)       |
+|           US           | [US14](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                |
+|    Artefatos           | [UC05](../../modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido) <br> [C04](../../modelagem/cenarios/#caso-4-cadastrar-forma-de-pagamento)|
+|Status da implementação |   Requisito totalmente implementado                                                |
+|     Funcionalidade     |<img src="../../assets/foward-from/RF14.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">|
+
+### RF15
+
+|          RF15          |    O usuário deve poder realizar pagamentos pelo app           |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          | [Restaurante](../../modelagem/backlog/#42-epico-restaurante) |
+|          Tema          | [Pagamento](../../modelagem/backlog/#42-epico-restaurante)       |
+|           US           | [US15](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                |
+|    Artefatos           | [UC05](../../modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido) <br> [C06](../../modelagem/cenarios/#caso-6-formas-de-pagamento) <br> [C09](../../modelagem/cenarios/#caso-9-pedido-no-estabelecimento) |
+|Status da implementação |   Requisito totalmente implementado                                                |
+|     Funcionalidade     |<img src="../../assets/foward-from/RF15.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">|
+
+### RF16
+
+|          RF16          |    O usuário deve poder ver restaurantes abertos no momento         |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          | [Informações sobre Estabelecimentos](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos) |
+|          Tema          | [Pesquisas e Filtros para Visulaização](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)       |
+|           US           | [US16](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                |
+|    Artefatos           | [UC07](../../modelagem/Diagramas/CasoDeUso3/#caso-de-uso-1-fazer-pesquisa-por-restaurantes) <br> [C05](../../modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos) |
+|Status da implementação |   Requisito totalmente implementado                                                |
+|     Funcionalidade     |<img src="../../assets/foward-from/RF16.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">|
+
+### RF17
+
+|          RF17          |    O usuário deve poder receber notificações sobre o andamento do pedido	         |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          |  [Restaurante](../../modelagem/backlog/#42-epico-restaurante) |
+|          Tema          | [Fazer pedido no restaurante](../../modelagem/backlog/#42-epico-restaurante)       |
+|           US           | [US17](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                |
+|    Artefatos           | [UC05](../../modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido) |
+|Status da implementação |   Requisito totalmente implementado                                                |
+
+### RF18
+
+|          RF18          |    O usuário deve poder acessar histórico de contas        |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          | [Gerenciamento de Conta](../../modelagem/backlog/#41-epico-gerenciamento-de-conta) |
+|          Tema          | [Histórico](../../modelagem/backlog/#41-epico-gerenciamento-de-conta)       |
+|           US           | [US18](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                |
+|    Artefatos           | [UC03](../../modelagem/Diagramas/CasoDeUso1/#caso-de-uso-3-editar-conta) |
+|Status da implementação |   Requisito totalmente implementado                                                |
+|     Funcionalidade     |<img src="../../assets/foward-from/RF18.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">|
+
+### RF19
+
+|          RF19          |    O usuário deve poder ver uma breve descrição sobre o restaurante ou bar       |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          |  [Informações sobre Estabelecimentos](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos) |
+|          Tema          | [Descrição](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)     |
+|           US           | [US19](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                |
+|    Artefatos           | [UC08](../../modelagem/Diagramas/CasoDeUso3/#caso-de-uso-2-acessar-pagina-do-restaurante) <br> [C05](../../modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos) |
+|Status da implementação |   Requisito totalmente implementado                                                |
+|     Funcionalidade     |<img src="../../assets/foward-from/RF19.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">|
 
 ### RF20
 
@@ -476,9 +559,9 @@
 | Versão |               Alteração                |  Responsável   | Revisor |   Data   |      Hora      |
 | :----: | :------------------------------------: | :------------: | :-----: | :------: | :------------: |
 |  1.0   |          Colocando RFs 1 ao 9          | João Henrique  |    Eurico    | 22/08/22 | 16:00 às 17:00 |
-|  1.1   |    Colocando imagens aos RFs 1 ao 9    | João Henrique  |    Eurico    | 23/08/22 | 10:00 às 11:30 |
-|  1.2   | Adição dos RFs 30 e 31 e NFs do 1 ao 7 | Karla Chaiane  |    -    | 23/08/22 | 19:00 às 23:00 |
-|  1.3   |         Adição dos NFs 8 ao 16         | Bruno Oliveira |    -    | 24/08/22 | 11:00 às 11:30 |
-|  1.4   |    Adicionando artefatos à tabela e excluindo criterios de aceitação   | João Henrique  |    -    | 24/08/22 | 17:45 às 18:30 |
-|  1.5   |    Adicionando as tabelas RF20  - RF29   | Eurico  |    João Henrique    | 24/08/22 | 18:00 às 18:30 |
-|  1.6   |    Corrigindo a primeira tabela que estava quebrada   | Eurico  |    João Henrique    | 24/08/22 | 18:30 às 18:45 |
+|  1.1   |    Colocando imagens aos RFs 1 ao 9    | João Henrique  |    Eurico   | 23/08/22 | 10:00 às 11:30 |
+|  1.2   | Adição dos RFs 30 e 31 e NFs do 1 ao 7 | Karla Chaiane  |   Lucas   | 23/08/22 | 19:00 às 23:00 |
+|  1.3   |         Adição dos NFs 8 ao 16         | Bruno Oliveira |   Lucas    | 24/08/22 | 11:00 às 11:30 |
+|  1.4   |    Adicionando artefatos à tabela e excluindo criterios de aceitação   | João Henrique  |   Lucas  | 24/08/22 | 17:45 às 18:30 |
+|  1.5   |    Adicionando as tabelas RF20  - RF29   | Eurico  |    -    | 24/08/22 | 18:00 às 18:30 |
+|  1.6   |    Adicionando as tabelas RF09  - RF19   | Lucas  |    -    | 24/08/22 | 18:00 às 19:30 |
