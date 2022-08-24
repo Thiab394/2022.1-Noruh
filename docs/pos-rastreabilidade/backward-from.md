@@ -179,6 +179,66 @@ Representação: [RF18](https://requisitos-de-software.github.io/2022.1-Noruh/el
 **Elos:** </br>
 Representação: [RF19](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US19](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
+### EF20
+**Categoria**: Desenvolvimento
+
+**Elos:** </br>
+Representação: [RF20](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US20](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+### EF21
+**Categoria**: Desenvolvimento
+
+**Elos:** </br>
+Representação: [RF21](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US21](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+### EF22
+**Categoria**: Desenvolvimento
+
+**Elos:** </br>
+Representação: [RF22](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US22](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+### EF23
+**Categoria**: Desenvolvimento
+
+**Elos:** </br>
+Representação: [RF23](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US23](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+### EF24
+**Categoria**: Desenvolvimento
+
+**Elos:** </br>
+Representação: [RF24](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US24](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+### EF25
+**Categoria**: Desenvolvimento
+
+**Elos:** </br>
+Representação: [RF25](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US25](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+### EF26
+**Categoria**: Desenvolvimento
+
+**Elos:** </br>
+Representação: [RF26](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US26](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+### EF27
+**Categoria**: Desenvolvimento
+
+**Elos:** </br>
+Representação: [RF27](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US27](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+### EF28
+**Categoria**: Desenvolvimento
+
+**Elos:** </br>
+Representação: [RF28](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US28](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+### EF29
+**Categoria**: Desenvolvimento
+
+**Elos:** </br>
+Representação: [RF29](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US29](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
 ## Referências
 - Sayão e Leite. Rastreabilidade de Requisitos. ISSN 0103-9741
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 1º/2022. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
@@ -192,6 +252,7 @@ Representação: [RF19](https://requisitos-de-software.github.io/2022.1-Noruh/el
 |  1.3   |          Atualizando metodologia e introdução         |    Lucas    |       -        | 23/08/22 |10:00 às 11:00  |
 |  1.4   |           Adicionando Rfs 9 ao 19 e suas representações nos elos         |    Lucas    |       Eurico       | 23/08/22 |20:00 às 20:50  |
 |  1.5   |           Adicionando Rfs 20 ao 29 na tabela        |    Eurico    |       João       | 23/08/22 |22:00 às 20:25  |
+|  1.6   |           Elos funcionais Rfs 20 ao 29        |    Eurico    |       João       | 23/08/22 |22:25 às 20:60  |
 
 
 
