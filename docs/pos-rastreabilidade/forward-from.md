@@ -10,7 +10,7 @@
 - RNF: Requisito Não Funcional
 - Q: Questionario
 - AD: Brainstorm
-- OBS: Observação
+- OBS: Status da implementação
 - INT: Instrospecção
 - C: Cenários
 - E: Épico
@@ -28,9 +28,9 @@
 |         Épico          | [Gerenciamento de conta](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta) |
 |          Tema          |    [Cadastro e login](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)    |
 |           US           |         [US01](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)         |
-| Critérios de aceitação |         [US01](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)         |
-|       Observação       |                                                 Requisito totalmente implementado                                                  |
-|Onde achar|[Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-1-criar-perfil),
+
+|       Status da implementação       |                                                 Requisito totalmente implementado                                                  |
+|Artefatos|[Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-1-criar-perfil),
 [Caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso1/#caso-de-uso-1-criar-conta),|
 |     Funcionalidade     |        <img src="../../assets/foward-from/rf1.gif" alt="Employee data" width="180" height=auto title="Employee Data title">        |
 
@@ -41,9 +41,8 @@
 |         Épico          | [Gerenciamento de conta](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta) |
 |          Tema          |    [Cadastro e login](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)    |
 |           US           |         [US02](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)         |
-| Critérios de aceitação |         [US02](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)         |
-|       Observação       |                                                 Requisito totalmente implementado                                                  |
-| Onde encontrar | [cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-1-criar-perfil),[caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso1/#caso-de-uso-2-fazer-login-na-conta)|
+|       Status da implementação       |                                                 Requisito totalmente implementado                                                  |
+| Artefatos | [cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-1-criar-perfil),[caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso1/#caso-de-uso-2-fazer-login-na-conta)|
 |     Funcionalidade     |        <img src="../../assets/foward-from/rf2.gif" alt="Employee data" width="180" height=auto title="Employee Data title">        |
 
 ### RF3
@@ -54,8 +53,8 @@
 |          Tema          | [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) |
 |           US           |      [US03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
 | Critérios de aceitação |      [US03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
-|       Observação       |                                              Requisito totalmente implementado                                               |
-| Onde encontar|[Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-9-pedido-no-estabelecimento),[caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido)|
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
+| Artefatos|[Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-9-pedido-no-estabelecimento),[caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido)|
 |     Funcionalidade     |     <img src="../../assets/foward-from/rf3.gif" alt="Employee data" width="180" height=auto title="Employee Data title">     |
 
 ### RF4
@@ -65,9 +64,8 @@
 |         Épico          |         [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)         |
 |          Tema          | [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) |
 |           US           |      [US04](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
-| Critérios de aceitação |      [US04](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
-|       Observação       |                                              Requisito totalmente implementado                                               |
-| Onde encontrar| [Cenario](), [caso de uso]()|
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
+| Artefatos| [Cenario](), [caso de uso]()|
 |     Funcionalidade     |     <img src="../../assets/foward-from/rf4.gif" alt="Employee data" width="180" height=auto title="Employee Data title">     |
 
 ### RF5
@@ -77,9 +75,8 @@
 |         Épico          |         [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)         |
 |          Tema          | [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) |
 |           US           |      [US05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
-| Critérios de aceitação |      [US05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
-|       Observação       |                                              Requisito totalmente implementado                                               |
-| Onde encontrar| [Cenario](), [caso de uso]()|
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
+| Artefatos| [Cenario](), [caso de uso]()|
 |     Funcionalidade     |     <img src="../../assets/foward-from/rf5.gif" alt="Employee data" width="180" height=auto title="Employee Data title">     |
 
 ### RF6
@@ -89,9 +86,8 @@
 |         Épico          | [Gerenciamento de conta](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta) |
 |          Tema          |    [Edição de conta](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)     |
 |           US           |         [US06](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)         |
-| Critérios de aceitação |         [US06](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)         |
-|       Observação       |                                                 Requisito totalmente implementado                                                  |
-| Onde encontrar| [Cenario](), [caso de uso]()|
+|       Status da implementação       |                                                 Requisito totalmente implementado                                                  |
+| Artefatos| [Cenario](), [caso de uso]()|
 |     Funcionalidade     |        <img src="../../assets/foward-from/rf6.gif" alt="Employee data" width="180" height=auto title="Employee Data title">        |
 
 ### RF7
@@ -101,9 +97,8 @@
 |         Épico          |  [Informações sobre estabelecimentos](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)   |
 |          Tema          | [Pesquisas e filtros para visualização](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos) |
 |           US           |                      [US07](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)                       |
-| Critérios de aceitação |                      [US07](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)                       |
-|       Observação       |                                                               Requisito totalmente implementado                                                               |
-| Onde encontrar| [Cenario](), [caso de uso]()|
+|       Status da implementação       |                                                               Requisito totalmente implementado                                                               |
+| Artefatos| [Cenario](), [caso de uso]()|
 |     Funcionalidade     |                     <img src="../../assets/foward-from/rf7.gif" alt="Employee data" width="180" height=auto title="Employee Data title">                      |
 
 ### RF8
@@ -113,9 +108,8 @@
 |         Épico          | [Gerenciamento de conta](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta) |
 |          Tema          |     [Termos de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)      |
 |           US           |         [US08](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)         |
-| Critérios de aceitação |         [US08](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)         |
-|       Observação       |                                                 Requisito totalmente implementado                                                  |
-| Onde encontrar| [Cenario](), [caso de uso]()|
+|       Status da implementação       |                                                 Requisito totalmente implementado                                                  |
+| Artefatos| [Cenario](), [caso de uso]()|
 |     Funcionalidade     |        <img src="../../assets/foward-from/rf8.gif" alt="Employee data" width="180" height=auto title="Employee Data title">        |
 
 ### RF9
@@ -125,9 +119,8 @@
 |         Épico          | [Informações sobre estabelecimentos](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos) |
 |          Tema          |             [Descrição](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)              |
 |           US           |                     [US09](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)                     |
-| Critérios de aceitação |                     [US09](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)                     |
-|       Observação       |                                                             Requisito totalmente implementado                                                              |
-| Onde encontrar| [Cenario](), [caso de uso]()|
+|       Status da implementação       |                                                             Requisito totalmente implementado                                                              |
+| Artefatos| [Cenario](), [caso de uso]()|
 |     Funcionalidade     |                    <img src="../../assets/foward-from/rf9.gif" alt="Employee data" width="180" height=auto title="Employee Data title">                    |
 
 ### RF30
@@ -138,7 +131,7 @@
 |          Tema          |       [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)        |
 |           US           |            [US05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)             |
 | Critérios de aceitação |            [US05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)             |
-|       Observação       |                                                     Requisito totalmente implementado                                                     |
+|       Status da implementação       |                                                     Requisito totalmente implementado                                                     |
 |     Funcionalidade     | <img src="https://user-images.githubusercontent.com/78981063/186289844-6ab8026e-274c-4684-956a-c9c502b2e245.png" width="180" height=auto> |
 
 ### RF31
@@ -149,7 +142,7 @@
 |          Tema          |       [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)        |
 |           US           |                                                                   US04                                                                    |
 | Critérios de aceitação |                                                                   US04                                                                    |
-|       Observação       |                                                     Requisito totalmente implementado                                                     |
+|       Status da implementação       |                                                     Requisito totalmente implementado                                                     |
 |     Funcionalidade     | <img src="https://user-images.githubusercontent.com/78981063/186290795-c83c8254-9e87-4ef9-a686-b4885e86dd15.gif" width="180" height=auto> |
 
 ## 5. Requisitos Não-Funcionais
@@ -162,7 +155,7 @@
 |          Tema          |                                                                     -                                                                     |
 |           US           |                                                                     -                                                                     |
 | Critérios de aceitação |                                                                     -                                                                     |
-|       Observação       |                                                    Requisito parcialmente implementado                                                    |
+|       Status da implementação       |                                                    Requisito parcialmente implementado                                                    |
 |     Funcionalidade     | <img src="https://user-images.githubusercontent.com/78981063/186298799-da7c1ef8-9336-4333-a9a4-74b5a8fa259d.png" width="180" height=auto> |
 
 ### RNF02
@@ -173,7 +166,7 @@
 |          Tema          |                                                                     -                                                                     |
 |           US           |                                                                     -                                                                     |
 | Critérios de aceitação |                                                                     -                                                                     |
-|       Observação       |                                                     Requisito totalmente implementado                                                     |
+|       Status da implementação       |                                                     Requisito totalmente implementado                                                     |
 |     Funcionalidade     | <img src="https://user-images.githubusercontent.com/78981063/186301489-99836121-0a10-42f0-b558-f65d6d22a605.png" width="180" height=auto> |
 
 ### RNF03
@@ -184,7 +177,7 @@
 |          Tema          | [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) / [Cadastro e Login](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta) |
 |           US           |                                                                     [US11](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)                                                                      |
 | Critérios de aceitação |                                                                     [US11](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)                                                                      |
-|       Observação       |                                                                                                              Requisito totalmente implementado                                                                                                              |
+|       Status da implementação       |                                                                                                              Requisito totalmente implementado                                                                                                              |
 |     Funcionalidade     |                                                          <img src="https://user-images.githubusercontent.com/78981063/186426114-fd369138-c5af-438b-8e0b-99ec44e4d9a1.png" width="180" height=auto>                                                          |
 
 ### RNF04
@@ -195,7 +188,7 @@
 |          Tema          | [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) / [Cadastro e Login](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta) |
 |           US           |           [US03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) / [US11](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)           |
 | Critérios de aceitação |           [US03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) / [US11](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)           |
-|       Observação       |                                                                                                              Requisito totalmente implementado                                                                                                              |
+|       Status da implementação       |                                                                                                              Requisito totalmente implementado                                                                                                              |
 |     Funcionalidade     |                                                          <img src="https://user-images.githubusercontent.com/78981063/186301489-99836121-0a10-42f0-b558-f65d6d22a605.png" width="180" height=auto>                                                          |
 
 ### RNF05
@@ -206,7 +199,7 @@
 |          Tema          |                                                                     -                                                                     |
 |           US           |                                                                     -                                                                     |
 | Critérios de aceitação |                                                                     -                                                                     |
-|       Observação       |                                                     Requisito totalmente implementado                                                     |
+|       Status da implementação       |                                                     Requisito totalmente implementado                                                     |
 |     Funcionalidade     | <img src="https://user-images.githubusercontent.com/78981063/186418097-432ab878-5b96-46c2-b770-99ac5b265a4f.gif" width="180" height=auto> |
 
 ### RNF06
@@ -217,7 +210,7 @@
 |          Tema          |                                                                     -                                                                     |
 |           US           |                                                                     -                                                                     |
 | Critérios de aceitação |                                                                     -                                                                     |
-|       Observação       |                                                     Requisito totalmente implementado                                                     |
+|       Status da implementação       |                                                     Requisito totalmente implementado                                                     |
 |     Funcionalidade     | <img src="https://user-images.githubusercontent.com/78981063/186301878-7e18d228-44d8-47e4-9ac5-71e6c7011c1d.png" width="180" height=auto> |
 
 ### RNF07
@@ -228,7 +221,7 @@
 |          Tema          |     [Pagamento](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)     |
 |           US           | [US15](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) |
 | Critérios de aceitação | [US15](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) |
-|       Observação       |                                         Requisito totalmente implementado                                          |
+|       Status da implementação       |                                         Requisito totalmente implementado                                          |
 |     Funcionalidade     |                                        <img src="" width="180" height=auto>                                        |
 
 ### RNF08
@@ -239,7 +232,7 @@
 |          Tema          |                             -                              |
 |           US           |                             -                              |
 | Critérios de aceitação |                             -                              |
-|       Observação       |             Requisito totalmente implementado              |
+|       Status da implementação       |             Requisito totalmente implementado              |
 |     Funcionalidade     |                             -                              |
 
 ### RNF09
@@ -250,7 +243,7 @@
 |          Tema          |                        -                        |
 |           US           |                        -                        |
 | Critérios de aceitação |                        -                        |
-|       Observação       |        Requisito totalmente implementado        |
+|       Status da implementação       |        Requisito totalmente implementado        |
 |     Funcionalidade     |      <img src="" width="180" height=auto>       |
 
 ### RNF10
@@ -261,7 +254,7 @@
 |          Tema          |                            -                            |
 |           US           |                            -                            |
 | Critérios de aceitação |                            -                            |
-|       Observação       |                            -                            |
+|       Status da implementação       |                            -                            |
 |     Funcionalidade     |                            -                            |
 
 ### RNF11
@@ -272,7 +265,7 @@
 |          Tema          |                                       -                                       |
 |           US           |                                       -                                       |
 | Critérios de aceitação |                                       -                                       |
-|       Observação       |                       Requisito totalmente implementado                       |
+|       Status da implementação       |                       Requisito totalmente implementado                       |
 |     Funcionalidade     |                     <img src="" width="180" height=auto>                      |
 
 ### RNF12
@@ -283,7 +276,7 @@
 |          Tema          | [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) |
 |           US           |      [US04](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
 | Critérios de aceitação |      [US04](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
-|       Observação       |                                              Requisito totalmente implementado                                               |
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
 |     Funcionalidade     |                                             <img src="" width="180" height=auto>                                             |
 
 ### RNF13
@@ -294,7 +287,7 @@
 |          Tema          |     [Pagamento](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)     |
 |           US           | [US15](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) |
 | Critérios de aceitação | [US15](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) |
-|       Observação       |                                         Requisito totalmente implementado                                          |
+|       Status da implementação       |                                         Requisito totalmente implementado                                          |
 |     Funcionalidade     |                                        <img src="" width="180" height=auto>                                        |
 
 ### RNF14
@@ -305,7 +298,7 @@
 |          Tema          |                            -                            |
 |           US           |                            -                            |
 | Critérios de aceitação |                            -                            |
-|       Observação       |            Requisito totalmente implementado            |
+|       Status da implementação       |            Requisito totalmente implementado            |
 |     Funcionalidade     |          <img src="" width="180" height=auto>           |
 
 ### RNF15
@@ -316,7 +309,7 @@
 |          Tema          |                             -                              |
 |           US           |                             -                              |
 | Critérios de aceitação |                             -                              |
-|       Observação       |             Requisito totalmente implementado              |
+|       Status da implementação       |             Requisito totalmente implementado              |
 |     Funcionalidade     |            <img src="" width="180" height=auto>            |
 
 ### RNF16
@@ -327,7 +320,7 @@
 |          Tema          |    [Cadastro e login](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)    |
 |           US           |         [US01](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)         |
 | Critérios de aceitação |         [US01](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)         |
-|       Observação       |                                                 Requisito totalmente implementado                                                  |
+|       Status da implementação       |                                                 Requisito totalmente implementado                                                  |
 |     Funcionalidade     |                                                <img src="" width="180" height=auto>                                                |
 
 ## Referencias
