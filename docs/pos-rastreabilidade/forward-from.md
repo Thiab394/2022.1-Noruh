@@ -22,6 +22,7 @@
 - RNF: Requisito Não Funcional
 - C: cenário
 - UC: Caso de uso
+- US: História de usuário
 
 ## 4. Requisitos Funcionais
 
@@ -147,7 +148,18 @@
 |           US           | [US11](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                |
 |    Artefatos           | [UC04](../../modelagem/Diagramas/CasoDeUso1/#caso-de-uso-2---fazer-login-na-conta) <br> [C02](../../modelagem/cenarios/#caso-2-logout-no-perfil)|
 |Status da implementação |   Requisito totalmente implementado                                                |
-|     Funcionalidade     |<img src="../../assets/foward-from/RF10.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">|
+|     Funcionalidade     |<img src="../../assets/foward-from/RF11.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">|
+
+### RF12
+
+|          RF12           |    O usuário deve poder selecionar a cidade em que deseja buscar restaurantes/bares            |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          | [Informações sobre Estabelecimentos](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos) |
+|          Tema          | [Pesquisas e Filtros para Visulaização](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)       |
+|           US           | [US12](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                |
+|    Artefatos           | [UC07](../../modelagem/Diagramas/CasoDeUso3/#caso-de-uso-1-fazer-pesquisa-por-restaurantes) <br> [C05](../../modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos)|
+|Status da implementação |   Requisito totalmente implementado                                                |
+|     Funcionalidade     |<img src="../../assets/foward-from/RF11.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">|
 
 ### RF30
 
