@@ -40,7 +40,7 @@ nav:
             - 'View Point': './analise/validacao/viewpoint.md'
     - Pós-Rastreabilidade:
         - 'Backward-from': './pos-rastreabilidade/backward-from.md'
-        - 'Foward-from': './pos-rastreabilidade/forward-from.md'
+        - 'Forward-from': './pos-rastreabilidade/forward-from.md'
     - Apresentações:
         - 'Apresentação 1': './apresentacoes/apresentacao1.md'
         - 'Apresentação 2': './apresentacoes/apresentacao2.md'
