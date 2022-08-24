@@ -54,6 +54,8 @@
 |        RF27         |                         [Observação](../elicitacao/tecnicas/observacao.md)                          |            [RF27](../../elicitacao/resultados/#21-requisitos-funcionais)             | [**EF27**](#ef27) |
 |        RF28         |                         [Observação](../elicitacao/tecnicas/observacao.md)                          |            [RF28](../../elicitacao/resultados/#21-requisitos-funcionais)             | [**EF28**](#ef28) |
 |        RF29         |                         [Observação](../elicitacao/tecnicas/observacao.md)                          |            [RF29](../../elicitacao/resultados/#21-requisitos-funcionais)             | [**EF29**](#ef29) |
+|        RF30         |                         [Observação](../elicitacao/tecnicas/observacao.md)                          |            [RF30](../../elicitacao/resultados/#21-requisitos-funcionais)             | [**EF30**](#ef30) |
+|        RF31         |                         [Observação](../elicitacao/tecnicas/observacao.md)                          |            [RF31](../../elicitacao/resultados/#21-requisitos-funcionais)             | [**EF31**](#ef31) |
 
 <figcaption align='center'>
     <b>Tabela 1: análise backward-from requisitos funcionais  </b>
