@@ -252,7 +252,7 @@ Representação: [RF29](https://requisitos-de-software.github.io/2022.1-Noruh/el
 |  1.3   |          Atualizando metodologia e introdução         |    Lucas    |       -        | 23/08/22 |10:00 às 11:00  |
 |  1.4   |           Adicionando Rfs 9 ao 19 e suas representações nos elos         |    Lucas    |       Eurico       | 23/08/22 |20:00 às 20:50  |
 |  1.5   |           Adicionando Rfs 20 ao 29 na tabela        |    Eurico    |       João       | 23/08/22 |22:00 às 20:25  |
-|  1.6   |           Elos funcionais Rfs 20 ao 29        |    Eurico    |       João       | 23/08/22 |22:25 às 20:60  |
+|  1.6   |           Elos funcionais Rfs 20 ao 29        |    Eurico    |       João       | 23/08/22 |22:25 às 20:50  |
 
 
 
