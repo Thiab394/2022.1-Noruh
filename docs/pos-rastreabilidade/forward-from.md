@@ -475,9 +475,10 @@
 
 | Versão |               Alteração                |  Responsável   | Revisor |   Data   |      Hora      |
 | :----: | :------------------------------------: | :------------: | :-----: | :------: | :------------: |
-|  1.0   |          Colocando RFs 1 ao 9          | João Henrique  |    -    | 22/08/22 | 16:00 às 17:00 |
-|  1.1   |    Colocando imagens aos RFs 1 ao 9    | João Henrique  |    -    | 23/08/22 | 10:00 às 11:30 |
+|  1.0   |          Colocando RFs 1 ao 9          | João Henrique  |    Eurico    | 22/08/22 | 16:00 às 17:00 |
+|  1.1   |    Colocando imagens aos RFs 1 ao 9    | João Henrique  |    Eurico    | 23/08/22 | 10:00 às 11:30 |
 |  1.2   | Adição dos RFs 30 e 31 e NFs do 1 ao 7 | Karla Chaiane  |    -    | 23/08/22 | 19:00 às 23:00 |
 |  1.3   |         Adição dos NFs 8 ao 16         | Bruno Oliveira |    -    | 24/08/22 | 11:00 às 11:30 |
 |  1.4   |    Adicionando artefatos à tabela e excluindo criterios de aceitação   | João Henrique  |    -    | 24/08/22 | 17:45 às 18:30 |
-|  1.5   |    Adicionando as tabelas RF20  - RF29   | Eurico  |    -    | 24/08/22 | 18:00 às 18:30 |
+|  1.5   |    Adicionando as tabelas RF20  - RF29   | Eurico  |    João Henrique    | 24/08/22 | 18:00 às 18:30 |
+|  1.6   |    Corrigindo a primeira tabela que estava quebrada   | Eurico  |    João Henrique    | 24/08/22 | 18:30 às 18:45 |
