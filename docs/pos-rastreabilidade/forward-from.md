@@ -126,7 +126,6 @@
 | Artefatos| [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos), [caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/#caso-de-uso-2-acessar-pagina-do-restaurante)|
 |     Funcionalidade     |                    <img src="../../assets/foward-from/rf9.gif" alt="Employee data" width="180" height=auto title="Employee Data title">                    |
 
-<<<<<<< HEAD
 ### RF10
 
 |          RF10           |      O usuário deve conseguir cadastrar múltiplos endereços            |
