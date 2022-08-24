@@ -28,10 +28,8 @@
 |         Épico          | [Gerenciamento de conta](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta) |
 |          Tema          |    [Cadastro e login](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)    |
 |           US           |         [US01](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)         |
-
-|       Status da implementação       |                                                 Requisito totalmente implementado                                                  |
-|Artefatos|[Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-1-criar-perfil),
-[Caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso1/#caso-de-uso-1-criar-conta),|
+|       Status da implementação       |                                                 Requisito totalmente implementado                               |
+|Artefatos|[Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-1-criar-perfil), [Caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso1/#caso-de-uso-1-criar-conta)|
 |     Funcionalidade     |        <img src="../../assets/foward-from/rf1.gif" alt="Employee data" width="180" height=auto title="Employee Data title">        |
 
 ### RF2
