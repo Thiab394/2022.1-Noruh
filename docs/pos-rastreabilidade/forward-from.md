@@ -172,13 +172,13 @@
 
 ### RF21
 
-|          RF21           |                                           O usuário deve poder acessar o cardápio                                            |
+|          RF21           |                                           O usuário deve poder ter a opção de parcelar seus pagamentos quando possível                                            |
 | :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
-|         Épico          |                  |
-|          Tema          |  |
-|           US           |            |
+|         Épico          |     [Restaurante](../../modelagem/backlog/#42-epico-restaurante)             |
+|          Tema          | [Pagamento](../../modelagem/backlog/#42-epico-restaurante) |
+|           US           |      [US21](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
 |       Status da implementação       |                                              Requisito totalmente implementado                                               |
-| Artefatos| |
+| Artefatos| [C06](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-6-formas-de-pagamento), [UC02](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido)|
 |     Funcionalidade     |          |
 
 ### RF22
