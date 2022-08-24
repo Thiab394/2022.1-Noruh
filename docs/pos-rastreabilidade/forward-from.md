@@ -62,7 +62,6 @@
 |         Épico          |         [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)         |
 |          Tema          | [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) |
 |           US           |      [US03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
-| Critérios de aceitação |      [US03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
 |       Status da implementação       |                                              Requisito totalmente implementado                                               |
 | Artefatos|[Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-9-pedido-no-estabelecimento)<br>[caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido)|
 |     Funcionalidade     |     <img src="../../assets/foward-from/rf3.gif" alt="Employee data" width="180" height=auto title="Employee Data title">     |
