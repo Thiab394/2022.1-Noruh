@@ -44,6 +44,16 @@
 |RF17|[Brainstorm](../elicitacao/tecnicas/brainstorm.md)|[RF17](../../elicitacao/resultados/#21-requisitos-funcionais)|[**EF17**](#ef17)|
 |RF18|[Brainstorm](../elicitacao/tecnicas/brainstorm.md)|[RF18](../../elicitacao/resultados/#21-requisitos-funcionais)|[**EF18**](#ef18)|
 |RF19|[Brainstorm](../elicitacao/tecnicas/brainstorm.md)|[RF19](../../elicitacao/resultados/#21-requisitos-funcionais)|[**EF19**](#ef19)|
+|RF20|[Observação](../elicitacao/tecnicas/observacao.md)|[RF20](../../elicitacao/resultados/#21-requisitos-funcionais)|[**EF20**](#ef20)|
+|RF21|[Observação](../elicitacao/tecnicas/observacao.md)|[RF21](../../elicitacao/resultados/#21-requisitos-funcionais)|[**EF21**](#ef21)|
+|RF22|[Brainstorm](../elicitacao/tecnicas/observacao.md)|[RF22](../../elicitacao/resultados/#21-requisitos-funcionais)|[**EF22**](#ef22)|
+|RF23|[Brainstorm](../elicitacao/tecnicas/Brainstorm.md)|[RF23](../../elicitacao/resultados/#21-requisitos-funcionais)|[**EF23**](#ef23)|
+|RF24|[Brainstorm](../elicitacao/tecnicas/brainstorm.md)|[RF24](../../elicitacao/resultados/#21-requisitos-funcionais)|[**EF24**](#ef24)|
+|RF25|[Brainstorm](../elicitacao/tecnicas/brainstorm.md)|[RF25](../../elicitacao/resultados/#21-requisitos-funcionais)|[**EF25**](#ef25)|
+|RF26|[Brainstorm](../elicitacao/tecnicas/brainstorm.md)|[RF26](../../elicitacao/resultados/#21-requisitos-funcionais)|[**EF26**](#ef26)|
+|RF27|[Observação](../elicitacao/tecnicas/observacao.md)|[RF27](../../elicitacao/resultados/#21-requisitos-funcionais)|[**EF27**](#ef27)|
+|RF28|[Observação](../elicitacao/tecnicas/observacao.md)|[RF28](../../elicitacao/resultados/#21-requisitos-funcionais)|[**EF28**](#ef28)|
+|RF29|[Observação](../elicitacao/tecnicas/observacao.md)|[RF29](../../elicitacao/resultados/#21-requisitos-funcionais)|[**EF29**](#ef29)|
 
 <figcaption align='center'>
     <b>Tabela 1: análise backward-from requisitos funcionais  </b>
@@ -181,6 +191,7 @@ Representação: [RF19](https://requisitos-de-software.github.io/2022.1-Noruh/el
 |  1.2   |          Atualizando metodologia          |    João Henrique    |      Lucas    | 22/08/22 |16:00 às 16:15  |
 |  1.3   |          Atualizando metodologia e introdução         |    Lucas    |       -        | 23/08/22 |10:00 às 11:00  |
 |  1.4   |           Adicionando Rfs 9 ao 19 e suas representações nos elos         |    Lucas    |       Eurico       | 23/08/22 |20:00 às 20:50  |
+|  1.5   |           Adicionando Rfs 20 ao 29 na tabela        |    Eurico    |       João       | 23/08/22 |22:00 às 20:25  |
 
 
 
