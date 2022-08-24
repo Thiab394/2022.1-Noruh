@@ -41,7 +41,7 @@
 | RF27    | O usuário deve poder entrar na fila de espera do estabelecimento pelo app|Observação|   
 | RF28    | O usuário deve receber notificações sobre o andamento da fila de espera | Observação| 
 | RF29    | O usuário deve receber um tutorial no primeiro uso | Observação| 
-| RF30    | O usuário deve poder cirar uma comanda compartilhada | Observação| 
+| RF30    | O usuário deve poder criar uma comanda compartilhada | Observação| 
 | RF31    | O usuário deve poder pesquisar produtos no cardápio | Observação|
 
 ### 2.2 Requisitos Não Funcionais
@@ -50,7 +50,7 @@
 | :------: | :------------------------------------------------:|:--------:|
 | RNF1    | O sistema deve restringir a idade para uso do app |  Brainstorm |
 | RNF2    | O sistema deve ser responsivo |  Brainstorm |
-| RNF3    | O sistema deve ser disponível para android versão 8.0 ou superior e IOS versão IOS 11 ou superior |  Brainstorm |
+| RNF3    | O sistema deve ser disponível para android versão 5.0 ou superior e IOS versão IOS 11 ou superior |  Brainstorm |
 | RNF4    | O sistema deve possuir uma interface gráfica |  Brainstorm |
 | RNF5    | O sistema deve ter um tempo de comunicação com o servidor de no máximo 4 segundos |  Brainstorm |
 | RNF6    | O sistema deve garantir a privacidade e segurança dos dados do usuário | Brainstorm |

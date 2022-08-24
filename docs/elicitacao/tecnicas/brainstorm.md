@@ -60,7 +60,7 @@
 | ------ | --------------------------------------------------|
 | 1    | O sistema deve restringir a idade para uso do app |
 | 2    | O sistema deve ser responsivo  |
-| 3    | O sistema deve ser disponível para android versão 8.0 ou superior e IOS versão IOS 11 ou superior   |
+| 3    | O sistema deve ser disponível para android versão 5.0 ou superior e IOS versão IOS 11 ou superior   |
 | 4    | O sistema deve possuir uma interface gráfica  |
 | 5    | O sistema deve apresentar um design minimalista  |
 | 6    | O sistema deve ter um tempo de comunicação com o servidor de no máximo 10 segundos  |

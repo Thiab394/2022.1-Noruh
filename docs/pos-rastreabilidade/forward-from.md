@@ -119,6 +119,110 @@
 |Observação|Requisito totalmente implementado|
 |Funcionalidade|<img src="../../assets/foward-from/rf9.gif" alt="Employee data" width="180" height=auto title="Employee Data title">|
 
+
+
+
+### RF30
+
+|RF30| O usuário deve poder criar uma comanda compartilhada |
+|:--:|:----------------------------------:|
+|Épico| [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) |
+|Tema| [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) |
+|US| [US05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) |
+|Critérios de aceitação| [US05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) |
+|Observação|Requisito totalmente implementado|
+|Funcionalidade|<img src="https://user-images.githubusercontent.com/78981063/186289844-6ab8026e-274c-4684-956a-c9c502b2e245.png" width="180" height=auto>|
+
+### RF31
+
+|RF31|O usuário deve poder pesquisar produtos no cardápio|
+|:--:|:----------------------------------:|
+|Épico| [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) |
+|Tema| [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) |
+|US| US04 |
+|Critérios de aceitação| US04 |
+|Observação|Requisito totalmente implementado|
+|Funcionalidade|<img src="https://user-images.githubusercontent.com/78981063/186290795-c83c8254-9e87-4ef9-a686-b4885e86dd15.gif" width="180" height=auto>|
+
+## 5. Requisitos Não-Funcionais
+
+### RNF01
+
+|RNF01|O sistema deve restringir a idade para uso do app	|
+|:--:|:----------------------------------:|
+|Épico| - |
+|Tema| - |
+|US| - |
+|Critérios de aceitação| - |
+|Observação|Requisito parcialmente implementado|
+|Funcionalidade|<img src="https://user-images.githubusercontent.com/78981063/186298799-da7c1ef8-9336-4333-a9a4-74b5a8fa259d.png" width="180" height=auto>|
+
+### RNF02
+
+|RNF02| O sistema deve ser responsivo |
+|:--:|:----------------------------------:|
+|Épico| - |
+|Tema| - |
+|US| - |
+|Critérios de aceitação| - |
+|Observação|Requisito totalmente implementado|
+|Funcionalidade|<img src="https://user-images.githubusercontent.com/78981063/186301489-99836121-0a10-42f0-b558-f65d6d22a605.png" width="180" height=auto>|
+
+### RNF03
+
+|RNF02| O sistema deve ser disponível para android versão 5.0 ou superior e IOS versão IOS 11 ou superior |
+|:--:|:----------------------------------:|
+|Épico| [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) / [Gerenciamento de conta](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta) |
+|Tema| [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) / [Cadastro e Login](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta) |
+|US| [US11](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) |
+|Critérios de aceitação| [US11](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) |
+|Observação|Requisito totalmente implementado|
+|Funcionalidade|<img src="https://user-images.githubusercontent.com/78981063/186426114-fd369138-c5af-438b-8e0b-99ec44e4d9a1.png" width="180" height=auto>|
+
+### RNF04
+
+|RNF02| O sistema deve possuir uma interface gráfica |
+|:--:|:----------------------------------:|
+|Épico| [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) / [Gerenciamento de conta](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta) |
+|Tema| [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) / [Cadastro e Login](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta) |
+|US| [US03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) / [US11](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) |
+|Critérios de aceitação| [US03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) / [US11](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) |
+|Observação|Requisito totalmente implementado|
+|Funcionalidade|<img src="https://user-images.githubusercontent.com/78981063/186301489-99836121-0a10-42f0-b558-f65d6d22a605.png" width="180" height=auto>|
+
+### RNF05
+
+|RNF02| O sistema deve ter um tempo de comunicação com o servidor de no máximo 4 segundos |
+|:--:|:----------------------------------:|
+|Épico| - |
+|Tema| - |
+|US| - |
+|Critérios de aceitação| - |
+|Observação|Requisito totalmente implementado|
+|Funcionalidade|<img src="https://user-images.githubusercontent.com/78981063/186418097-432ab878-5b96-46c2-b770-99ac5b265a4f.gif" width="180" height=auto>|
+
+### RNF06
+
+|RNF02| O sistema deve garantir a privacidade e segurança dos dados do usuário	 |
+|:--:|:----------------------------------:|
+|Épico| - |
+|Tema| - |
+|US| - |
+|Critérios de aceitação| - |
+|Observação|Requisito totalmente implementado|
+|Funcionalidade|<img src="https://user-images.githubusercontent.com/78981063/186301878-7e18d228-44d8-47e4-9ac5-71e6c7011c1d.png" width="180" height=auto>|
+
+### RNF07
+
+|RNF02| O sistema deve permitir com que pagamentos sejam realizados com segurança |
+|:--:|:----------------------------------:|
+|Épico| [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) |
+|Tema| [Pagamento](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) |
+|US| [US15](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) |
+|Critérios de aceitação| [US15](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario) |
+|Observação|Requisito totalmente implementado|
+|Funcionalidade|<img src="" width="180" height=auto>|
+
 ## Referencias
 
 ## Histórico de versão
@@ -127,3 +231,4 @@
 | :----: | :-----------------: | :---------: | :--------------------------: | :------: | :------: |
 |  1.0   |          Colocando RFs 1 ao 9          |    João Henrique    |        -       | 22/08/22 |16:00 às 17:00  |
 |  1.1   |          Colocando imagens aos RFs 1 ao 9          |    João Henrique    |        -       | 23/08/22 |10:00 às 11:30  |    
+|  1.2   |          Adição dos RFs 30 e 31 e NFs do 1 ao 7 |    Karla Chaiane    |        -       | 23/08/22 | 19:00 às 23:00  |
