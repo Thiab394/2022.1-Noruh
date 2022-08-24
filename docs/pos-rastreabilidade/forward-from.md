@@ -123,6 +123,116 @@
 | Artefatos| [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos), [caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/#caso-de-uso-2-acessar-pagina-do-restaurante)|
 |     Funcionalidade     |                    <img src="../../assets/foward-from/rf9.gif" alt="Employee data" width="180" height=auto title="Employee Data title">                    |
 
+### RF20
+
+|          RF20           |                                           O usuário deve poder acessar o cardápio                                            |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          |                  |
+|          Tema          |  |
+|           US           |            |
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
+| Artefatos| |
+|     Funcionalidade     |          |
+
+### RF21
+
+|          RF21           |                                           O usuário deve poder acessar o cardápio                                            |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          |                  |
+|          Tema          |  |
+|           US           |            |
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
+| Artefatos| |
+|     Funcionalidade     |          |
+
+### RF22
+
+|          RF22           |                                           O usuário deve poder acessar o cardápio                                            |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          |                  |
+|          Tema          |  |
+|           US           |            |
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
+| Artefatos| |
+|     Funcionalidade     |          |
+
+### RF23
+
+|          RF23           |                                           O usuário deve poder acessar o cardápio                                            |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          |                  |
+|          Tema          |  |
+|           US           |            |
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
+| Artefatos| |
+|     Funcionalidade     |          |
+
+### RF24
+
+|          RF24           |                                           O usuário deve poder acessar o cardápio                                            |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          |                  |
+|          Tema          |  |
+|           US           |            |
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
+| Artefatos| |
+|     Funcionalidade     |          |
+
+### RF25
+
+|          RF25           |                                           O usuário deve poder acessar o cardápio                                            |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          |                  |
+|          Tema          |  |
+|           US           |            |
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
+| Artefatos| |
+|     Funcionalidade     |          |
+
+### RF26
+
+|          RF26           |                                           O usuário deve poder acessar o cardápio                                            |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          |                  |
+|          Tema          |  |
+|           US           |            |
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
+| Artefatos| |
+|     Funcionalidade     |          |
+
+### RF27
+
+|          RF27           |                                           O usuário deve poder acessar o cardápio                                            |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          |                  |
+|          Tema          |  |
+|           US           |            |
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
+| Artefatos| |
+|     Funcionalidade     |          |
+
+### RF28
+
+|          RF28           |                                           O usuário deve poder acessar o cardápio                                            |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          |                  |
+|          Tema          |  |
+|           US           |            |
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
+| Artefatos| |
+|     Funcionalidade     |          |
+
+### RF29
+
+|          RF29           |                                           O usuário deve poder acessar o cardápio                                            |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          |                  |
+|          Tema          |  |
+|           US           |            |
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
+| Artefatos| |
+|     Funcionalidade     |          |
+
 ### RF30
 
 |          RF30          |                                           O usuário deve poder criar uma comanda compartilhada                                            |
@@ -334,3 +444,4 @@
 |  1.2   | Adição dos RFs 30 e 31 e NFs do 1 ao 7 | Karla Chaiane  |    -    | 23/08/22 | 19:00 às 23:00 |
 |  1.3   |         Adição dos NFs 8 ao 16         | Bruno Oliveira |    -    | 24/08/22 | 11:00 às 11:30 |
 |  1.4   |    Adicionando artefatos à tabela e excluindo criterios de aceitação   | João Henrique  |    -    | 24/08/22 | 17:45 às 18:30 |
+|  1.5   |    Adicionando as tabelas RF20  - RF29   | Eurico  |    -    | 24/08/22 | 18:00 às 18:30 |
