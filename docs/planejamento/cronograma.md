@@ -122,21 +122,48 @@
 
 |            Atividade            |                Responsável                 |           Revisor            | Data  |
 | :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
-| Fazer RFs 1 ao 9 backward-from          | João Henrique                             |               -             |  24/8    |
-| Fazer RFs 1 ao 9 forward-from            |  João Henrique                             |             -           |  24/8    |
-| Fazer RFs 10 ao 19 backward-from          | Lucas                             |               -             |  24/8   |
-| Fazer RFs 10 ao 19 forward-from            |  Lucas                             |             -           |  24/8    |
-| Fazer RFs 20 ao 29 backward-from          | Eurico                             |               -             |  24/8   |
-| Fazer RFs 20 ao 29 forward-from            |  Eurico                             |             -           |  24/8    |
-| Fazer RFs 30 e 31 / RNFs 1 ao 7 backward-from          | Karla                            |               -             |  24/8   |
-| Fazer RFs 30 e 31 / RNFs 1 ao 7 forward-from            |  Karla                             |             -           |  24/8    |
-| Fazer  RNFs 8 ao 17 backward-from          | Bruno                            |               -             |  24/8   |
-| Fazer RNFs 8 ao 17 forward-from            |  Bruno                             |             -           |  24/8    |        
+| Fazer RFs 1 ao 9 backward-from          | João Henrique                             |           Lucas           |24/8  |
+| Fazer RFs 1 ao 9 forward-from            |  João Henrique                             |         Lucas         | 24/8  |
+| Fazer RFs 10 ao 19 backward-from          | Lucas                             |      João           |  24/8 |
+| Fazer RFs 10 ao 19 forward-from            |  Lucas                             |        João           | 24/8  |
+| Fazer RFs 20 ao 29 backward-from          | Eurico                             |       Karla                 |  24/8  |
+| Fazer RFs 20 ao 29 forward-from            |  Eurico                             |       Karla          | 24/8  |
+| Fazer RFs 30 e 31 / RNFs 1 ao 7 backward-from          | Karla                            |           Bruno           |  24/8   |
+| Fazer RFs 30 e 31 / RNFs 1 ao 7 forward-from            |  Karla                             |       Bruno          | 24/8   |
+| Fazer  RNFs 8 ao 17 backward-from          | Bruno                            |           Eurico        | 24/8   |
+| Fazer RNFs 8 ao 17 forward-from            |  Bruno                             |           Eurico        |  24/8   |        
 | Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |               -              |   24/8   |
 
 </center>
 
 ### 3.7 Entrega 7
+
+<center>
+
+|            Atividade            |                Responsável                 |           Revisor            | Data  |
+| :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
+| Verificação das personas          | Lucas                             |           João           |29/8  |
+| Verificação do perfil de usuário          | Lucas                             |           João           |29/8  |
+| Fazer iStar          | João                             |           Lucas           |29/8  |
+| Fazer verificação First Things First          | João                             |           Lucas           |29/8  |
+| Fazer verificação House of Quality       | Eurico                             |           Bruno           |29/8  |
+| Adicionar IDs Cenários      | Bruno                             |           Lucas           |29/8  |
+| Adicionar hyperlinks e titulos nos léxicos      | Bruno                             |           João           |29/8  |
+| Adicionar hyperlinks e titulos nos léxicos      | Bruno                             |           João           |29/8  |
+| Adcionar conclusão questionários      | Eurico                             |           Lucas           |29/8  |
+| Adiconar metodologia do projeto      | Karla                             |           Lucas           |29/8  |
+| Fazer storytelling      | Karla                             |           Eurico           |1/9  |
+| Fazer observação participativa      | Lucas, João, Eurico                             |           Karla           |2/9  |
+| Verificação Foward-from      | Lucas                             |           João           |5/9  |
+| Correções da verificação histórias de usuário     | Karla                             |           Lucas           |5/9  |
+| Revisão viewpoint     | Eurico                             |           Bruno           |5/9  |
+| Melhoria no protótipo     | Lucas                             |           João           | 7/9  |
+| Melhoria motivação da escolha app     | Bruno                             |           Lucas           | 7/9  |
+| Verificação iStar     | Karla                             |           João           | 7/9  |
+
+
+
+</center>
 
 ## 4. Tabela de Horários (HeatMap)
 
