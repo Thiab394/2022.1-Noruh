@@ -13,8 +13,15 @@
 - Tema onde se encontra o requisito no backlog
 - História de usuário correspondente ao requisito
 - Artefatos derivados do requisito 
-- Status da immplementação do requisito
+- Status da implementação do requisito
 - Vídeo da tela onde esta implementada a funcionalidade
+
+&emsp;&emsp; Já para a rastreabilidade foward-from dos requisitos não-funcionais iremos utilizar uma tabela divida pelas seguintes linhas:
+
+- Identificador do requisito
+- Artefatos derivados do requisito
+- Status da implementação do requisito
+- Imagem da implementação
 
 ## 3. Legenda:
 
@@ -237,24 +244,24 @@
 
 ### RF20
 
-|          RF20           |                                           O usuário deve poder acessar o cardápio                                            |
+|          RF20           |                          O usuário deve poder adicionar multiplas formas de pagamento                                            |
 | :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
-|         Épico          |                  |
-|          Tema          |  |
-|           US           |            |
+|         Épico          |        [Restaurante](../../modelagem/backlog/#42-epico-restaurante)          |
+|          Tema          | [Pagamento](../../modelagem/backlog/#42-epico-restaurante) |
+|           US           |        [US20](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)    |
 |       Status da implementação       |                                              Requisito totalmente implementado                                               |
-| Artefatos| |
+| Artefatos|[C06](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-6-formas-de-pagamento), [UC02](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido) |
 |     Funcionalidade     |          |
 
 ### RF21
 
-|          RF21           |                                           O usuário deve poder acessar o cardápio                                            |
+|          RF21           |                                           O usuário deve poder ter a opção de parcelar seus pagamentos quando possível                                            |
 | :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
-|         Épico          |                  |
-|          Tema          |  |
-|           US           |            |
+|         Épico          |     [Restaurante](../../modelagem/backlog/#42-epico-restaurante)             |
+|          Tema          | [Pagamento](../../modelagem/backlog/#42-epico-restaurante) |
+|           US           |      [US21](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
 |       Status da implementação       |                                              Requisito totalmente implementado                                               |
-| Artefatos| |
+| Artefatos| [C06](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-6-formas-de-pagamento), [UC02](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido)|
 |     Funcionalidade     |          |
 
 ### RF22
@@ -551,8 +558,8 @@
 
 | Versão |               Alteração                |  Responsável   | Revisor |   Data   |      Hora      |
 | :----: | :------------------------------------: | :------------: | :-----: | :------: | :------------: |
-|  1.0   |          Colocando RFs 1 ao 9          | João Henrique  |    Lucas    | 22/08/22 | 16:00 às 17:00 |
-|  1.1   |    Colocando imagens aos RFs 1 ao 9    | João Henrique  |    Lucas   | 23/08/22 | 10:00 às 11:30 |
+|  1.0   |          Colocando RFs 1 ao 9          | João Henrique  |    Eurico    | 22/08/22 | 16:00 às 17:00 |
+|  1.1   |    Colocando imagens aos RFs 1 ao 9    | João Henrique  |    Eurico   | 23/08/22 | 10:00 às 11:30 |
 |  1.2   | Adição dos RFs 30 e 31 e NFs do 1 ao 7 | Karla Chaiane  |   Lucas   | 23/08/22 | 19:00 às 23:00 |
 |  1.3   |         Adição dos NFs 8 ao 16         | Bruno Oliveira |   Lucas    | 24/08/22 | 11:00 às 11:30 |
 |  1.4   |    Adicionando artefatos à tabela e excluindo criterios de aceitação   | João Henrique  |   Lucas  | 24/08/22 | 17:45 às 18:30 |
