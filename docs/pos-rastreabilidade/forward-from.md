@@ -326,7 +326,7 @@
 |         Épico          |     [Restaurante](../../modelagem/backlog/#42-epico-restaurante)             |
 |          Tema          | [Fila de espera do restaurante](../../modelagem/backlog/#42-epico-restaurante) |
 |           US           |    [US27](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)        |
-|       Status da implementação       |                                              Requisito não implementado                                               |
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
 | Artefatos|[UC2](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-2-entrar-na-fila-de-espera)|
 |     Funcionalidade     |          |
 
@@ -337,7 +337,7 @@
 |         Épico          |    [Restaurante](../../modelagem/backlog/#42-epico-restaurante)              |
 |          Tema          | [Fila de espera do restaurante](../../modelagem/backlog/#42-epico-restaurante) |
 |           US           |    [US28](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)        |
-|       Status da implementação       |                                              Requisito não implementado                                               |
+|       Status da implementação       |                                              Requisito totalmente implementado                                               |
 | Artefatos| [UC2](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-2-entrar-na-fila-de-espera)|
 |     Funcionalidade     |          |
 
