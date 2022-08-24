@@ -251,7 +251,7 @@
 |           US           |        [US20](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)    |
 |       Status da implementação       |                                              Requisito totalmente implementado                                               |
 | Artefatos|[C06](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-6-formas-de-pagamento), [UC02](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido) |
-|     Funcionalidade     |          |
+|     Funcionalidade     |    <img src="../../assets/foward-from/rf20.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">      |
 
 ### RF21
 
@@ -262,7 +262,6 @@
 |           US           |      [US21](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
 |       Status da implementação       |                                              Requisito totalmente implementado                                               |
 | Artefatos| [C06](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-6-formas-de-pagamento), [UC02](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido)|
-|     Funcionalidade     |          |
 
 ### RF22
 
@@ -273,7 +272,7 @@
 |           US           |       [US22](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)     |
 |       Status da implementação       |                                              Requisito totalmente implementado                                               |
 | Artefatos| [C05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos), [UC03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/)|
-|     Funcionalidade     |          |
+|     Funcionalidade     |   <img src="../../assets/foward-from/rf22.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">       |
 
 ### RF23
 
@@ -284,7 +283,6 @@
 |           US           |      [US23](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)      |
 |       Status da implementação       |                                              Requisito não implementado                                               |
 | Artefatos|[UC02](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido), [C06](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-6-formas-de-pagamento) |
-|     Funcionalidade     |          |
 
 ### RF24
 
@@ -295,7 +293,7 @@
 |           US           |     [US24](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)       |
 |       Status da implementação       |                                              Requisito totalmente implementado                                               |
 | Artefatos| [UC03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/), [C05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos) |
-|     Funcionalidade     |          |
+|     Funcionalidade     |     <img src="../../assets/foward-from/rf24.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">     |
 
 ### RF25
 
@@ -306,7 +304,7 @@
 |           US           |   [US25](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)         |
 |       Status da implementação       |                                              Requisito totalmente implementado                                               |
 | Artefatos|[UC03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/), [C05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos) |
-|     Funcionalidade     |          |
+|     Funcionalidade     |    <img src="../../assets/foward-from/rf25.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">      |
 
 ### RF26
 
@@ -317,7 +315,7 @@
 |           US           |    [US26](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)        |
 |       Status da implementação       |  Requisito totalmente implementado|
 | Artefatos| [UC03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/), [C05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos)|
-|     Funcionalidade     |          |
+|     Funcionalidade     | <img src="../../assets/foward-from/rf26.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">         |
 
 ### RF27
 
@@ -328,7 +326,7 @@
 |           US           |    [US27](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)        |
 |       Status da implementação       |                                              Requisito totalmente implementado                                               |
 | Artefatos|[UC2](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-2-entrar-na-fila-de-espera)|
-|     Funcionalidade     |          |
+|     Funcionalidade     |    <img src="../../assets/foward-from/rf27.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">      |
 
 ### RF28
 
@@ -339,7 +337,6 @@
 |           US           |    [US28](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)        |
 |       Status da implementação       |                                              Requisito totalmente implementado                                               |
 | Artefatos| [UC2](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-2-entrar-na-fila-de-espera)|
-|     Funcionalidade     |          |
 
 ### RF29
 
