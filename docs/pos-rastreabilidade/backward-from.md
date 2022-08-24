@@ -303,7 +303,7 @@ Recurso: [RF31](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao
 |        RNF16        |   [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/)   | [RNF16](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) | [**ENF16**](#ENF16) |
 
 <figcaption align='center'>
-    <b>Tabela 1: análise backward-from requisitos não funcionais  </b>
+    <b>Tabela 2: análise backward-from requisitos não funcionais  </b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
