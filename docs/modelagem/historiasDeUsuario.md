@@ -53,6 +53,7 @@
 | US26 | RF26 | Eu, como um usuário, gostaria de ver bares/restaurantes com promoções, para poder economizar ao frequentar um estabelecimento.| Could|-Na página inicial, mostrar os restaurantes que estão com desconto no botão "descontos".|
 | US27 | RF27 | Eu, como um usuário, gostaria de entrar na fila de espera dos bares/restaurantes, para poder esperar minha vez de ser atendido.| Could|-Ter a opção de esperar ser atendido por um restaurante ao clicar nele.|
 | US28 | RF28 | Eu, como um usuário, gostaria de receber notificações sobre a fila de espera, para poder me manter atualizado sobre a situação da fila.| Could|-Receber notificações sobre a fila de espera(precisa permitir as notificações ao aplicativo Noruh)|
+| US29 | RF29 | Eu, como um usuário, gostaria de ter acesso a um tutorial, para poder facilitar o uso do aplicativo.| Could|-Receber um tutorial no primeiro uso.|
 
 ## 4. Referências
 
@@ -66,4 +67,4 @@
 |  1.0.1   |Arrumando tabelas  |    João Henrique    |      Eurico, Lucas                | 29/07/22 |09:50 às 11.30 |
 |  1.1   | Incluindo História de Usuários  |    Karla Chaiane    |    Eurico, Lucas      | 02/07/22 | 20:00 às 22:30 |
 |  2.0   | Adicionando criterios de avaliação  |    João Henrique    |    Lucas      | 05/07/22 | 11:30 às 12:30|    
-    
+|  2.1   | Atualizando uma US  |    Eurico    |    Lucas      | 23/08/22 | 22:50 às 23:00|
