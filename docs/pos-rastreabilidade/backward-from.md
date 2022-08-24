@@ -239,6 +239,73 @@ Representação: [RF28](https://requisitos-de-software.github.io/2022.1-Noruh/el
 **Elos:** </br>
 Representação: [RF29](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US29](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
+### EF30
+
+**Categoria**: Desenvolvimento
+
+**Elos:**  
+Recurso: [RF30](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) depende dos recursos do [RF05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
+
+### EF31
+
+**Categoria**: Desenvolvimento
+
+**Elos:**  
+Recurso: [RF31](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) depende dos recursos do [RF04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
+
+## Elos Não-Funcionais
+
+### ENF01
+
+**Categoria**: Desenvolvimento
+
+**Elos:**  
+Alocado: [RNF01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+
+### ENF02
+
+**Categoria**: Desenvolvimento
+
+**Elos:**  
+Alocado: [RNF02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+
+### ENF03
+
+**Categoria**: Desenvolvimento
+
+**Elos:**  
+Alocado: [RNF03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+
+### ENF04
+
+**Categoria**: Desenvolvimento
+
+**Elos:**  
+Alocado: [RNF04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+
+### ENF05
+
+**Categoria**: Desenvolvimento
+
+**Elos:**  
+Alocado: [RNF05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+
+### ENF06
+
+**Categoria**: Desenvolvimento
+
+**Elos:**  
+Alocado: [RNF06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+
+### ENF07
+
+**Categoria**: Desenvolvimento
+
+**Elos:**  
+Alocado: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)  
+Recurso: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) depende dos recursos do [RF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)  
+Agregação: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) agrega [RF20](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) e [RF21](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
+
 ## Referências
 - Sayão e Leite. Rastreabilidade de Requisitos. ISSN 0103-9741
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 1º/2022. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
