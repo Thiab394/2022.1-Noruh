@@ -2,22 +2,26 @@
 
 ## 1. Introdução
 
+&emsp;&emsp; A pós-rastreabilidade tem como objetivo ligar os artefatos que são criados durante o ciclo de vida de um projeto aos seus devidos requisitos elicitados. Diante disso, neste documento iremos fazer a rastreabilidade foward-from, que tem como objetivo ligar os requisitos aos artefatos gerados durante o projeto, e também se estes requisitos foram implementados ou não no app.
+
 ## 2. Metodologia
+
+&emsp;&emsp; Para realizar a rastreabilidade foward-from dos requisitos funcionais iremos utilizar uma tabela divida pelas seguintes linhas:
+
+- Identificador do requisito
+- Épico onde se encontra o requisito no backlog
+- Tema onde se encontra o requisito no backlog
+- História de usuário correspondente ao requisito
+- Artefatos derivados do requisito 
+- Status da immplementação do requisito
+- Vídeo da tela onde esta implementada a funcionalidade
 
 ## 3. Legenda:
 
 - RF: Requisito Funcional
 - RNF: Requisito Não Funcional
-- Q: Questionario
-- AD: Brainstorm
-- OBS: Observação
-- INT: Instrospecção
-- C: Cenários
-- E: Épico
-- F: Feature
-- US: Histórias de Usuário
-- UC: Casos de Uso
-- EF: Elo Funcional
+- C: cenário
+- UC: Caso de uso
 
 ## 4. Requisitos Funcionais
 
@@ -119,6 +123,28 @@
 | Critérios de aceitação |                     [US09](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)                     |
 |       Observação       |                                                             Requisito totalmente implementado                                                              |
 |     Funcionalidade     |                    <img src="../../assets/foward-from/rf9.gif" alt="Employee data" width="180" height=auto title="Employee Data title">                    |
+
+### RF10
+
+|          RF10           |      O usuário deve conseguir cadastrar múltiplos endereços            |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          | [Gerenciamento de Conta](../../modelagem/backlog/#41-epico-gerenciamento-de-conta) |
+|          Tema          | [Cadastro e login](../../modelagem/backlog/#41-epico-gerenciamento-de-conta)       |
+|           US           | [US10 ](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                |
+|    Artefatos           | [UC02](../../modelagem/Diagramas/CasoDeUso1/#caso-de-uso-2---fazer-login-na-conta) <br>|
+|Status da implementação |   Requisito totalmente implementado                                                |
+|     Funcionalidade     |<img src="../../assets/foward-from/RF10.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">|
+
+### RF11
+
+|          RF11           |     O usuário deve conseguir fazer logout do perfil            |
+| :--------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         Épico          | [Gerenciamento de Conta](../../modelagem/backlog/#41-epico-gerenciamento-de-conta) |
+|          Tema          | [Cadastro e login](../../modelagem/backlog/#41-epico-gerenciamento-de-conta)       |
+|           US           | [US11](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                |
+|    Artefatos           | [UC04](../../modelagem/Diagramas/CasoDeUso1/#caso-de-uso-2---fazer-login-na-conta) <br> [C02](../../modelagem/cenarios/#caso-2-logout-no-perfil)|
+|Status da implementação |   Requisito totalmente implementado                                                |
+|     Funcionalidade     |<img src="../../assets/foward-from/RF10.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">|
 
 ### RF30
 
