@@ -334,23 +334,23 @@
 
 |          RF28           |                                           O usuário deve receber notificações sobre o andamento da fila de espera|
 | :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
-|         Épico          |                  |
-|          Tema          |  |
-|           US           |            |
-|       Status da implementação       |                                              Requisito totalmente implementado                                               |
-| Artefatos| |
+|         Épico          |    [Restaurante](../../modelagem/backlog/#42-epico-restaurante)              |
+|          Tema          | [Fila de espera do restaurante](../../modelagem/backlog/#42-epico-restaurante) |
+|           US           |    [US28](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)        |
+|       Status da implementação       |                                              Requisito não implementado                                               |
+| Artefatos| [UC2](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-2-entrar-na-fila-de-espera)|
 |     Funcionalidade     |          |
 
 ### RF29
 
 |          RF29           |                         O usuário deve receber um tutorial no primeiro uso                                        |
 | :--------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
-|         Épico          |                  |
-|          Tema          |  |
-|           US           |            |
-|       Status da implementação       |                                              Requisito totalmente implementado                                               |
-| Artefatos| |
-|     Funcionalidade     |          |
+|         Épico          |           N/A       |
+|          Tema          | N/A  |
+|           US           |  N/A            |
+|       Status da implementação       |                                              Requisito não implementado                                               |
+| Artefatos|N/A   |
+|     Funcionalidade     |   N/A         |
 
 ### RF30
 
