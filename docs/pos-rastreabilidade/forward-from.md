@@ -21,7 +21,6 @@
 - Identificador do requisito
 - Artefatos derivados do requisito
 - Status da implementação do requisito
-- Imagem da implementação
 
 ## 3. Legenda:
 
@@ -30,6 +29,8 @@
 - C: cenário
 - UC: Caso de uso
 - US: História de usuário
+- ES: Especificação Suplementar
+- NFR: NFR Framework
 
 ## 4. Requisitos Funcionais
 
@@ -344,7 +345,6 @@
 |          Épico          |               [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)                |
 |          Tema           |       [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)        |
 |           US            |            [US05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)             |
-| Critérios de aceitação  |            [US05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)             |
 | Status da implementação |                                                     Requisito totalmente implementado                                                     |
 |     Funcionalidade      | <img src="https://user-images.githubusercontent.com/78981063/186289844-6ab8026e-274c-4684-956a-c9c502b2e245.png" width="180" height=auto> |
 
@@ -354,8 +354,7 @@
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |               [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)                |
 |          Tema           |       [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)        |
-|           US            |                                                                   US04                                                                    |
-| Critérios de aceitação  |                                                                   US04                                                                    |
+|           US            |                                                                   US04                                                                    |                                          |
 | Status da implementação |                                                     Requisito totalmente implementado                                                     |
 |     Funcionalidade      | <img src="https://user-images.githubusercontent.com/78981063/186290795-c83c8254-9e87-4ef9-a686-b4885e86dd15.gif" width="180" height=auto> |
 
@@ -490,6 +489,8 @@
 | Status da implementação |                                                Requisito totalmente implementado                                                |
 
 ## Referencias
+
+- SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 1º/2022. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
 ## Histórico de versão
 
