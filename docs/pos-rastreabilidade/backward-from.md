@@ -362,6 +362,71 @@ Alocado: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 Recurso: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) depende dos recursos do [RF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)  
 Agregação: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) agrega [RF20](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) e [RF21](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
 
+### ENF08
+
+**Categoria**: Desenvolvimento
+
+**Elos**:
+Alocado: [RNF08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Instrospecção](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/#3-resultados)
+
+### ENF09
+
+**Categoria**: Desenvolvimento
+
+**Elos**:
+Alocado: [RNF09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+
+### ENF10
+
+**Categoria**: Desenvolvimento
+
+**Elos**:
+Alocado: [RNF10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+
+### ENF11
+
+**Categoria**: Desenvolvimento
+
+**Elos**:
+Alocado: [RNF11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
+
+### ENF12
+
+**Categoria**: Desenvolvimento
+
+**Elos**:
+Alocado: [RNF12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
+
+### ENF13
+
+**Categoria**: Desenvolvimento
+
+**Elos**:
+Alocado: [RNF13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no
+Recurso: [RNF13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) depende dos recursos do [RF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) E [RF20](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
+
+### ENF14
+
+**Categoria**: Desenvolvimento
+
+**Elos**:
+Alocado: [RNF14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+
+### ENF15
+
+**Categoria**: Desenvolvimento
+
+**Elos**:
+Alocado: [RNF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
+
+### ENF16
+
+**Categoria**: Desenvolvimento
+
+**Elos**:
+Alocado: [RNF16](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
+Recurso: [RNF16](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) dependo dos recursos do [RF1](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
+
 ## Referências
 
 - Sayão e Leite. Rastreabilidade de Requisitos. ISSN 0103-9741
@@ -379,3 +444,4 @@ Agregação: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elici
 |  1.5   |           Adicionando Rfs 20 ao 29 na tabela           |    Eurico     |  João   | 23/08/22 | 22:00 às 20:25 |
 |  1.6   |              Elos funcionais Rfs 20 ao 29              |    Eurico     |  João   | 23/08/22 | 22:25 às 20:50 |
 |  1.7   |                Adicionando tabela RNFS                 |     Bruno     |    -    | 24/08/22 | 11:30 às 11:45 |
+|  1.8   |            Finalizando elos não funcionais             |     Bruno     |    -    | 24/08/22 | 20:10 às 20:45 |
