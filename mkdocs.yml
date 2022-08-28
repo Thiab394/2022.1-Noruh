@@ -2,6 +2,7 @@ site_name: Noruh
 nav:
     - Inicio: 'index.md'
     - Panejamento:
+        - 'Metodologia': './planejamento/metodologia.md'
         - 'Cronograma': './planejamento/cronograma.md'
         - 'Ferramentas': './planejamento/ferramentas.md'
     - Pré-Rastreabilidade:
