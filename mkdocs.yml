@@ -35,6 +35,7 @@ nav:
             - 'NFR Framework': './analise/verificacao/inspecaoNFRFramework.md'
             - 'Cenários': './analise/verificacao/inspecaoCenarios.md'
             - 'Léxicos': './analise/verificacao/inspecaoLexicos.md'
+            - 'Personas': './analise/verificacao/personas.md'
         - Validação:
             - 'Protótipo': './analise/validacao/prototipo.md'
             - 'Validação Informal': './analise/validacao/validacao-informal.md'

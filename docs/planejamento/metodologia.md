@@ -37,4 +37,5 @@ Ou seja, mesmo havendo valor nos itens à direita, há mais valorização nos it
 
 | Versão |       Alteração        |  Responsável  | Revisor |   Data   | 
 | :----: | :--------------------: | :-----------: | :-----: | :------: |
-|  1.0   | Criação do Documento   |      Karla    |    -    | 28/08/22 | 
+|  1.0   | Criação do Documento   |      Karla    |    Lucas    | 28/08/22 |
+|  1.1   | Arquivo revisado   |      Lucas    |    -    | 29/08/22 |  

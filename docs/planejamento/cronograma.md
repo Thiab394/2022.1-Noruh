@@ -136,7 +136,7 @@
 
 |                   Atividade                   |     Responsável     | Revisor | Data |
 | :-------------------------------------------: | :-----------------: | :-----: | :--: |
-|       Verificação do perfil de usuário        |        Lucas        |  João   | 29/8 |
+|       Adicionar perfil de usuário             |        Lucas        |  João   | 29/8 |
 |           Verificação das personas            |        Lucas        |  João   | 29/8 |
 |             Revisar Brainstorming             |        Bruno        |  João   | 29/8 |
 |             Revisar Introspecção              |        Karla        |  João   | 29/8 |

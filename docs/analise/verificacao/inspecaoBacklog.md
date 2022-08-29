@@ -65,7 +65,7 @@
 </figcaption>
 
 ### 3.1 Resultados
-&emsp;&emsp; Após a análise da checklist do produto verificamos que dos 4 critérios de avaliação nosso backlog cumpriu apenas 2 deles, assim gerando uma taxa de 50% de acertos. Como podemos ver pelo gráfico abaixo:
+&emsp;&emsp; Após a análise da checklist do backlog do produto verificamos que dos 4 critérios de avaliação nosso backlog cumpriu apenas 2 deles, assim gerando uma taxa de 50% de acertos. Como podemos ver pelo gráfico abaixo:
 
 <center>
 

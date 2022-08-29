@@ -8,7 +8,7 @@
 &emsp;&emsp;As personas tem como objetivo descrever um usuário típico do sistema. Estes personagens, embora sejam fictícios, são derivados de processos de investigação e pesquisa que buscam levantar dados e caractrísticas sobre os usuários, no caso deste projeto tais investigações e seus resultados podem ser encontrados na secção de Perfil de Usuário
 
 ## 2. Metodologia
-&emsp;&emsp; Com o objetivo de especificar nossos grupos de usuários em personas, primeiro tivemos que decidir a quantidade de personas que seriam definidas. Dessa forma, com base no livro Interação Humano Computador de Simone Barbosa (2015) e tmbém nas aulas ministradas, definimos que seriam definidas 3 personas primárias e 1 antipersona.
+&emsp;&emsp; Com o objetivo de especificar nossos grupos de usuários em personas, primeiro tivemos que decidir a quantidade de personas que seriam definidas. Dessa forma, com base no livro Interação Humano Computador de Simone Barbosa (2015) e também nas aulas ministradas, definimos que seriam definidas 3 personas primárias e 1 antipersona.
 
 &emsp;&emsp; Além disso, a criação de nossas personas foram baseadas nos elementos característicos especificados por Courage e Baxter(2005), que são:
 
@@ -16,18 +16,26 @@
 Status: define se é persona primária, secundária, ou então, outro stakeholder ou antipersona.
 
 - Objetivos: descreve objetivos das personas.
-Habilidades: especialidade, grau de escolaridade, grau de familiaridade com tecnologia.
+
+- Habilidades: especialidade, grau de escolaridade, grau de familiaridade com tecnologia.
 
 - Tarefas: descreve as tarefas realizadas pela persona no sistema.
 
-- Relacionamento: com quem a persona se relaciona.
-
 - Requsitos: de que a persona precisa.
 
-- Expectativas: como a persona acredita que o sistema funciona.
 
-## 3. Personas
-### 3.1 Persona 1
+## 3. Perfil de Usuário
+&emsp;&emsp; Com o objetivo de aumentar o conhecimento sobre os usuários do sistema, uma técnica muito utilizada é o registro do Perfil do Usuário. Sendo assim, este perfil nos ajuda compreender um pouco mais sobre as características destes usuários. Para a elaboração do Perfil de Usuário optamos pelo uso de questionários online, utilizando a plataforma do Google Forms. Este questionário e as perguntas realizadas podem ser encontradas na página de [Questionários](./tecnicas/questionario.md).
+
+&emsp;&emsp; Sendo assim, a partir das respostas coletadas pudemos tirar conclusões sobre as características dos usuários do aplicativo Noruh, como:
+
+- A grande maioria dos usuários possuem entre 18 e 26 anos, porém também existe uma significativa parcela de usuários acima de 32 anos.
+- A maior parte dos usuários estão cursando ou já concluiram o ensino superior.
+- Os usuários do sistema são pessoas que já possuem familiaridade com tecnologia e utilizam outros apps durante o dia-a-dia.
+- Os usuários em sua maior parte buscam facilidade e agilidade ao utilizar o sistema.
+
+## 4. Personas
+### 4.1 Persona 1
 <center>
  ![drawing](../assets/personas/persona1.png)
 </center>
@@ -37,14 +45,17 @@ Habilidades: especialidade, grau de escolaridade, grau de familiaridade com tecn
     <br><small>Fonte: <a href='https://thispersondoesnotexist.com/'>Thispersondoesnotexist</a> </small>
 </figcaption>
 
- <p>Idade: 41</p>
- <p>Sexo: Masculino</p>
- <p>Escolaridade: Ensino médio completo</p>
- <p>Profissão: Empresário (dono do estabelecimento)</p>
- <p>Expectativas: Deseja agilizar e facilitar o atendimento do cliente por meio do aplicativo, tornando a experiência do estabelecimento mais agradável.</p>
- <p>&emsp;&emsp;Rafael tem 41 anos, dono de restaurantes à alguns anos, e atualmente o seu foco são bares. Como dono do negócio, o seu principal objetivo é fidelizar clientes, por meio de um atendimento prático e rápido, que faça com que os seus clientes saiam satisfeitos.</p>
+ - Idade: 33 anos
+ - Escolaridade: Ensino superior completo
+ - Profissão: Engenheiro civil
+ - Status: Primária
+ - Habilidade: Possui familiaridade com tecnologia
+ - Objetivo: Deseja entrar em um aplicativo que possa fazer os pedidos no restaurante sem precisar depender dos garçons
+ - Tarefas: Fazer pedidos pelo app e pedir conta pelo app
 
-### 3.2 Persona 2
+ &emsp;&emsp; Rafael é um homem de 33 anos formado em engenharia civil, mora com sua esposa em brasília e não possui filhos. Rafael e sua esposa gostam de aproveitar os fins de semana para visitarem restaurantes e conhecerem novos lugares, porém Rafael frequentemente se decepciona com o atendimento nesses reaturantes, ele acredita que os garçons o apressam demais para fazer os pedidos e demoram muito para atendê-lo durante as refeições. 
+
+### 4.2 Persona 2
 <center>
  ![drawing](../assets/personas/persona2.png)
 </center>
@@ -55,14 +66,16 @@ Habilidades: especialidade, grau de escolaridade, grau de familiaridade com tecn
 </figcaption>
 
 
- <p>Idade: 20</p>
- <p>Sexo: Feminino</p>
- <p>Escolaridade: Ensino superior (em andamento)</p>
- <p>Profissão: Estudante</p>
- <p>Expectativas: Deseja ter um atendimento rápido e prático, e que facilite o pagamento.</p>
- <p>&emsp;&emsp;Júlia, é uma estudante universitária, tem 20 anos e adora sair aos finais de semana. Bares e restaurantes são os seus lugares preferidos para encontrar amigos, principalmente no final dos semestres.</p>
+- Idade: 20
+- Escolaridade: Ensino superior em andamento
+- Profissão: Estudante
+- Status: Primária
+- Habilidade: Possui familiaridade com tecnologia
+- Objetivos: Dividir a comanda e fazer pagamentos de uma maneira simplificada
+- Tarefas: Cadastrar meios de pagamento e fazer pagamentos de contas pelo app
 
-### 3.3 Persona 3
+&emsp;&emsp;Júlia é uma estudante universitária, tem 20 anos, mora com os pais e adora sair aos finais de semana. Bares são os seus lugares preferidos para encontrar amigos, porém ela sempre passa por dificuldades na hora de dividir e pagar a conta com seus amigos.
+### 4.3 Persona 3
 <center>
  ![drawing](../assets/personas/persona3.png)
 </center>
@@ -72,14 +85,17 @@ Habilidades: especialidade, grau de escolaridade, grau de familiaridade com tecn
 </figcaption>
 
 
- <p>Idade: 35</p>
- <p>Sexo: Feminino</p>
- <p>Escolaridade: Ensino superior completo</p>
- <p>Profissão: Publicitária</p>
- <p>Expectativas: Deseja ter um atendimento personalizado, e com pouco contato físico para evitar o covid.</p>
- <p>&emsp;&emsp;Maria Eduarda tem 35 anos, é publicitária, e mora com o seu marido. Durante a pandemia, ela pegou covid e ficou internada, desde então ela evita ao máximo o contato físico com outras pessoas, e principalmente o contato com dinheiro em espécie e máquinas de cartão.</p>
+ - Idade: 26
+ - Escolaridade: Ensino superior em andamento
+ - Profissão: Estágiária
+ - Status: Primária
+ - Habilidade: Possui familiaridade com tecnologia
+ - Objetivos: Evitar filas em restaurantes e bares
+ - Tarefas: Entrar em filas de esperas pelo app
 
-## 4. Antipersona
+ &emsp;&emsp;Maria Eduarda tem 26 anos, é estágiaria e adora sair de seu trabalho direto para bares e reaturantes. Porém, como o estágio de Maria acaba em horário de pico destes reaturantes, ela sempre passa muito tempo na fila de espera deles, o que desmotiva ela de sair com mais frequência. 
+
+## 5. Antipersona
 
  <p>&emsp;&emsp;Uma antipersona é similar a uma persona, pois também é uma criação fictícia, de um possível usuário. No entanto, não são os clientes alvos, e mesmo não usando diretamente o produto é interessante saber as suas necessidades e objetivos.</p>
 
@@ -93,12 +109,14 @@ Habilidades: especialidade, grau de escolaridade, grau de familiaridade com tecn
 </figcaption>
 
 
- <p>Idade: 71</p>
- <p>Sexo: Masculino</p>
- <p>Escolaridade: Ensino médio completo</p>
- <p>Profissão: Aposentado</p>
- <p>Expectativas: Ter um atendimento rápido, com pouco uso de tecnologia e pagar somente em dinheiro.</p>
- <p>&emsp;&emsp;Inácio tem 71 anos, mora com sua esposa em uma fazenda, e aos sábados, vai até a cidade fazer as compras da semana, e ao fim do dia gosta de ir no bar tomar uma cerveja. Tem dificuldade de mexer com tecnologia e prefere sempre pagar em dinheiro em espécie.</p>
+ - Idade: 71
+ - Escolaridade: Ensino médio completo
+ - Profissão: Aposentado 
+ - Status: Antipersona
+ - Habilidade: Não possui nenhuma familiaridade com tecnologia
+ - Objetivos: Evitar o uso do celular 
+
+ &emsp;&emsp;Inácio tem 71 anos, mora com sua esposa em uma fazenda, e aos sábados, vai até a cidade fazer as compras da semana, e ao fim do dia gosta de ir no bar tomar uma cerveja. Tem dificuldade de mexer em seu celular e só o utiliza em casos de emergência.
 
 
 ## Histórico de Versão
@@ -107,7 +125,9 @@ Habilidades: especialidade, grau de escolaridade, grau de familiaridade com tecn
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    Eurico  | João Henrique, Karla, Bruno. Lucas | 09/07 |
 |   1.1  |  Página revisada                   |    João Henrique, Karla, Bruno. Lucas  | - | 09/07 |
-|   2.0  |  Melhorias na introdução e adição de metodologia                  |    Lucas  | - | 26/07 |
+|   1.2  |  Melhorias na introdução e adição de metodologia                  |    Lucas  | - | 26/07 |
+|   2.0  |  Adiciona perfil de usuário                 |    Lucas  | João | 29/08 |
+|   2.1  |  Correção a partir da inspeção                 |    Lucas  | João | 29/08 |
 
 ## Referências
 - Alan Cooper; Robert Reimann; David Cronin; About Face: The Essentials of Interaction Design 3

@@ -1,7 +1,7 @@
 # Questionário
 
 ## 1. Introdução
-&emsp;&emsp; Para a técnica de elicitação de questionário, utilizamos o google forms e fizemos um questionário com algumas perguntas sobre o aplicativo para as pessoas questionadas sobre o assunto, que enviamos via whatsapp pedindo as respostas de quem pudesse nos ajudar nessa pesquisa.
+&emsp;&emsp; Para a técnica de elicitação de questionário, utilizamos o google forms e fizemos um questionário com algumas perguntas sobre o aplicativo para as pessoas questionadas sobre o assunto, que enviamos via whatsapp em grupos pedindo as respostas de quem pudesse nos ajudar nessa pesquisa.
 
 ## 2. Metodologia
 &emsp;&emsp; Utilizamos o questionário feito pelo Google Forms, e os enviamos para as pessoas através do whatsapp, e esperamos por dois dias para fazer a análise, e conseguimos 25 respostas, talvez pelo aplicativo não ser muito conhecido.
@@ -34,7 +34,7 @@
 
 ### Questão 3
 <center>
-![Questionário](../../assets/questionario/questao3.PNG)
+![Questionário](../../assets/questionario/perguntaQuestionario.png)
 </center>
 
 <figcaption align='center'>
@@ -42,21 +42,23 @@
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
 
-&emsp;&emsp; Com a terceira questão, filtramos requisitos de grande importância para os usuários, que fizeram com que eles usassem o app. Dessa maneira, concluímos que a facilidade em fazer pedidos e realizar pagamentos se destacaram entre os clientes. 
+&emsp;&emsp; Com a terceira pergunta tinhamos o objetivo de saber a familiaridade com tecnologia que os usuários do app possuiam.
+
 ### Questão 4
 <center>
-![Questionário](../../assets/questionario/questao4.png)
+![Questionário](../../assets/questionario/perguntaQuestionario2.png)
 </center>
 
 <figcaption align='center'>
     <b>Figura 4: Pergunta 4</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
-&emsp;&emsp; Nessa quarta questão, buscamos descobrir a frequência que os usuários utilizam o Noruh, e descobrimos que a maioria quase nunca usa
+
+&emsp;&emsp; Com a quarta pergunta tinhamos o objetivo de o grau de instrução dos usuários, para que dessa forma pudessemos juntar informações o suficiente para criar o perfil de usuário.
 
 ### Questão 5
 <center>
-![Questionário](../../assets/questionario/questao5.png)
+![Questionário](../../assets/questionario/questao3.PNG)
 </center>
 
 <figcaption align='center'>
@@ -64,22 +66,21 @@
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
 
-&emsp;&emsp; Com a quinta questão, buscamos encontrar o grau de importância de algumas das funcionalidades para os usuários do app. Com isso, as funcionalidades de fazer o pedido na mesa, fazer pagamento pelo app e pedir a conta física pelo app se mostraram como as mais importantes nas visões dos usuários
+&emsp;&emsp; Com a quinta questão, filtramos requisitos de grande importância para os usuários, que fizeram com que eles usassem o app. Dessa maneira, concluímos que a facilidade em fazer pedidos e realizar pagamentos se destacaram entre os clientes. 
 ### Questão 6
 <center>
-![Questionário](../../assets/questionario/questao6.png)
+![Questionário](../../assets/questionario/questao4.png)
 </center>
 
 <figcaption align='center'>
     <b>Figura 6: Pergunta 6</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
-
-&emsp;&emsp;Nessa sexta questão buscamos descobrir qual o grau de experiência do usuário com o aplicativo, e descobrimos que a maioria diz que é satisfatória.
+&emsp;&emsp; Nessa sexta questão, buscamos descobrir a frequência que os usuários utilizam o Noruh, e descobrimos que a maioria quase nunca usa
 
 ### Questão 7
 <center>
-![Questionário](../../assets/questionario/questao7.png)
+![Questionário](../../assets/questionario/questao5.png)
 </center>
 
 <figcaption align='center'>
@@ -87,10 +88,10 @@
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
 
-&emsp;&emsp; Nessa sétima questão tinhamos o objetivo de descobrir se o usuário já teve algum problema com o aplicativo, e a maioria diz que não.
+&emsp;&emsp; Com a sétima questão, buscamos encontrar o grau de importância de algumas das funcionalidades para os usuários do app. Com isso, as funcionalidades de fazer o pedido na mesa, fazer pagamento pelo app e pedir a conta física pelo app se mostraram como as mais importantes nas visões dos usuários
 ### Questão 8
 <center>
-![Questionário](../../assets/questionario/questao8.png)
+![Questionário](../../assets/questionario/questao6.png)
 </center>
 
 <figcaption align='center'>
@@ -98,15 +99,38 @@
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
 
-&emsp;&emsp; Nessa oitava questão, buscamos que o usuário nos informe qual foi o problema que ele teve com o aplicativo, e descobrimos que o mais informado foi o tempo de resposta do aplicativo.
+&emsp;&emsp;Nessa oitava questão buscamos descobrir qual o grau de experiência do usuário com o aplicativo, e descobrimos que a maioria diz que é satisfatória.
 
 ### Questão 9
+<center>
+![Questionário](../../assets/questionario/questao7.png)
+</center>
+
+<figcaption align='center'>
+    <b>Figura 9: Pergunta 9</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption>
+
+&emsp;&emsp; Nessa nona questão tinhamos o objetivo de descobrir se o usuário já teve algum problema com o aplicativo, e a maioria diz que não.
+### Questão 10
+<center>
+![Questionário](../../assets/questionario/questao8.png)
+</center>
+
+<figcaption align='center'>
+    <b>Figura 10: Pergunta 10</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption>
+
+&emsp;&emsp; Com a décima questão, buscamos que o usuário nos informe qual foi o problema que ele teve com o aplicativo, e descobrimos que o mais informado foi o tempo de resposta do aplicativo.
+
+### Questão 11
 <center>
 ![Questionário](../../assets/questionario/questao9.png)
 </center>
 
 <figcaption align='center'>
-    <b>Figura 9: Pergunta 9</b>
+    <b>Figura 11: Pergunta 11</b>
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
 
