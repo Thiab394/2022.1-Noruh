@@ -37,7 +37,7 @@
 
 <center>
 
-| Número |                                Requisitos Funcionais                                |
+| ID |                                Requisitos Funcionais                                |
 | :----: | :---------------------------------------------------------------------------------: |
 |  BS01  |                        O usuário deve poder criar uma conta                         |
 |  BS02  |                    O usuário deve poder realizar login na conta                     |
@@ -64,7 +64,7 @@
 <figcaption>Tabela 1: Requisitos funcionais.</figcaption>
 <br><small>Fonte: Elaboração Própria</small>
 
-| Número | Requisitos Não Funcionais                                                                         |
+| ID | Requisitos Não Funcionais                                                                         |
 | ------ | ------------------------------------------------------------------------------------------------- |
 | BS01   | O sistema deve restringir a idade para uso do app                                                 |
 | BS02   | O sistema deve ser responsivo                                                                     |
