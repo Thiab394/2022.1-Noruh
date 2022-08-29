@@ -77,62 +77,56 @@
 
 <center>
 
-|            Atividade            |                Responsável                 |           Revisor            | Data  |
-| :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
-| Fazer a introdução e metodologia NFRFramework            |  Eurico                              |               Lucas              |   01/08   |
-| Fazer os Gráficos NFRFramework            | Lucas                              |              João               |   02/08   |
-| Fazer o Backlog                 | Bruno                                      |               -              |   02/08   |
-| Fazer Historias de Usuário      | João Henrique, Karla                       |               -              |   31/07   |
-| Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |               -              |   02/08   |
-| Edição e postagem da apresentação             | Lucas |               João Henrique, Karla, Lucas, Eurico, Bruno              |   03/08   |
-
+|                   Atividade                   |                Responsável                 |                  Revisor                   | Data  |
+| :-------------------------------------------: | :----------------------------------------: | :----------------------------------------: | :---: |
+| Fazer a introdução e metodologia NFRFramework |                   Eurico                   |                   Lucas                    | 01/08 |
+|        Fazer os Gráficos NFRFramework         |                   Lucas                    |                    João                    | 02/08 |
+|                Fazer o Backlog                |                   Bruno                    |                     -                      | 02/08 |
+|          Fazer Historias de Usuário           |            João Henrique, Karla            |                     -                      | 31/07 |
+|              Gravar apresentação              | João Henrique, Karla, Lucas, Eurico, Bruno |                     -                      | 02/08 |
+|       Edição e postagem da apresentação       |                   Lucas                    | João Henrique, Karla, Lucas, Eurico, Bruno | 03/08 |
 
 </center>
-
 
 ### 3.5 Entrega 5
 
 <center>
 
-|            Atividade            |                Responsável                 |           Revisor            | Data  |
-| :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
-| Planejamento da verificação           |  Lucas                             |               João             |  16/08   |
-| Fazer verificação dos cenários           |  Bruno                             |             Lucas           |  16/08   |
-| Fazer prototipação           | Lucas                              |             João Henrique                       |   16/08    |
-| Fazer verificação Rich Picture                 | João Henrique                                 |               Lucas     |   16/08   |
-| Fazer verificação backlog      | Lucas                       |            João Henrique               |   14/08   |
-| Fazer verificação especificação suplementar             |João Henrique |               Lucas              |   16/08   |   
-| Fazer verificação Léxicos             | Bruno |         Lucas             |   16/08    |    
-| Fazer validação viewpoint             | Eurico |        Bruno             |   16/08    |
-| Fazer validação informal             | Eurico |         Bruno             |   16/08    | 
-| Fazer verificação NFR Framework             | Karla |               Eurico              |   16/08   | 
-| Fazer verificação Casos de Uso             | Karla |             Eurico              |   16/08   |    
-| Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |               -              |   17/8   |
-| Gravar entrevista protótipo             |  Lucas |            João Henrique            |   17/8   |
-
-
+|                  Atividade                  |                Responsável                 |    Revisor    | Data  |
+| :-----------------------------------------: | :----------------------------------------: | :-----------: | :---: |
+|         Planejamento da verificação         |                   Lucas                    |     João      | 16/08 |
+|       Fazer verificação dos cenários        |                   Bruno                    |     Lucas     | 16/08 |
+|             Fazer prototipação              |                   Lucas                    | João Henrique | 16/08 |
+|       Fazer verificação Rich Picture        |               João Henrique                |     Lucas     | 16/08 |
+|          Fazer verificação backlog          |                   Lucas                    | João Henrique | 14/08 |
+| Fazer verificação especificação suplementar |               João Henrique                |     Lucas     | 16/08 |
+|          Fazer verificação Léxicos          |                   Bruno                    |     Lucas     | 16/08 |
+|          Fazer validação viewpoint          |                   Eurico                   |     Bruno     | 16/08 |
+|          Fazer validação informal           |                   Eurico                   |     Bruno     | 16/08 |
+|       Fazer verificação NFR Framework       |                   Karla                    |    Eurico     | 16/08 |
+|       Fazer verificação Casos de Uso        |                   Karla                    |    Eurico     | 16/08 |
+|             Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |       -       | 17/8  |
+|         Gravar entrevista protótipo         |                   Lucas                    | João Henrique | 17/8  |
 
 </center>
-
-
 
 ### 3.6 Entrega 6
 
 <center>
 
-|            Atividade            |                Responsável                 |           Revisor            | Data  |
-| :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
-| Fazer RFs 1 ao 9 backward-from          | João Henrique                             |           Lucas           |24/8  |
-| Fazer RFs 1 ao 9 forward-from            |  João Henrique                             |         Lucas         | 24/8  |
-| Fazer RFs 10 ao 19 backward-from          | Lucas                             |      João           |  24/8 |
-| Fazer RFs 10 ao 19 forward-from            |  Lucas                             |        João           | 24/8  |
-| Fazer RFs 20 ao 29 backward-from          | Eurico                             |       Karla                 |  24/8  |
-| Fazer RFs 20 ao 29 forward-from            |  Eurico                             |       Karla          | 24/8  |
-| Fazer RFs 30 e 31 / RNFs 1 ao 7 backward-from          | Karla                            |           Bruno           |  24/8   |
-| Fazer RFs 30 e 31 / RNFs 1 ao 7 forward-from            |  Karla                             |       Bruno          | 24/8   |
-| Fazer  RNFs 8 ao 17 backward-from          | Bruno                            |           Eurico        | 24/8   |
-| Fazer RNFs 8 ao 17 forward-from            |  Bruno                             |           Eurico        |  24/8   |        
-| Gravar apresentação             | João Henrique, Karla, Lucas, Eurico, Bruno |               -              |   24/8   |
+|                   Atividade                   |                Responsável                 | Revisor | Data |
+| :-------------------------------------------: | :----------------------------------------: | :-----: | :--: |
+|        Fazer RFs 1 ao 9 backward-from         |               João Henrique                |  Lucas  | 24/8 |
+|         Fazer RFs 1 ao 9 forward-from         |               João Henrique                |  Lucas  | 24/8 |
+|       Fazer RFs 10 ao 19 backward-from        |                   Lucas                    |  João   | 24/8 |
+|        Fazer RFs 10 ao 19 forward-from        |                   Lucas                    |  João   | 24/8 |
+|       Fazer RFs 20 ao 29 backward-from        |                   Eurico                   |  Karla  | 24/8 |
+|        Fazer RFs 20 ao 29 forward-from        |                   Eurico                   |  Karla  | 24/8 |
+| Fazer RFs 30 e 31 / RNFs 1 ao 7 backward-from |                   Karla                    |  Bruno  | 24/8 |
+| Fazer RFs 30 e 31 / RNFs 1 ao 7 forward-from  |                   Karla                    |  Bruno  | 24/8 |
+|       Fazer RNFs 8 ao 17 backward-from        |                   Bruno                    | Eurico  | 24/8 |
+|        Fazer RNFs 8 ao 17 forward-from        |                   Bruno                    | Eurico  | 24/8 |
+|              Gravar apresentação              | João Henrique, Karla, Lucas, Eurico, Bruno |    -    | 24/8 |
 
 </center>
 
@@ -140,34 +134,32 @@
 
 <center>
 
-|            Atividade            |                Responsável                 |           Revisor            | Data  |
-| :-----------------------------: | :----------------------------------------: | :--------------------------: | :---: |
-| Verificação do perfil de usuário          | Lucas                             |           João           |29/8  |
-| Verificação das personas          | Lucas                             |           João           |29/8  |
-| Revisar Brainstorming          | Bruno                             |           João           |29/8  |
-| Revisar Introspecção          | Karla                             |           João           |29/8  |
-| Revisar Observação          | Lucas                             |           João           |29/8  |
-| Revisar Questionário         | Eurico                             |           João           |29/8  |
-| Fazer iStar          | João, Eurico                        |           Lucas           |29/8  |
-| Fazer priorização First Things First          | João, Lucas                           |           Lucas           |31/8  |
-| Fazer priorização House of Quality       | Eurico, Bruno                        |           Bruno           |31/8  |
-| Adicionar IDs Cenários      | Karla                             |           Lucas           |31/8  |
-| Adicionar hyperlinks e titulos nos léxicos      | Bruno                             |           João           |31/8  |
-| Adiconar metodologia do projeto      | Karla                             |           Lucas           |31/8  |
-| Fazer storytelling      | Karla , Bruno                            |           Eurico           |3/9  |
-| Fazer observação participativa      | Lucas, João, Eurico                             |           Karla           |3/9  |
-| Verificação Foward-from      | Lucas                             |           João           |5/9  |
-| Verificação Backward-from      | Bruno                             |           João           |5/9  |
-| Fazer matriz geral      | João, Eurico                             |           João           |5/9  |
-| Correções da verificação histórias de usuário     | Eurico, João, Bruno                             |           Lucas           |7/9  |
-| Revisão viewpoint     | Eurico                             |           Bruno           |7/9  |
-| Melhoria no protótipo     | Lucas                             |           João           | 7/9  |
-| Melhoria motivação da escolha app     | Bruno                             |           Lucas           | 8/9  |
-| Verificação iStar     | Karla                             |           João           | 8/9  |
-| Revisão Geral do Projeto     | Todos                             |           -           | 10/9  |
-| Gravação enterga final     | Todos                             |           -           |11/9  |
-
-
+|                   Atividade                   |     Responsável     | Revisor | Data |
+| :-------------------------------------------: | :-----------------: | :-----: | :--: |
+|       Verificação do perfil de usuário        |        Lucas        |  João   | 29/8 |
+|           Verificação das personas            |        Lucas        |  João   | 29/8 |
+|             Revisar Brainstorming             |        Bruno        |  João   | 29/8 |
+|             Revisar Introspecção              |        Karla        |  João   | 29/8 |
+|              Revisar Observação               |        Lucas        |  João   | 29/8 |
+|             Revisar Questionário              |       Eurico        |  João   | 29/8 |
+|                  Fazer iStar                  |    João, Eurico     |  Lucas  | 29/8 |
+|     Fazer priorização First Things First      |     João, Lucas     |  Lucas  | 31/8 |
+|      Fazer priorização House of Quality       |    Eurico, Bruno    |  Bruno  | 31/8 |
+|            Adicionar IDs Cenários             |        Karla        |  Lucas  | 31/8 |
+|  Adicionar hyperlinks e titulos nos léxicos   |        Bruno        |  João   | 31/8 |
+|        Adiconar metodologia do projeto        |        Karla        |  Lucas  | 31/8 |
+|              Fazer storytelling               |    Karla , Bruno    | Eurico  | 3/9  |
+|        Fazer observação participativa         | Lucas, João, Eurico |  Karla  | 3/9  |
+|            Verificação Foward-from            |        Lucas        |  João   | 5/9  |
+|           Verificação Backward-from           |        Bruno        |  João   | 5/9  |
+|              Fazer matriz geral               |    João, Eurico     |  João   | 5/9  |
+| Correções da verificação histórias de usuário | Eurico, João, Bruno |  Lucas  | 7/9  |
+|               Revisão viewpoint               |       Eurico        |  Bruno  | 7/9  |
+|             Melhoria no protótipo             |        Lucas        |  João   | 7/9  |
+|       Melhoria motivação da escolha app       |        Bruno        |  Lucas  | 8/9  |
+|               Verificação iStar               |        Karla        |  João   | 8/9  |
+|           Revisão Geral do Projeto            |        Todos        |    -    | 10/9 |
+|            Gravação enterga final             |        Todos        |    -    | 11/9 |
 
 </center>
 
@@ -182,22 +174,21 @@
     <br><small>Fonte: Elaboração própria</small></br>
 </figcaption>
 
-
 ### 4.2 Histórico de Versão
 
-| Versão |      Alteração       |     Responsável      |    Revisor    | Data  |
-| :----: | :------------------: | :------------------: | :-----------: | :---: |
-|  1.0   |          -           |    João Henrique     |     Lucas     | 23/06 |
-|  1.1   |  Colorindo Células   |        Lucas         | João Henrique | 03/07 |
-|  2.0   | Cronograma entrega 2 | João Henrique, Bruno |     Lucas     | 03/07 |
-|  3.0   | Cronograma entrega 3 |    João Henrique     |     Lucas     | 16/07 |
-|  4.0   | Cronograma entrega 4 |    João Henrique     |     Lucas     | 29/07 |
-|  5.0   | Cronograma entrega 5 |    João Henrique     |     Lucas     | 14/08 |
-|  6.0   | Cronograma entrega 6 |    João Henrique     |     Lucas     | 22/08 |
-|  6.1   | Atualizando cronograma entrega 6 |    João Henrique, Eurico     |     Lucas     | 23/08 |
-|  6.1   | Atualizando cronograma entrega 6 |    João Henrique, Eurico     |     Lucas     | 23/08 |
-|  7.0   | Atualizando cronograma entrega 7 |    Lucas     |     João     | 24/08 |
-|  7.1   | Atualizando cronograma entrega 7 V2 |    Todos     |     João     | 25/08 |
+| Versão |              Alteração              |      Responsável      |    Revisor    | Data  |
+| :----: | :---------------------------------: | :-------------------: | :-----------: | :---: |
+|  1.0   |                  -                  |     João Henrique     |     Lucas     | 23/06 |
+|  1.1   |          Colorindo Células          |         Lucas         | João Henrique | 03/07 |
+|  2.0   |        Cronograma entrega 2         | João Henrique, Bruno  |     Lucas     | 03/07 |
+|  3.0   |        Cronograma entrega 3         |     João Henrique     |     Lucas     | 16/07 |
+|  4.0   |        Cronograma entrega 4         |     João Henrique     |     Lucas     | 29/07 |
+|  5.0   |        Cronograma entrega 5         |     João Henrique     |     Lucas     | 14/08 |
+|  6.0   |        Cronograma entrega 6         |     João Henrique     |     Lucas     | 22/08 |
+|  6.1   |  Atualizando cronograma entrega 6   | João Henrique, Eurico |     Lucas     | 23/08 |
+|  6.1   |  Atualizando cronograma entrega 6   | João Henrique, Eurico |     Lucas     | 23/08 |
+|  7.0   |  Atualizando cronograma entrega 7   |         Lucas         |     João      | 24/08 |
+|  7.1   | Atualizando cronograma entrega 7 V2 |         Todos         |     João      | 25/08 |
 
 ## Referências
 
