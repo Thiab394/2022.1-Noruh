@@ -10,16 +10,19 @@
 
 &emsp;&emsp;Os léxicos foram descritos seguindo o padrão da tabela abaixo.
 
-| **Número**        | Nome do Léxico                 |
+| **LXX**           | Nome do Léxico                 |
 | ----------------- | ------------------------------ |
 | **Classificação** | Estado/Objeto/Verbo            |
 | **Sinônimos**     | Sinônimos do léxico            |
 | **Noção**         | Significado do léxico          |
 | **Impacto**       | Efeitos do léxico na aplicação |
 
+<figcaption>Tabela 1: Legenda dos léxicos.</figcaption>
+<br><small>Fonte: Elaboração Própria</small>
+
 ## 3. Léxicos
 
-### Léxico 01
+### Léxico 01: Aberto agora
 
 | **L01**           | Aberto agora                                                                                                     |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -28,7 +31,7 @@
 | **Noção**         | Lista de estabelecimentos abertos no momento.                                                                    |
 | **Impacto**       | O usuário pode visualizar os estabelecimentos abertos. <br> O usuário pode selecionar um estabelecimento aberto. |
 
-### Léxico 02
+### Léxico 02: Avaliar
 
 | **L02**           | Avaliar                                                                                                                                                                                                   |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,7 +40,7 @@
 | **Noção**         | Atribuição de nota e opinião a um estabelecimento.                                                                                                                                                        |
 | **Impacto**       | O usuário avalia um estabelecimento. <br> O estabelecimento possui uma nota de avaliações. <br> O usuário pode visualizar as avaliações do estabelecimento. <br> O usuário visualiza a data da avaliação. |
 
-### Léxico 03
+### Léxico 03: Cardápio
 
 | **L03**           | Cardápio                                                                  |
 | ----------------- | ------------------------------------------------------------------------- |
@@ -46,7 +49,7 @@
 | **Noção**         | Lista de pratos de um estabelecimento.                                    |
 | **Impacto**       | O usuário visualiza o cardápio. <br> O estabelecimento fornece cardápios. |
 
-### Léxico 04
+### Léxico 04: Cidade
 
 | **L04**           | Cidade                              |
 | ----------------- | ----------------------------------- |
@@ -55,7 +58,7 @@
 | **Noção**         | Local onde o usuário o se encontra. |
 | **Impacto**       | O usuário escolhe uma cidade.       |
 
-### Léxico 05
+### Léxico 05: Comanda
 
 | **L05**           | Comanda                                                                                           |
 | ----------------- | ------------------------------------------------------------------------------------------------- |
@@ -64,7 +67,7 @@
 | **Noção**         | Registro de pedidos dos usuários.                                                                 |
 | **Impacto**       | Uma comanda é aberta. <br> O usuário abre uma comanda. <br> O estabelecimento gerencia a comanda. |
 
-### Léxico 06
+### Léxico 06: Configurações
 
 | **L06**           | Configurações                                                                                                                                                                                                               |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -73,7 +76,7 @@
 | **Noção**         | Configurar permissões do aplicativo no sistema móvel.                                                                                                                                                                       |
 | **Impacto**       | O usuário pode ligar/desligar a localização. <br> O usuário pode ligar/desligar as notificações. <br> O usuário pode ligar/desligar o acesso à câmera. <br> O usuário pode ligar/desligar o acesso à galeria de fotos. <br> |
 
-### Léxico 07
+### Léxico 07: Cozinhas
 
 | **L07**           | Cozinhas                                                                                                                    |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -82,7 +85,7 @@
 | **Noção**         | Tipo dos serviços fornecidos por um estabelecimento.                                                                        |
 | **Impacto**       | O usuário escolhe uma cozinha. <br> O estabelecimento tem tipos de cozinha. <br> O sistema apresenta uma lista de cozinhas. |
 
-### Léxico 08
+### Léxico 08: Descontos
 
 | **L08**           | Descontos                                                                                                                                                                                      |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -91,7 +94,7 @@
 | **Noção**         | Lista de estabelecimentos com desconto em seu cardápio.                                                                                                                                        |
 | **Impacto**       | O usuário pode visualizar os estabelecimentos com desconto. <br> O usuário pode selecionar um estabelecimento com desconto. <br> O estabelecimento pode adicionar um desconto ao seu cardápio. |
 
-### Léxico 09
+### Léxico 09: Destaques
 
 | **L09**           | Destaque                                                                                                  |
 | ----------------- | --------------------------------------------------------------------------------------------------------- |
@@ -100,7 +103,7 @@
 | **Noção**         | Lista de estabelecimentos com boa avaliação e próximos ao usuário.                                        |
 | **Impacto**       | O usuário visualiza os estabelecimentos em destaque. <br> O usuário seleciona um restaurante em destaque. |
 
-### Léxico 10
+### Léxico 10: Editar perfil
 
 | **L10**           | Editar perfil                                       |
 | ----------------- | --------------------------------------------------- |
@@ -109,7 +112,7 @@
 | **Noção**         | Alterar informações pessoais do perfil.             |
 | **Impacto**       | As informações pessoais do usuário são atualizadas. |
 
-### Léxico 11
+### Léxico 11: Endereços
 
 | **L11**           | Endereços                                                                 |
 | ----------------- | ------------------------------------------------------------------------- |
@@ -118,7 +121,7 @@
 | **Noção**         | Lista de endereços cadastrados pelo usuário.                              |
 | **Impacto**       | O usuário pode cadastrar endereços. <br> O usuário pode editar endereços. |
 
-### Léxico 12
+### Léxico 12: Estabelecimento
 
 | **L12**           | Estabelecimento                                                                   |
 | ----------------- | --------------------------------------------------------------------------------- |
@@ -127,7 +130,7 @@
 | **Noção**         | Lugar que oferece serviços aos usuários.                                          |
 | **Impacto**       | O usuário escolhe um estabelecimento. <br> O usuário cadastra um estabelecimento. |
 
-### Léxico 13
+### Léxico 13: Formas de pagamento
 
 | **L13**           | Formas de pagamento                                                                             |
 | ----------------- | ----------------------------------------------------------------------------------------------- |
@@ -136,7 +139,7 @@
 | **Noção**         | Cartões cadastrados no perfil.                                                                  |
 | **Impacto**       | Possibilita pagar apenas selecionando um cartão já cadastrado. <br> O usuário cadastra cartões. |
 
-### Léxico 14
+### Léxico 14: Horário
 
 | **L14**           | Horário                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------------ |
@@ -145,7 +148,7 @@
 | **Noção**         | Horário que um estabelecimento permanece aberto.                                                       |
 | **Impacto**       | O usuário visualiza os horários do estabelecimento. <br> O usuário cadastra horários de funcionamento. |
 
-### Léxico 15
+### Léxico 15: Local
 
 | **L15**           | Local                                                                             |
 | ----------------- | --------------------------------------------------------------------------------- |
@@ -154,7 +157,7 @@
 | **Noção**         | Lista de serviços e eventos que o local apresenta.                                |
 | **Impacto**       | O usuário pode visualizar serviços e eventos que o estabelecimento pode oferecer. |
 
-### Léxico 16
+### Léxico 16: Mapa
 
 | **L16**           | Mapa                                                                                            |
 | ----------------- | ----------------------------------------------------------------------------------------------- |
@@ -163,7 +166,7 @@
 | **Noção**         | Mapa com a marcação de onde o estabelecimento se encontra.                                      |
 | **Impacto**       | O usuário pode visualizar o mapa. <br> O usuário pode abrir o mapa em outro aplicativo de mapa. |
 
-### Léxico 17
+### Léxico 17: Melhores avaliados
 
 | **L17**           | Melhores avaliados                                                                                                                                                                         |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -172,7 +175,7 @@
 | **Noção**         | Filtro de pesquisa para classificar estabelecimentos com melhores avaliações.                                                                                                              |
 | **Impacto**       | O usuário pode filtrar estabelecimentos por melhores avaliações. <br> O usuário pode visualizar os estabelecimentos melhores avaliados. <br> O usuário pode selecionar um estabelecimento. |
 
-### Léxico 18
+### Léxico 18: Notificar
 
 | **L18**           | Notificar                                                                                     |
 | ----------------- | --------------------------------------------------------------------------------------------- |
@@ -181,7 +184,7 @@
 | **Noção**         | Informa o usuário sobre o estado de algo.                                                     |
 | **Impacto**       | O usuário notifica o cliente. <br> O usuário é notificado. <br> O sistema notifica o usuário. |
 
-### Léxico 19
+### Léxico 19: Pedido
 
 | **L19**           | Pedido                                                        |
 | ----------------- | ------------------------------------------------------------- |
@@ -190,7 +193,7 @@
 | **Noção**         | Solicitação de um produto.                                    |
 | **Impacto**       | O usuário faz pedidos. <br> O estabelecimento recebe pedidos. |
 
-### Léxico 20
+### Léxico 20: Pesquisar
 
 | **L20**           | Pesquisar                                                                                                     |
 | ----------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -199,7 +202,7 @@
 | **Noção**         | Pesquisar por estabelecimentos por categoria ou nome.                                                         |
 | **Impacto**       | O usuário escreve ou seleciona uma opção de pesquisa. <br> Uma lista filtrada é disponibilizada após a busca. |
 
-### Léxico 21
+### Léxico 21: Próximos a você
 
 | **L21**           | Próximos a você                                                                                                                                                               |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -208,7 +211,7 @@
 | **Noção**         | Filtro de pesquisa para classificar estabelecimentos mais próximos ao usuário.                                                                                                |
 | **Impacto**       | O usuário pode filtrar estabelecimentos por proximidade. <br> O usuário pode visualizar os estabelecimentos mais proximos. <br> O usuário pode selecionar um estabelecimento. |
 
-### Léxico 22
+### Léxico 22: Últimas contas
 
 | **L22**           | Últimas contas                                     |
 | ----------------- | -------------------------------------------------- |
@@ -217,7 +220,7 @@
 | **Noção**         | Lista das últimas contas realizadas no aplicativo. |
 | **Impacto**       | Acesso rápido ao histórico de contas.              |
 
-### Léxico 23
+### Léxico 23: Usuário
 
 | **L23**           | Usuário                                                                               |
 | ----------------- | ------------------------------------------------------------------------------------- |
@@ -228,11 +231,12 @@
 
 ## Histórico de Versão
 
-| Versão |      Alteração      | Responsável |               Revisor               |   Data   |
-| :----: | :-----------------: | :---------: | :---------------------------------: | :------: |
-|  1.0   |          -          |    Karla    |                Bruno                | 17/07/22 |
-|  1.1   | Adicionando léxicos |    Karla    | Bruno, Eurico, João Henrique, Lucas | 18/07/22 |
-|  2.0   | Revisando artefato |    Bruno    | Karla, Eurico, João Henrique, Lucas | 16/08/22 |
+| Versão |      Alteração       | Responsável |               Revisor               | Data  |      Hora      |
+| :----: | :------------------: | :---------: | :---------------------------------: | :---: | :------------: |
+|  1.0   |          -           |    Karla    |                Bruno                | 17/07 |                |
+|  1.1   | Adicionando léxicos  |    Karla    | Bruno, Eurico, João Henrique, Lucas | 18/07 |                |
+|  1.2   |  Revisando artefato  |    Bruno    | Karla, Eurico, João Henrique, Lucas | 16/08 |                |
+|  2.0   | Melhorando Documento |    Bruno    |            João Henrique            | 29/08 | 10:00 às 10:30 |
 
 ## Referências
 
