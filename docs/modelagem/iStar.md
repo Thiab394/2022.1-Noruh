@@ -8,7 +8,11 @@
 
 ## 3. iStar
 ### 3.1 Conta
-#### 3.1.1Modelo rationale
+#### Modelo dependência
+<img src="../../assets/iStar/iStarDiagramConta.png" alt="Modelo dependência" width="250" height=auto title="Modelo dependência">           
+
+#### 3.1.1 Modelo rationale
+<img src="../../assets/iStar/modeloRatyionaleConta.png" alt="Modelo Rationale" width="250" height=auto title="Modelo Rationale">           
 
 ### 3.2 Pesquisa
 #### 3.2.1Modelo rationale
@@ -28,3 +32,4 @@
 | Versão |      Alteração      | Responsável |           Revisor            |   Data   | Hora  |
 | :----: | :-----------------: | :---------: | :--------------------------: | :------: | :------: |
 |  1.0   |          -          |    João Henrique    |Eurico               | 29/08/22 |14:00 às 15:30 |
+|  1.1   |          Adicionando iStar da conta|    João Henrique    |Eurico               | 29/08/22 |20:30 às 21:15 |
