@@ -154,8 +154,6 @@
 | Q10 | O aplicativo deve ter uma interface bonita | Não funcional |
 | Q11 | O aplicativo deve ter um baixo tempo de resposta, não podendo ultrapassar dois segundos | Não funcional |
 
-<br><small>Fonte: Elaboração Própria</small>
-
 ##  Histórico de Versão
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
