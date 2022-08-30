@@ -9,24 +9,30 @@
 ## 3. iStar
 ### 3.1 Conta
 #### Modelo dependência
-<img src="../../assets/iStar/iStarDiagramConta.png" alt="Modelo dependência" width="250" height=auto title="Modelo dependência">           
+<img src="../../assets/iStar/iStarDiagramConta.png" alt="Modelo dependência" width="250" height=auto title="Modelo dependência">
+<br><small> Fonte: Elaboração Própria </small>           
 
 #### 3.1.1 Modelo rationale
-<img src="../../assets/iStar/modeloRatyionaleConta.png" alt="Modelo Rationale" width="250" height=auto title="Modelo Rationale">          
+<img src="../../assets/iStar/modeloRatyionaleConta.png" alt="Modelo Rationale" width="250" height=auto title="Modelo Rationale">
+<br><small> Fonte: Elaboração Própria </small>          
 
 ### 3.2 Pesquisa
 #### Modelo dependência
 <img src="../../assets/iStar/iStar-pesquisa.png" alt="Modelo dependência" width="250" height=auto title="Modelo dependência">
+<br><small> Fonte: Elaboração Própria </small>
 
 #### 3.2.1Modelo rationale
 <img src="../../assets/iStar/rationale-pesquisa.png" alt="Modelo Rationale" width="250" height=auto title="Modelo Rationale">
+<br><small> Fonte: Elaboração Própria </small>
 
 ### 3.3 Fazer pedido
 #### Modelo dependência
 <img src="../../assets/iStar/iStar-pedido.png" alt="Modelo dependência" width="250" height=auto title="Modelo dependência">
+<br><small> Fonte: Elaboração Própria </small>
 
 #### 3.3.1 Modelo rationale
 <img src="../../assets/iStar/rationale-pedido.png" alt="Modelo Rationale" width="250" height=auto title="Modelo Rationale">
+<br><small> Fonte: Elaboração Própria </small>
 
 ## Referências
 - Sanderson. iStar4G: Estendendo a linguagem iStar 2.0 para modelagem de jogos digitais. Disponível em: http://r1.ufrrj.br/nuesgames/Sanderson.pdf. Acesso em: 29 de ago. de 2022
