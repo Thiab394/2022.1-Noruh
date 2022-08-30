@@ -137,9 +137,10 @@
 &emsp;&emsp; Por fim decidimos analisar o grau de satisfação do usuário com a interface gráfica do aplicativo.
 
 ## 4. Resultado
-&emsp;&emsp; Com a análise desse questionário, podemos ver que as pessoas entrevistadas tiveram um alto grau de satisfação com o app, com poucos problemas, porém podemos analisar também, que o aplicativo não é muito conhecido pelas pessoas, pelo baixo número de resultados, e que ele tem potencial para alcançar muitas pessoas pelas suas funcionalidades.
+&emsp;&emsp; Com a análise desse questionário, podemos ver que as pessoas entrevistadas tiveram um alto grau de satisfação com o app, com poucos problemas, porém podemos analisar também, que o aplicativo não é muito conhecido pelas pessoas, pelo baixo número de resultados, e que ele tem potencial para alcançar muitas pessoas pelas suas funcionalidades. 
 
-## 5. Requisitos elicitados
+&emsp;&emsp; Dessa forma, a partir das respostas do questionário conseguimos elicitar os seguintes requisitos:
+
 |ID|Descrição|Tipo de Requisito
 |--|--|--|
 | Q01 | O usuário deve conseguir fazer o pedido na mesa do estabelecimento | Funcional |
@@ -151,8 +152,13 @@
 | Q07 | O usuário deve conseguir acessar histórico de contas | Funcional |
 | Q08 | O usuário deve conseguir avaliar o estabelecimento | Funcional |
 | Q09 | O aplicativo deve ser de fácil uso | Não funcional |
-| Q10 | O aplicativo deve ter uma interface bonita | Não funcional |
+| Q10 | O aplicativo deve ter uma interface intuitiva | Não funcional |
 | Q11 | O aplicativo deve ter um baixo tempo de resposta, não podendo ultrapassar dois segundos | Não funcional |
+
+<figcaption align='center'>
+    <b>Tabela 1: Requisitos elicitados</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption>
 
 ##  Histórico de Versão
 
@@ -161,7 +167,8 @@
 |   1.0  |                    Criação da página                   |    Lucas  | João Henrique | 11/07 |
 |   1.1  |                   Página revisada                   |    Lucas  | - | 11/07 |
 |   1.2  |           Adiciona legendas nas fotos                  |    Lucas  | - | 26/07 |
-|   1.2  |           Adicionado os requisitos elicitados | Eurico  | João Henrique | 29/08 |
+|   1.2  |           Adicionado os requisitos elicitados | Eurico  | Lucas | 29/08 |
+|   1.3  |          Arquivo revisado | Lucas  | -  | 30/08 |
 
 ## Referências 
 - BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. Rio de Janeiro. Elsevier Editora Ltda. 2010

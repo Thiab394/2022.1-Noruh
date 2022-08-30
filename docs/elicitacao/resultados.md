@@ -62,7 +62,7 @@
 | RNF12  | A navegação pelo cardápio dos restaurantes deve ser de fácil entendimento e mostrar imagens dos produtos |  Observação  |
 | RNF13  |                              O pagamento pelo app deve ser simples e rápido                              |  Observação  |
 | RNF14  |                         O sistema deve fornecer uma interface gráfica intuitiva                          |  Brainstorm  |
-| RNF15  |                        O sistema deve ter um tempo de resposta de no máximo 100ms                        |  Observação  |
+| RNF15  |                        O sistema deve ter um tempo de resposta de no máximo 2 segundos                   |  Observação  |
 | RNF16  |                 O sistema deve ter integração com o google e facebook para criar contas                  |  Observação  |
 
 ## Histórico de Versão
