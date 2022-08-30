@@ -139,6 +139,21 @@
 ## 4. Resultado
 &emsp;&emsp; Com a análise desse questionário, podemos ver que as pessoas entrevistadas tiveram um alto grau de satisfação com o app, com poucos problemas, porém podemos analisar também, que o aplicativo não é muito conhecido pelas pessoas, pelo baixo número de resultados, e que ele tem potencial para alcançar muitas pessoas pelas suas funcionalidades.
 
+## 5. Requisitos elicitados
+|ID|Descrição|Tipo de Requisito
+|--|--|--|
+| Q01 | O usuário deve conseguir fazer o pedido na mesa do estabelecimento | Funcional |
+| Q02 | O usuário deve conseguir fazer o pagamento | Funcional |
+| Q03 | O usuário deve conseguir pedir a conta física | Funcional |
+| Q04 | O usuário deve conseguir entrar na fila de espera | Funcional |
+| Q05 | O usuário deve conseguir pesquisar restaurantes próximos | Funcional |
+| Q06 | O usuário deve conseguir fazer pedidos delivery | Funcional |
+| Q07 | O usuário deve conseguir acessar histórico de contas | Funcional |
+| Q08 | O usuário deve conseguir avaliar o estabelecimento | Funcional |
+| Q09 | O aplicativo deve ser de fácil uso | Não funcional |
+| Q10 | O aplicativo deve ter uma interface bonita | Não funcional |
+| Q11 | O aplicativo deve ter um baixo tempo de resposta, não podendo ultrapassar dois segundos | Não funcional |
+<br><small>Fonte: Elaboração Própria</small>
 
 ##  Histórico de Versão
 
@@ -147,6 +162,7 @@
 |   1.0  |                    Criação da página                   |    Lucas  | João Henrique | 11/07 |
 |   1.1  |                   Página revisada                   |    Lucas  | - | 11/07 |
 |   1.2  |           Adiciona legendas nas fotos                  |    Lucas  | - | 26/07 |
+|   1.2  |           Adicionado os requisitos elicitados | Eurico  | João Henrique | 29/08 |
 
 ## Referências 
 - BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. Rio de Janeiro. Elsevier Editora Ltda. 2010
