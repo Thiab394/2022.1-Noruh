@@ -100,7 +100,7 @@
 | :----: | :-------------------: | :---------: | :-----: | :--------: | :------------: |
 |  1.0   | Adiciona introdução, metodologia e monta tabela |    Lucas    |      João  |  31/08/22  | 16:00 às 18:00  |
 |  1.1   | Gravação e executação da técnica  |    Lucas e João    |     Eurico    |  31/08/22  | 18:00 às 19:00  |
-|  1.2   |      Adicionando tabelas de priorização com seus resultados   |     Eurico    |  31/08/22  | 19:00 às 20:00  |
+|  1.2   |      Adicionando tabelas de priorização com seus resultados   |     João Henrique    |  Lucas |31/08/22| 19:00 às 20:00  |
 
 
 ## 5. Referências
