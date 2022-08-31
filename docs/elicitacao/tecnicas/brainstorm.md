@@ -49,7 +49,7 @@
 |  BS08  |                      O usuário deve poder realizar pagamentos                       |
 |  BS09  |                  O usuário deve poder avaliar restaurantes e bares                  |
 |  BS10  |              O usuário deve poder filtrar restaurantes por categorias               |
-|  BS11  |                O usuário deve poder acompanhar seu pedido pelo ifood                |
+|  BS11  |                O usuário deve poder acompanhar seu pedido de delivery               |
 |  BS12  |                       O usuário deve poder editar seu perfil                        |
 |  BS13  |              O usuário deve poder ver restaurantes abertos no momento               |
 |  BS14  |                O usuário deve poder filtrar restaurante por avalição                |

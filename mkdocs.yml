@@ -16,6 +16,7 @@ nav:
             - 'Questionário': './elicitacao/tecnicas/questionario.md'
         - Priorização:
             - 'MoSCoW': './elicitacao/priorizacao/moscow.md'
+            - 'First Things First': './elicitacao/priorizacao/firstThingsFirst.md'
         - 'Resultados': './elicitacao/resultados.md'
     - Modelagem:
         - 'Especificação Suplementar': './modelagem/especificacao.md'
