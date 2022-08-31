@@ -90,7 +90,7 @@
 | [OBS05](../tecnicas/observacao/#4-resultados) |      6|  6   |     24 |  4,2 |      7         |   8,2 |   8            |  9,1 |0,243      |
 
 <figcaption align='center'>
-    <b>Tabela 1: Resultados da priorização em  ordem decrescente</b>
+    <b>Tabela 2: Resultados da priorização em  ordem decrescente</b>
     <br><small>Fonte: Software Requirements. Microsoft Press.</small>
 </figcaption>
 
