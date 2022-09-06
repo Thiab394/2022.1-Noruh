@@ -37,29 +37,60 @@
 
 | Códigos das Funcionalidades | Benefício Relativo | Penalidade relativa | Valor Total | Valor % | Custo Relativo | Custo % | Risco Relativo | Risco % | Prioridade |
 | :-------------------------: | :----------------: | :-----------------: | :---------: | :-----: | :------------: | :-----: | :------------: | :-----: | :--------: |
-| [BS04](../tecnicas/brainstorm/#4-resultados)  |      |     |      |   |               |    |               |   |      |
-| [BS06](../tecnicas/brainstorm/#4-resultados)  |      |     |      |   |               |    |               |   |      |
-| [BS08](../tecnicas/brainstorm/#4-resultados)  |      |     |      |   |               |    |               |   |      |
-| [BS09](../tecnicas/brainstorm/#4-resultados)  |      |     |      |   |               |    |               |   |      |
-| [BS10](../tecnicas/brainstorm/#4-resultados)  |      |     |      |   |               |    |               |   |      |
-| [BS11](../tecnicas/brainstorm/#4-resultados) |      |     |      |   |               |    |               |   |      |
-| [BS13](../tecnicas/brainstorm/#4-resultados) |      |     |      |   |               |    |               |   |      |
-| [BS14](../tecnicas/brainstorm/#4-resultados) |      |     |      |   |               |    |               |   |      |
-| [BS15](../tecnicas/brainstorm/#4-resultados) |      |     |      |   |               |    |               |   |      |
-| [BS16](../tecnicas/brainstorm/#4-resultados) |      |     |      |   |               |    |               |   |      |
-| [BS18](../tecnicas/brainstorm/#4-resultados) |      |     |      |   |               |    |               |   |      |
-| [BS21](../tecnicas/brainstorm/#4-resultados) |      |     |      |   |               |    |               |   |      |
-| [OBS02](../tecnicas/observacao/#4-resultados) |      |     |      |   |               |    |               |   |      |
-| [OBS05](../tecnicas/observacao/#4-resultados) |      |     |      |   |               |    |               |   |      |
-| [OBS06](../tecnicas/observacao/#4-resultados) |      |     |      |   |               |    |               |   |      |
-| [OBS07](../tecnicas/observacao/#4-resultados) |      |     |      |   |               |    |               |   |      |
-| [OBS08](../tecnicas/observacao/#4-resultados) |      |     |      |   |               |    |               |   |      |
-| [OBS09](../tecnicas/observacao/#4-resultados) |      |     |      |   |               |    |               |   |      |
-| [OBS10](../tecnicas/observacao/#4-resultados) |      |     |      |   |               |    |               |   |      |
-| [Q06](../tecnicas/questionario/#4-resultado) |      |     |      |   |               |    |               |   |      |
+| [BS04](../tecnicas/brainstorm/#4-resultados)  |   8   |   5  | 26     | 4,6  |      2         |    2,4|   2            |   2,3|0,986      |
+| [BS06](../tecnicas/brainstorm/#4-resultados)  |    9  |   9  |  36    |  6,3 |      5         |    5,9|   8            |   9,1|0,422      |
+| [BS08](../tecnicas/brainstorm/#4-resultados)  |     9 |  9   |   36   |  6,3 |      7         |    8,2|   7            |   8,0|0,390      |
+| [BS09](../tecnicas/brainstorm/#4-resultados)  |     5 |  5   |    20  |  3,5 |      2         |    2,4|   2            |   2,3|0,759      |
+| [BS10](../tecnicas/brainstorm/#4-resultados)  |     7 |  7   |     28 |  4,9 |      2         |    2,4|   2            |   2,3|1,062      |
+| [BS11](../tecnicas/brainstorm/#4-resultados) |      9|   9  |     36 |  6,3 |        5       |    5,9|    4           |   4,5|0,606      |
+| [BS13](../tecnicas/brainstorm/#4-resultados) |      8|   7  |     30 |  5,3 |        2       |    2,4|    2           |   2,3|1,138      |
+| [BS14](../tecnicas/brainstorm/#4-resultados) |      6|   6  |     24 |  4,2 |        3       |    3,5|    3           |   3,4|0,607      |
+| [BS15](../tecnicas/brainstorm/#4-resultados) |      7|   7  |     28 |  4,9 |       3        |    3,5|    3           |   3,4|0,708      |
+| [BS16](../tecnicas/brainstorm/#4-resultados) |      6|   6  |     24 |  4,2 |       6        |    7,1|    4           |   4,5|0,363      |
+| [BS18](../tecnicas/brainstorm/#4-resultados) |      5|   4  |     18 |  3,2 |       2        |   2,4 |    1           |   1,1|0,905      |
+| [BS21](../tecnicas/brainstorm/#4-resultados) |      7|   8  |     30 |  5,3 |       2        |   2,4 |    1           |   1,1|1,508      |
+| [OBS02](../tecnicas/observacao/#4-resultados) |      7|  6   |    26  |  4,6 |      5         |   5,9 |   8            |   9,1|0,305      |
+| [OBS05](../tecnicas/observacao/#4-resultados) |      6|  6   |     24 |  4,2 |      7         |   8,2 |   8            |  9,1 |0,243      |
+| [OBS06](../tecnicas/observacao/#4-resultados) |      6| 7   |     26 |  4,6 |       7        |   8,2 |    8           |  9,1 |0,263      |
+| [OBS07](../tecnicas/observacao/#4-resultados) |      8| 7   |     30 |  5,3 |       5        |   5,9 |    5           |  5,7 |0,455      |
+| [OBS08](../tecnicas/observacao/#4-resultados) |      7| 6   |     26 |  4,6 |       3        |   3,5 |    3           |  3,4 |0,657      |
+| [OBS09](../tecnicas/observacao/#4-resultados) |      8| 7   |     30 |  5,3 |       6        |   7,1 |    6           |  6,8 |0,379      |
+| [OBS10](../tecnicas/observacao/#4-resultados) |      9| 9   |     36 |  6,3 |       2        |  2,4  |    2           | 2,3  |1,365      |
+| [Q06](../tecnicas/questionario/#4-resultado) |      9|   9  |     36 |  6,3 |       9        | 10,6   |   9            |10,2   |0,303      |
 
 <figcaption align='center'>
-    <b>Tabela 1: Resultados da priorização</b>
+    <b>Tabela 1: Resultados da priorização sem estar em ordem decrescente</b>
+    <br><small>Fonte: Software Requirements. Microsoft Press.</small>
+</figcaption>
+
+## 4.1 Resultados priorizados em ordem decrescente
+&emsp;&emsp; Os resultados a gerados a partir da priorização em ordem decrescente estão representados na seguinte tabela:
+
+| Códigos das Funcionalidades | Benefício Relativo | Penalidade relativa | Valor Total | Valor % | Custo Relativo | Custo % | Risco Relativo | Risco % | Prioridade |
+| :-------------------------: | :----------------: | :-----------------: | :---------: | :-----: | :------------: | :-----: | :------------: | :-----: | :--------: |
+| [BS21](../tecnicas/brainstorm/#4-resultados) |      7|   8  |     30 |  5,3 |       2        |   2,4 |    1           |   1,1|1,508      |
+| [OBS10](../tecnicas/observacao/#4-resultados) |      9| 9   |     36 |  6,3 |       2        |  2,4  |    2           | 2,3  |1,365      |
+| [BS13](../tecnicas/brainstorm/#4-resultados) |      8|   7  |     30 |  5,3 |        2       |    2,4|    2           |   2,3|1,138      |
+| [BS10](../tecnicas/brainstorm/#4-resultados)  |     7 |  7   |     28 |  4,9 |      2         |    2,4|   2            |   2,3|1,062      |
+| [BS04](../tecnicas/brainstorm/#4-resultados)  |   8   |   5  | 26     | 4,6  |      2         |    2,4|   2            |   2,3|0,986      |
+| [BS18](../tecnicas/brainstorm/#4-resultados) |      5|   4  |     18 |  3,2 |       2        |   2,4 |    1           |   1,1|0,905      |
+| [BS09](../tecnicas/brainstorm/#4-resultados)  |     5 |  5   |    20  |  3,5 |      2         |    2,4|   2            |   2,3|0,759      |
+| [BS15](../tecnicas/brainstorm/#4-resultados) |      7|   7  |     28 |  4,9 |       3        |    3,5|    3           |   3,4|0,708      |
+| [OBS08](../tecnicas/observacao/#4-resultados) |      7| 6   |     26 |  4,6 |       3        |   3,5 |    3           |  3,4 |0,657      |
+| [BS14](../tecnicas/brainstorm/#4-resultados) |      6|   6  |     24 |  4,2 |        3       |    3,5|    3           |   3,4|0,607      |
+| [BS11](../tecnicas/brainstorm/#4-resultados) |      9|   9  |     36 |  6,3 |        5       |    5,9|    4           |   4,5|0,606      |
+| [OBS07](../tecnicas/observacao/#4-resultados) |      8| 7   |     30 |  5,3 |       5        |   5,9 |    5           |  5,7 |0,455      |
+| [BS06](../tecnicas/brainstorm/#4-resultados)  |    9  |   9  |  36    |  6,3 |      5         |    5,9|   8            |   9,1|0,422      |
+| [BS08](../tecnicas/brainstorm/#4-resultados)  |     9 |  9   |   36   |  6,3 |      7         |    8,2|   7            |   8,0|0,390      |
+| [OBS09](../tecnicas/observacao/#4-resultados) |      8| 7   |     30 |  5,3 |       6        |   7,1 |    6           |  6,8 |0,379      |
+| [BS16](../tecnicas/brainstorm/#4-resultados) |      6|   6  |     24 |  4,2 |       6        |    7,1|    4           |   4,5|0,363      |
+| [OBS02](../tecnicas/observacao/#4-resultados) |      7|  6   |    26  |  4,6 |      5         |   5,9 |   8            |   9,1|0,305      |
+| [Q06](../tecnicas/questionario/#4-resultado) |      9|   9  |     36 |  6,3 |       9        | 10,6   |   9            |10,2   |0,303      |
+| [OBS06](../tecnicas/observacao/#4-resultados) |      6| 7   |     26 |  4,6 |       7        |   8,2 |    8           |  9,1 |0,263      |
+| [OBS05](../tecnicas/observacao/#4-resultados) |      6|  6   |     24 |  4,2 |      7         |   8,2 |   8            |  9,1 |0,243      |
+
+<figcaption align='center'>
+    <b>Tabela 2: Resultados da priorização em  ordem decrescente</b>
     <br><small>Fonte: Software Requirements. Microsoft Press.</small>
 </figcaption>
 
@@ -69,7 +100,7 @@
 | :----: | :-------------------: | :---------: | :-----: | :--------: | :------------: |
 |  1.0   | Adiciona introdução, metodologia e monta tabela |    Lucas    |      João  |  31/08/22  | 16:00 às 18:00  |
 |  1.1   | Gravação e executação da técnica  |    Lucas e João    |     Eurico    |  31/08/22  | 18:00 às 19:00  |
-|  1.2   |   |   João    |     Eurico    |  31/08/22  | 19:00 às 19:00  |
+|  1.2   |      Adicionando tabelas de priorização com seus resultados   |     João Henrique    |  Lucas |31/08/22| 19:00 às 20:00  |
 
 
 ## 5. Referências
