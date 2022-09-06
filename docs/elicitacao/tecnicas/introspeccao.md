@@ -2,36 +2,69 @@
 
 ## 1. Introdução
 
-&emsp;&emsp; A introspecção é uma técnica de elicitação de requisitos que busca o entendimento das funcionalidades que mais agradem os usuários do sistema, onde precisamos nos colocar no lugar dos usuários e dos stakeholders, e adicionar requisitos que acreditamos que os agradam.
+&emsp;&emsp; A introspecção é uma técnica de elicitação de requisitos que busca o entendimento das funcionalidades que mais agradem os usuários do sistema, onde precisamos nos colocar no lugar dos usuários e dos stakeholders. Para a realização desta instrospecção, iremos realizar uma análise de interface de usuário, que como definido por Wiegers e Beatty, é uma técnica onde a equipe interage com a interface de um sistema interativo para fazer o fluxo de tarefas de um usuário padrão do sistema e identificar requisitos ao longo do caminho.
 
 ## 2. Metodologia
 
-&emsp;&emsp; Para a realização desta técnica, nos reunimos via discord e buscamos levantar requisitos que ainda não haviam sido levantados.
+&emsp;&emsp; Dessa forma, para que possamos garantir que seguimos os passos dos usuários dentro do sistema, iremos seguir o fluxo de tarefas do app desde a criação de uma conta até a realização de um pedido. Assim, a cada passo iremos levantar os requisitos encontrados.
 
-## 3. Resultados 
+## 3. Introspecção
 
-&emsp;&emsp; A partir das ideias discutidas, chegamos aos seguintes requisitos que não haviam sido levantados:
+### 3.1 - Ao acessar aplicativo
+- O usuário deve poder criar uma conta
+- O usuário deve poder entrar em uma conta ja existente
+- O usuário deve poder entrar sem fazer login
+- O usuário deve poder fazer login com google
+- O usuário deve poder fazre login com facebook
 
-| Número | Requisitos Funcionais                                         |
-| :------: | :--------------------------------------------------: |
-| 1    | O usuário deve conseguir cadastrar seu restaurante |
-| 2    | O usuário deve conseguir receber o dinheiro dos pagamentos feitos pelos clientes pelo aplicativo |
-| 3    | O usuário deve receber as avaliações dos seus clientes |
-| 4    | O usuário deve ter emitir notas ficais pelo sistema |
-| 5    | O usuário deve poder gerenciar o estoque de seu estabelecimento pelo app |
-| 6    | O usuário deve poder solicitar a conta para o pagamento fora do app |
-| 7    | O usuário deve conseguir cadastrar múltiplos endereços |
+### 3.2 - Ao entrar em conta
+- O usuário deve poder escolher a cidade em que deseja buscar restaurantes
+- O usuário deve ter acesso a uma lista de restaurantes disponíveis
+- O usuário deve poder filtrar os restaurantes abertos no momento
+- O usuário deve poder filtrar os restaurantes por tipo de cozinha
+- O usuário deve poder filtrar os restaurantes com descontos 
+- O usuário deve poder abrir uma comanda por leitura de QRCode
 
-| Número | Requisitos não Funcionais|
-| :------: | :--------------------------------------------------: |  
-| 1    | O sistema deve ter integração com o sistema do restaurante | 
+### 3.3 - Ao escolher um restaurante
+- O usuário deve ter acesso a uma página do restaurante
+- O usuário deve ter acesso aos horários de funcionamento do restaurante 
+- O usuário deve ter acesso ao endereço do restaurante
+- O usuário deve ter acesso ao mapa com a localização do restaurante no google maps
+- O usuário deve ter acesso a avaliações de outros usuários
+- O usuário deve poder fazer uma avaliação do restaurante
 
+### 3.4 - Ao abrir comanda
+- O usuário deve poder entrar na fila de espera
+- O usuário deve poder fazer um pedido delivery
+- O usuário deve poder realizar um pedido para retirar no balcão
+- O usuário deve ter acesso a um cardápio com os itens do resturante
+- O usuário deve poder adcionar itens à sua comanda
+- O usuário deve poder pesquisar um item pelo nome no cardápio 
+
+### 3.5 - Ao acessaar comanda
+- O usuário deve ter acesso a uma lisat com os itens pedidos
+- O usuário deve poder pedir a conta pelo app
+- O usuário deve poder pagar sua conta pelo app
+
+## 4. Resultados
+&emsp;&emsp; A tabela com os requisitos elicitados durante a introspecção pode ser encontrada abaixo:
+
+| ID |                                Requisitos Funcionais                                |
+| :----: | :---------------------------------------------------------------------------------: |
+|  BS01  |                        O usuário deve poder criar uma conta                         |
+
+<figcaption align='center'>
+    <b>Tabela 1: Requisitos elicitados</b>
+    <br><small>Fonte: Elaboração Própria</small>
+</figcaption>
 
 ## Histórico de Versão
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  |                    -                   |    João Henrique,Bruno, Karla, Lucas  | Eurico | 09/07 |
+|   1.0  |            Documento criado             |    João Henrique,Bruno, Karla, Lucas  | Eurico | 09/07 |
+|   1.1  |              Documento revisado              |     Lucas  | - | 04/08 |
+|   2.0  | Troca fluxo de tarefas e metodologia utilizada             |     Lucas  | - | 06/08 |
 
 ## Referências
 - BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. Rio de Janeiro. Elsevier Editora Ltda. 2010
