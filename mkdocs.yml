@@ -15,6 +15,7 @@ nav:
             - 'Observação': './elicitacao/tecnicas/observacao.md'
             - 'Questionário': './elicitacao/tecnicas/questionario.md'
             - 'Análise de Documento': './elicitacao/tecnicas/analiseDcoumento.md'
+            - 'Storytelling': './elicitacao/tecnicas/storytelling.md'
         - Priorização:
             - 'MoSCoW': './elicitacao/priorizacao/moscow.md'
             - 'First Things First': './elicitacao/priorizacao/firstThingsFirst.md'
@@ -40,6 +41,7 @@ nav:
             - 'Léxicos': './analise/verificacao/inspecaoLexicos.md'
             - 'Personas': './analise/verificacao/personas.md'
             - 'Introspecção': './analise/verificacao/inspecaoIntrospeccao.md'
+            - 'Foward-From': './analise/verificacao/inspecaoForwardFrom.md'
         - Validação:
             - 'Protótipo': './analise/validacao/prototipo.md'
             - 'Validação Informal': './analise/validacao/validacao-informal.md'
@@ -47,6 +49,7 @@ nav:
     - Pós-Rastreabilidade:
         - 'Backward-from': './pos-rastreabilidade/backward-from.md'
         - 'Forward-from': './pos-rastreabilidade/forward-from.md'
+        - 'Matriz Geral': './pos-rastreabilidade/matrizGeral.md'
     - Apresentações:
         - 'Apresentação 1': './apresentacoes/apresentacao1.md'
         - 'Apresentação 2': './apresentacoes/apresentacao2.md'
