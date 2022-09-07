@@ -42,16 +42,41 @@
 - O usuário deve poder pesquisar um item pelo nome no cardápio 
 
 ### 3.5 - Ao acessaar comanda
-- O usuário deve ter acesso a uma lisat com os itens pedidos
+- O usuário deve ter acesso a uma lista com os itens pedidos
 - O usuário deve poder pedir a conta pelo app
 - O usuário deve poder pagar sua conta pelo app
 
 ## 4. Resultados
 &emsp;&emsp; A tabela com os requisitos elicitados durante a introspecção pode ser encontrada abaixo:
 
-| ID |                                Requisitos Funcionais                                |
-| :----: | :---------------------------------------------------------------------------------: |
-|  BS01  |                        O usuário deve poder criar uma conta                         |
+| ID     |                                Requisitos Funcionais                                |
+|:----:| :---------------------------------------------------------------------------------: |
+|  I01  |                        O usuário deve poder criar uma conta                        |
+|  I02  |                       O usuário deve poder entrar em uma conta ja existente                        |
+|  I03  |                      O usuário deve poder entrar sem fazer login                       |
+|  I04  |                       O usuário deve poder fazer login com google                        |
+|  I05  |                      O usuário deve poder fazre login com facebook                       |
+|  I06  |                       O usuário deve poder escolher a cidade em que deseja buscar restaurantes                        |
+|  I07  |                      O usuário deve ter acesso a uma lista de restaurantes disponíveis                        |
+|  I08  |                     O usuário deve poder filtrar os restaurantes abertos no momento                     |
+|  I09  |                     O usuário deve poder filtrar os restaurantes por tipo de cozinha                      |
+|  I010  |                    O usuário deve poder filtrar os restaurantes com descontos                      |
+|  I011  |                O usuário deve poder abrir uma comanda por leitura de QRCode                   |
+|  I012  |                    O usuário deve ter acesso a uma página do restaurante                     |
+|  I013  |                    O usuário deve ter acesso aos horários de funcionamento do restaurante                    |
+|  I014  |                    O usuário deve ter acesso ao endereço do restaurante                     |
+|  I015  |                 O usuário deve ter acesso ao mapa com a localização do restaurante no google maps                    |
+|  I016  |                    O usuário deve ter acesso a avaliações de outros usuários                      |
+|  I017  |                    O usuário deve poder fazer uma avaliação do restaurante                   |
+|  I018  |                 O usuário deve poder entrar na fila de espera                 |
+|  I019  |                O usuário deve poder fazer um pedido delivery                    |
+|  I020  |                   O usuário deve poder realizar um pedido para retirar no balcão                |
+|  I021  |                       O usuário deve ter acesso a um cardápio com os itens do resturante                     |
+|  I022  |                    O usuário deve poder adcionar itens à sua comanda                   |
+|  I023  |                   O usuário deve poder pesquisar um item pelo nome no cardápio                     |
+|  I024  |                    O usuário deve ter acesso a uma lista com os itens pedidos                      |
+|  I025  |                  O usuário deve poder pedir a conta pelo app                    |
+|  I026  |                O usuário deve poder pagar sua conta pelo app                      |
 
 <figcaption align='center'>
     <b>Tabela 1: Requisitos elicitados</b>
@@ -64,7 +89,8 @@
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |            Documento criado             |    João Henrique,Bruno, Karla, Lucas  | Eurico | 09/07 |
 |   1.1  |              Documento revisado              |     Lucas  | - | 04/08 |
-|   2.0  | Troca fluxo de tarefas e metodologia utilizada             |     Lucas  | - | 06/08 |
+|   2.0  | Troca fluxo de tarefas e metodologia utilizada             |     Lucas  | João | 06/08 |
 
 ## Referências
 - BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. Rio de Janeiro. Elsevier Editora Ltda. 2010
+- [Wiegers, Beatty. Software requirements, third edition](https://aprender3.unb.br/pluginfile.php/2124454/mod_resource/content/1/Elicitacao%20de%20Req.pdf)
