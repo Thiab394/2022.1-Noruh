@@ -150,7 +150,7 @@
 |        Adiconar metodologia do projeto        |        Karla        |  Lucas  | 31/8 |✅|
 |              Fazer storytelling               |    Karla , Bruno    | Eurico  | 3/9  ||
 |        Fazer observação participativa         | Lucas               |  Karla  | 3/9  |✅|
-|        Fazer analise de documentação         |  João                |  Karla  | 3/9  ||
+|        Fazer analise de documentação         |  João                |  Karla  | 3/9  |✅|
 | Fazer veriificação da analise de documentação |  Eurico  |  Karla  | 3/9  ||
 |            Verificação Foward-from            |        Lucas        |  João   | 5/9  ||
 |           Verificação Backward-from           |        Bruno        |  João   | 5/9  ||
