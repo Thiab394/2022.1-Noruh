@@ -36,40 +36,40 @@
 
 ### RF1
 
-|           RF1           |                                                                                                     O usuário deve poder criar uma conta                                                                                                     |
+|           RF1           |                   O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder criar uma conta                                                                                      |
 | :---------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                      [Gerenciamento de conta](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)                                                      |
 |          Tema           |                                                         [Cadastro e login](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)                                                         |
 |           US            |                                                              [US01](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)                                                              |
 | Status da implementação |                                                                                                      Requisito totalmente implementado                                                                                                       |
-|        Artefatos        | [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-1-criar-perfil) <br> [Caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso1/#caso-de-uso-1-criar-conta) |
+|        Artefatos        | [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-1-criar-perfil) <br> [Caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso1/#caso-de-uso-1-criar-conta) <br>[iStar](../../modelagem/iStar/#31-conta) |
 |     Funcionalidade      |                                                             <img src="../../assets/foward-from/rf1.gif" alt="Employee data" width="180" height=auto title="Employee Data title">                                                             |
 
 ### RF2
 
-|           RF2           |                                                                                                     O usuário deve poder realizar login na conta                                                                                                      |
+|           RF2           |                                                                                                     O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder realizar login na conta                                                                                                      |
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                          [Gerenciamento de conta](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)                                                           |
 |          Tema           |                                                             [Cadastro e login](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)                                                              |
 |           US            |                                                                  [US02](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)                                                                   |
 | Status da implementação |                                                                                                           Requisito totalmente implementado                                                                                                           |
-|        Artefatos        | [cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-1-criar-perfil) <br> [caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso1/#caso-de-uso-2-fazer-login-na-conta) |
+|        Artefatos        | [cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-1-criar-perfil) <br> [caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso1/#caso-de-uso-2-fazer-login-na-conta) <br> [iStar](../../modelagem/iStar/#31-conta) |
 |     Funcionalidade      |                                                                 <img src="../../assets/foward-from/rf2.gif" alt="Employee data" width="180" height=auto title="Employee Data title">                                                                  |
 
 ### RF3
 
-|           RF3           |                                                                                                            O usuário deve poder fazer pedidos                                                                                                            |
+|           RF3           |                                                                                                            O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder fazer [pedidos](../../modelagem/lexicos/#lexico-19-pedido)                                                                                                            |
 | :---------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                                       [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)                                                                       |
 |          Tema           |                                                               [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)                                                               |
 |           US            |                                                                    [US03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)                                                                    |
 | Status da implementação |                                                                                                            Requisito totalmente implementado                                                                                                             |
-|        Artefatos        | [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-9-pedido-no-estabelecimento)<br>[caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido) |
+|        Artefatos        | [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-9-pedido-no-estabelecimento)<br>[caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido) <br>[iStar](../../modelagem/iStar/#33-pedido) |
 |     Funcionalidade      |                                                                   <img src="../../assets/foward-from/rf3.gif" alt="Employee data" width="180" height=auto title="Employee Data title">                                                                   |
 
 ### RF4
 
-|           RF4           |                                                                                                          O usuário deve poder acessar o cardápio                                                                                                           |
+|           RF4           |                                                                                                          O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder acessar o [cardápio](../../modelagem/lexicos/#lexico-03-cardapio)                                                                                                            |
 | :---------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                                        [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)                                                                        |
 |          Tema           |                                                                [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)                                                                |
@@ -80,40 +80,40 @@
 
 ### RF5
 
-|           RF5           |                                                                                           O usuário deve poder abrir uma comanda a partir da leitura do QR Code                                                                                            |
+|           RF5           |                                                                                           O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder abrir uma [comanda](../../modelagem/lexicos/#lexico-05-comanda) a partir da leitura do QR Code                                                                                            |
 | :---------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                                        [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)                                                                        |
 |          Tema           |                                                                [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)                                                                |
 |           US            |                                                                     [US05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)                                                                     |
 | Status da implementação |                                                                                                             Requisito totalmente implementado                                                                                                              |
-|        Artefatos        | [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-9-pedido-no-estabelecimento) <br> [caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido) |
+|        Artefatos        | [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-9-pedido-no-estabelecimento) <br> [caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido) <br>[iStar](../../modelagem/iStar/#33-pedido) |
 |     Funcionalidade      |                                                                    <img src="../../assets/foward-from/rf5.gif" alt="Employee data" width="180" height=auto title="Employee Data title">                                                                    |
 
 ### RF6
 
-|           RF6           |                                                                                                      O usuário deve poder editar seu perfil                                                                                                       |
+|           RF6           |                                                                                                      O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder [editar seu perfil](../../modelagem/lexicos/#lexico-10-editar-perfil)                                                                                                       |
 | :---------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                        [Gerenciamento de conta](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)                                                         |
 |          Tema           |                                                            [Edição de conta](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)                                                            |
 |           US            |                                                                [US06](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)                                                                 |
 | Status da implementação |                                                                                                         Requisito totalmente implementado                                                                                                         |
-|        Artefatos        | [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-7-edicao-do-perfil) <br> [caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso1/#caso-de-uso-3-editar-conta) |
+|        Artefatos        | [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-7-edicao-do-perfil) <br> [caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso1/#caso-de-uso-3-editar-conta)<br>[iStar](../../modelagem/iStar/#31-conta) |
 |     Funcionalidade      |                                                               <img src="../../assets/foward-from/rf6.gif" alt="Employee data" width="180" height=auto title="Employee Data title">                                                                |
 
 ### RF7
 
-|           RF7           |                                                                                                                  O usuário deve poder pesquisar restaurantes                                                                                                                  |
+|           RF7           |                                                                                                                  O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder [pesquisar](../../modelagem/lexicos/#lexico-20-pesquisar) restaurantes                                                                                                                  |
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                          [Informações sobre estabelecimentos](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                                                           |
 |          Tema           |                                                         [Pesquisas e filtros para visualização](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                                                         |
 |           US            |                                                                              [US07](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/#3-historias-de-usuario)                                                                               |
 | Status da implementação |                                                                                                                       Requisito totalmente implementado                                                                                                                       |
-|        Artefatos        | [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-9-pedido-no-estabelecimento) <br> [caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/#caso-de-uso-1-fazer-pesquisa-por-restaurantes) |
+|        Artefatos        | [Cenario](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-9-pedido-no-estabelecimento) <br> [caso de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/#caso-de-uso-1-fazer-pesquisa-por-restaurantes) <br>[iStar](../../modelagem/iStar/#32-pesquisa) |
 |     Funcionalidade      |                                                                             <img src="../../assets/foward-from/rf7.gif" alt="Employee data" width="180" height=auto title="Employee Data title">                                                                              |
 
 ### RF8
 
-|           RF8           |                                                                                              O usuário deve poder ter acesso aos termos de uso                                                                                               |
+|           RF8           |                                                                                              O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder ter acesso aos termos de uso                                                                                               |
 | :---------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                      [Gerenciamento de conta](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)                                                      |
 |          Tema           |                                                          [Termos de uso](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#41-epico-gerenciamento-de-conta)                                                           |
@@ -124,7 +124,7 @@
 
 ### RF9
 
-|           RF9           |                                                                                              O usuário deve poder ver a localização dos estabelecimentos a partir do google maps                                                                                               |
+|           RF9           |                                                                                              O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder ver a localização dos [estabelecimentos](../../modelagem/lexicos/#lexico-12-estabelecimento) a partir do google maps                                                                                               |
 | :---------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                           [Informações sobre estabelecimentos](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                                                           |
 |          Tema           |                                                                       [Descrição](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                                                                        |
@@ -135,7 +135,7 @@
 
 ### RF10
 
-|          RF10           |                                   O usuário deve conseguir cadastrar múltiplos endereços                                    |
+|          RF10           |                                   O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve conseguir cadastrar múltiplos [endereços](../../modelagem/lexicos/#lexico-11-enderecos)                                    |
 | :---------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                     [Gerenciamento de Conta](../../modelagem/backlog/#41-epico-gerenciamento-de-conta)                      |
 |          Tema           |                        [Cadastro e login](../../modelagem/backlog/#41-epico-gerenciamento-de-conta)                         |
@@ -146,18 +146,18 @@
 
 ### RF11
 
-|          RF11           |                                                 O usuário deve conseguir fazer logout do perfil                                                  |
+|          RF11           |                                                 O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve conseguir fazer logout do perfil                                                  |
 | :---------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                [Gerenciamento de Conta](../../modelagem/backlog/#41-epico-gerenciamento-de-conta)                                |
 |          Tema           |                                   [Cadastro e login](../../modelagem/backlog/#41-epico-gerenciamento-de-conta)                                   |
 |           US            |                                        [US11](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                                        |
-|        Artefatos        | [UC04](../../modelagem/Diagramas/CasoDeUso1/#caso-de-uso-2---fazer-login-na-conta) <br> [C02](../../modelagem/cenarios/#caso-2-logout-no-perfil) |
+|        Artefatos        | [UC04](../../modelagem/Diagramas/CasoDeUso1/#caso-de-uso-2---fazer-login-na-conta) <br> [C02](../../modelagem/cenarios/#caso-2-logout-no-perfil) <br>[iStar](../../modelagem/iStar/#31-conta) |
 | Status da implementação |                                                        Requisito totalmente implementado                                                         |
 |     Funcionalidade      |           <img src="../../assets/foward-from/RF11.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">            |
 
 ### RF12
 
-|          RF12           |                                           O usuário deve poder selecionar a cidade em que deseja buscar restaurantes/bares                                            |
+|          RF12           |                                           O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder selecionar a [cidade](../../modelagem/lexicos/#lexico-04-cidade) em que deseja buscar restaurantes/bares                                            |
 | :---------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                              [Informações sobre Estabelecimentos](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                               |
 |          Tema           |                             [Pesquisas e Filtros para Visulaização](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                             |
@@ -168,7 +168,7 @@
 
 ### RF13
 
-|          RF13           |                                       O usuário deve poder solicitar a conta para o pagamento fora do app                                       |
+|          RF13           |                                       O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder solicitar a conta para o pagamento fora do app                                       |
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                          [Restaurante](../../modelagem/backlog/#42-epico-restaurante)                                           |
 |          Tema           |                                           [Pagamento](../../modelagem/backlog/#42-epico-restaurante)                                            |
@@ -179,7 +179,7 @@
 
 ### RF14
 
-|          RF14           |                                            O usuário deve poder cadastrar seu cartão de crédito/débito                                             |
+|          RF14           |                                            O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder cadastrar seu cartão de crédito/débito                                             |
 | :---------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                            [Restaurante](../../modelagem/backlog/#42-epico-restaurante)                                            |
 |          Tema           |                                             [Pagamento](../../modelagem/backlog/#42-epico-restaurante)                                             |
@@ -190,29 +190,29 @@
 
 ### RF15
 
-|          RF15           |                                                                                O usuário deve poder realizar pagamentos pelo app                                                                                 |
+|          RF15           |                                                                                O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder realizar pagamentos pelo app                                                                                 |
 | :---------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                                           [Restaurante](../../modelagem/backlog/#42-epico-restaurante)                                                                           |
 |          Tema           |                                                                            [Pagamento](../../modelagem/backlog/#42-epico-restaurante)                                                                            |
 |           US            |                                                                        [US15](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                                                                        |
-|        Artefatos        | [UC05](../../modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido) <br> [C06](../../modelagem/cenarios/#caso-6-formas-de-pagamento) <br> [C09](../../modelagem/cenarios/#caso-9-pedido-no-estabelecimento) |
+|        Artefatos        | [UC05](../../modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido) <br> [C06](../../modelagem/cenarios/#caso-6-formas-de-pagamento) <br> [C09](../../modelagem/cenarios/#caso-9-pedido-no-estabelecimento) <br>[iStar](../../modelagem/iStar/#33-pedido) |
 | Status da implementação |                                                                                        Requisito totalmente implementado                                                                                         |
 |     Funcionalidade      |                                           <img src="../../assets/foward-from/RF15.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">                                            |
 
 ### RF16
 
-|          RF16           |                                                       O usuário deve poder ver restaurantes abertos no momento                                                        |
+|          RF16           |                                                       O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder ver restaurantes abertos no momento                                                        |
 | :---------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                              [Informações sobre Estabelecimentos](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                               |
 |          Tema           |                             [Pesquisas e Filtros para Visulaização](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                             |
 |           US            |                                                  [US16](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                                                   |
-|        Artefatos        | [UC07](../../modelagem/Diagramas/CasoDeUso3/#caso-de-uso-1-fazer-pesquisa-por-restaurantes) <br> [C05](../../modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos) |
+|        Artefatos        | [UC07](../../modelagem/Diagramas/CasoDeUso3/#caso-de-uso-1-fazer-pesquisa-por-restaurantes) <br> [C05](../../modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos) <br>[iStar](../../modelagem/iStar/#32-pesquisa) |
 | Status da implementação |                                                                   Requisito totalmente implementado                                                                   |
 |     Funcionalidade      |                      <img src="../../assets/foward-from/RF16.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">                      |
 
 ### RF17
 
-|          RF17           |    O usuário deve poder receber notificações sobre o andamento do pedido     |
+|          RF17           |    O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder receber [notificações](../../modelagem/lexicos/#lexico-18-notificar) sobre o andamento do [pedido](../../modelagem/lexicos/#lexico-19-pedido     |
 | :---------------------: | :--------------------------------------------------------------------------: |
 |          Épico          |         [Restaurante](../../modelagem/backlog/#42-epico-restaurante)         |
 |          Tema           | [Fazer pedido no restaurante](../../modelagem/backlog/#42-epico-restaurante) |
@@ -222,7 +222,7 @@
 
 ### RF18
 
-|          RF18           |                                      O usuário deve poder acessar histórico de contas                                       |
+|          RF18           |                                      O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder acessar histórico de contas                                       |
 | :---------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                     [Gerenciamento de Conta](../../modelagem/backlog/#41-epico-gerenciamento-de-conta)                      |
 |          Tema           |                            [Histórico](../../modelagem/backlog/#41-epico-gerenciamento-de-conta)                            |
@@ -233,7 +233,7 @@
 
 ### RF19
 
-|          RF19           |                                               O usuário deve poder ver uma breve descrição sobre o restaurante ou bar                                               |
+|          RF19           |                                               O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder ver uma breve descrição sobre o restaurante ou bar                                               |
 | :---------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                             [Informações sobre Estabelecimentos](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                              |
 |          Tema           |                                          [Descrição](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                                          |
@@ -244,7 +244,7 @@
 
 ### RF20
 
-|          RF20           |                                                                                       O usuário deve poder adicionar multiplas formas de pagamento                                                                                        |
+|          RF20           |                                                                                       O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder adicionar multiplas [formas de pagamento](../../modelagem/lexicos/#lexico-13-formas-de-pagamento)                                                                                        |
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                                                       [Restaurante](../../modelagem/backlog/#42-epico-restaurante)                                                                                        |
 |          Tema           |                                                                                        [Pagamento](../../modelagem/backlog/#42-epico-restaurante)                                                                                         |
@@ -255,7 +255,7 @@
 
 ### RF21
 
-|          RF21           |                                                                               O usuário deve poder ter a opção de parcelar seus pagamentos quando possível                                                                                |
+|          RF21           |                                                                               O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder ter a opção de parcelar seus pagamentos quando possível                                                                                |
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                                                       [Restaurante](../../modelagem/backlog/#42-epico-restaurante)                                                                                        |
 |          Tema           |                                                                                        [Pagamento](../../modelagem/backlog/#42-epico-restaurante)                                                                                         |
@@ -265,18 +265,18 @@
 
 ### RF22
 
-|          RF22           |                                                                               O usuário deve poder filtrar restaurantes pela localização                                                                                |
+|          RF22           |                                                                               O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder filtrar restaurantes pela localização                                                                                |
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                       [Informações sobre Estabelecimentos](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                                                        |
 |          Tema           |                                                      [Pesquisas e Filtros para Visualização](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                                                      |
 |           US            |                                                                           [US22](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                                                                            |
 | Status da implementação |                                                                                            Requisito totalmente implementado                                                                                            |
-|        Artefatos        | [C05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos) <br> [UC03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/) |
+|        Artefatos        | [C05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos) <br> [UC03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/) <br>[iStar](../../modelagem/iStar/#32-pesquisa)|
 |     Funcionalidade      |                                               <img src="../../assets/foward-from/rf22.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">                                               |
 
 ### RF23
 
-|          RF23           |                                                                                             O usuário deve poder avaliar restaurantes e bares                                                                                             |
+|          RF23           |                                                                                             O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder [avaliar](../../modelagem/lexicos/#lexico-02-avaliar) restaurantes e bares                                                                                             |
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                                [Informações sobre Estabelecimentos](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                                                                 |
 |          Tema           |                                                                             [Avaliação](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                                                                             |
@@ -286,40 +286,40 @@
 
 ### RF24
 
-|          RF24           |                                                                                O usuário deve poder filtrar restaurantes por categorias                                                                                 |
+|          RF24           |                                                                                O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder filtrar restaurantes por categorias                                                                                 |
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                       [Informações sobre Estabelecimentos](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                                                        |
 |          Tema           |                                                      [Pesquisas e Filtros para Visualização](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                                                      |
 |           US            |                                                                           [US24](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                                                                            |
 | Status da implementação |                                                                                            Requisito totalmente implementado                                                                                            |
-|        Artefatos        | [UC03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/) <br> [C05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos) |
+|        Artefatos        | [UC03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/) <br> [C05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos) <br>[iStar](../../modelagem/iStar/#32-pesquisa) |
 |     Funcionalidade      |                                               <img src="../../assets/foward-from/rf24.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">                                               |
 
 ### RF25
 
-|          RF25           |                                                                                 O usuário deve poder filtrar restaurante por avaliação                                                                                  |
+|          RF25           |                                                                                 O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder filtrar restaurante por  [avaliação](../../modelagem/lexicos/#lexico-02-avaliar)                                                                                  |
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                       [Informações sobre Estabelecimentos](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                                                        |
 |          Tema           |                                                      [Pesquisas e Filtros para Visualização](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                                                      |
 |           US            |                                                                           [US25](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                                                                            |
 | Status da implementação |                                                                                            Requisito totalmente implementado                                                                                            |
-|        Artefatos        | [UC03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/) <br> [C05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos) |
+|        Artefatos        | [UC03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/) <br> [C05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos) <br>[iStar](../../modelagem/iStar/#32-pesquisa)|
 |     Funcionalidade      |                                               <img src="../../assets/foward-from/rf25.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">                                               |
 
 ### RF26
 
-|          RF26           |                                                                                 O usuário deve poder ver estabelecimentos com promoções                                                                                 |
+|          RF26           |                                                                                 O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder ver estabelecimentos com promoções                                                                                 |
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                                       [Informações sobre Estabelecimentos](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                                                        |
 |          Tema           |                                                      [Pesquisas e Filtros para Visualização](../../modelagem/backlog/#43-epico-informacoes-sobre-estabelecimentos)                                                      |
 |           US            |                                                                           [US26](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                                                                            |
 | Status da implementação |                                                                                            Requisito totalmente implementado                                                                                            |
-|        Artefatos        | [UC03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/) <br> [C05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos) |
+|        Artefatos        | [UC03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso3/) <br> [C05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-5-pesquisa-de-estabelecimentos) <br>[iStar](../../modelagem/iStar/#32-pesquisa) |
 |     Funcionalidade      |                                               <img src="../../assets/foward-from/rf26.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">                                               |
 
 ### RF27
 
-|          RF27           |                              O usuário deve poder entrar na fila de espera do estabelecimento pelo app                              |
+|          RF27           |                              O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder entrar na fila de espera do [estabelecimento](../../modelagem/lexicos/#lexico-12-estabelecimento) pelo app                              |
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                    [Restaurante](../../modelagem/backlog/#42-epico-restaurante)                                     |
 |          Tema           |                           [Fila de espera do restaurante](../../modelagem/backlog/#42-epico-restaurante)                            |
@@ -330,7 +330,7 @@
 
 ### RF28
 
-|          RF28           |                               O usuário deve receber notificações sobre o andamento da fila de espera                               |
+|          RF28           |                               O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve receber [notificações](../../modelagem/lexicos/#lexico-18-notificar) sobre o andamento da fila de espera                               |
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |                                    [Restaurante](../../modelagem/backlog/#42-epico-restaurante)                                     |
 |          Tema           |                           [Fila de espera do restaurante](../../modelagem/backlog/#42-epico-restaurante)                            |
@@ -340,7 +340,7 @@
 
 ### RF30
 
-|          RF30           |                                           O usuário deve poder criar uma comanda compartilhada                                            |
+|          RF30           |                                           O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder criar uma [comanda](../../modelagem/lexicos/#lexico-05-comanda) compartilhada                                            |
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |               [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)                |
 |          Tema           |       [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)        |
@@ -350,7 +350,7 @@
 
 ### RF31
 
-|          RF31           |                                            O usuário deve poder pesquisar produtos no cardápio                                            |
+|          RF31           |                                            O [usuário](../../modelagem/lexicos/#lexico-23-usuario) deve poder [pesquisar](../../modelagem/lexicos/#lexico-20-pesquisar) produtos no [cardápio](../../modelagem/lexicos/#lexico-03-cardapio)                                            |
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |          Épico          |               [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)                |
 |          Tema           |       [Fazer pedido no restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)        |
@@ -406,6 +406,7 @@
 | :---------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
 |           NFR           | [SIG de Confiabilidade](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/nfrframework/#32-sig-de-confiabilidade) |
 |           ES            |       [Confiabilidade](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/especificacao/#33-confiabilidade)        |
+|           iStar            |       [Conta](../../modelagem/iStar/#31-conta)        |
 | Status da implementação |                                                Requisito totalmente implementado                                                |
 
 ### RNF07
@@ -414,6 +415,7 @@
 | :---------------------: | :----------------------------------------------------------------------------------------------------------: |
 |           NFR           | [Restaurante](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante) |
 |           ES            |  [Pagamento](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/backlog/#42-epico-restaurante)  |
+|           iStar            |  [Segurança](../../modelagem/iStar/#33-pedido)  |
 | Status da implementação |                                      Requisito totalmente implementado                                       |
 
 ### RNF08
@@ -438,6 +440,7 @@
 | :---------------------: | :---------------------------------------------------------------------------------------------------------------------: |
 |           NFR           | [SIG de Desempenho](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/nfrframework/#33-sig-de-desempenho) |
 |           ES            |       [Desempenho](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/especificacao/#34-desempenho)        |
+|           iStar            |  [Confiabilidade](../../modelagem/iStar/#33-pedido)  |
 | Status da implementação |                                                            -                                                            |
 
 ### RNF11
@@ -450,7 +453,7 @@
 
 ### RNF12
 
-|          RNF12          |         A navegação pelo cardápio dos restaurantes deve ser de fácil entendimento e mostrar imagens dos produtos          |
+|          RNF12          |         A navegação pelo [cardápio](../../modelagem/lexicos/#lexico-03-cardapio)  dos restaurantes deve ser de fácil entendimento e mostrar imagens dos produtos          |
 | :---------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
 |           NFR           | [SIG de Usabilidade](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/nfrframework/#31-sig-de-usabilidade) |
 |           ES            |       [Usabilidade](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/especificacao/#32-usabilidade)        |
@@ -470,6 +473,7 @@
 | :---------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
 |           NFR           | [SIG de Usabilidade](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/nfrframework/#31-sig-de-usabilidade) |
 |           ES            |       [Usabilidade](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/especificacao/#32-usabilidade)        |
+|           iStar            |       [Facilidade](../../modelagem/iStar/#32-pesquisa)        |
 | Status da implementação |                                             Requisito totalmente implementado                                             |
 
 ### RNF15

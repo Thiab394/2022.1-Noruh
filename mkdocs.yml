@@ -40,6 +40,7 @@ nav:
             - 'Léxicos': './analise/verificacao/inspecaoLexicos.md'
             - 'Personas': './analise/verificacao/personas.md'
             - 'Introspecção': './analise/verificacao/inspecaoIntrospeccao.md'
+            - 'Foward-From': './analise/verificacao/inspecaoForwardFrom.md'
         - Validação:
             - 'Protótipo': './analise/validacao/prototipo.md'
             - 'Validação Informal': './analise/validacao/validacao-informal.md'
