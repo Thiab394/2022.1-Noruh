@@ -14,6 +14,7 @@ nav:
             - 'Introspecção': './elicitacao/tecnicas/introspeccao.md'
             - 'Observação': './elicitacao/tecnicas/observacao.md'
             - 'Questionário': './elicitacao/tecnicas/questionario.md'
+            - 'Análise de Documento': './elicitacao/tecnicas/analiseDcoumento.md'
             - 'Storytelling': './elicitacao/tecnicas/storytelling.md'
         - Priorização:
             - 'MoSCoW': './elicitacao/priorizacao/moscow.md'
@@ -39,6 +40,7 @@ nav:
             - 'Cenários': './analise/verificacao/inspecaoCenarios.md'
             - 'Léxicos': './analise/verificacao/inspecaoLexicos.md'
             - 'Personas': './analise/verificacao/personas.md'
+            - 'Introspecção': './analise/verificacao/inspecaoIntrospeccao.md'
         - Validação:
             - 'Protótipo': './analise/validacao/prototipo.md'
             - 'Validação Informal': './analise/validacao/validacao-informal.md'

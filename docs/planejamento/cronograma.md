@@ -139,7 +139,7 @@
 |       Adicionar perfil de usuário             |        Lucas        |  João   | 29/8 |✅|
 |           Verificação das personas            |        Lucas        |  João   | 29/8 |✅|
 |             Revisar Brainstorming             |        Bruno        |  João   | 29/8 |✅|
-|             Verificação Introspecção          |        Karla        |  João   | 29/8 ||
+|             Verificação Introspecção          |        Lucas        |  João   | 29/8 |✅|
 |              Revisar Observação               |        Lucas        |  João   | 29/8 |✅|
 |             Revisar Questionário              |       Eurico        |  João   | 29/8 |✅|
 |                  Fazer iStar                  |    João, Eurico     |  Lucas  | 29/8 |✅|
@@ -150,11 +150,11 @@
 |        Adiconar metodologia do projeto        |        Karla        |  Lucas  | 31/8 |✅|
 |              Fazer storytelling               |    Karla , Bruno    | Eurico  | 3/9  ||
 |        Fazer observação participativa         | Lucas               |  Karla  | 3/9  |✅|
-|        Fazer analise de documentação         |  João                |  Karla  | 3/9  ||
+|        Fazer analise de documentação         |  João                |  Karla  | 3/9  |✅|
 | Fazer veriificação da analise de documentação |  Eurico  |  Karla  | 3/9  ||
 |            Verificação Foward-from            |        Lucas        |  João   | 5/9  ||
 |           Verificação Backward-from           |        Bruno        |  João   | 5/9  ||
-|              Fazer matriz geral               |    João, Eurico     |  João   | 5/9  ||
+|              Fazer matriz geral               |    João, Eurico     |  João   | 5/9  |✅|
 | Correções da verificação histórias de usuário | Eurico, João, Bruno |  Lucas  | 7/9  ||
 |               Revisão viewpoint               |       Eurico        |  Bruno  | 7/9  ||
 |             Melhoria no protótipo             |        Lucas        |  João   | 7/9  ||
