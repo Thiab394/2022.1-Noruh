@@ -154,7 +154,7 @@
 | Fazer veriificação da analise de documentação |  Eurico  |  Karla  | 3/9  ||
 |            Verificação Foward-from            |        Lucas        |  João   | 5/9  ||
 |           Verificação Backward-from           |        Bruno        |  João   | 5/9  ||
-|              Fazer matriz geral               |    João, Eurico     |  João   | 5/9  ||
+|              Fazer matriz geral               |    João, Eurico     |  João   | 5/9  |✅|
 | Correções da verificação histórias de usuário | Eurico, João, Bruno |  Lucas  | 7/9  ||
 |               Revisão viewpoint               |       Eurico        |  Bruno  | 7/9  ||
 |             Melhoria no protótipo             |        Lucas        |  João   | 7/9  ||
