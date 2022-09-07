@@ -49,6 +49,7 @@ nav:
     - Pós-Rastreabilidade:
         - 'Backward-from': './pos-rastreabilidade/backward-from.md'
         - 'Forward-from': './pos-rastreabilidade/forward-from.md'
+        - 'Matriz Geral': './pos-rastreabilidade/matrizGeral.md'
     - Apresentações:
         - 'Apresentação 1': './apresentacoes/apresentacao1.md'
         - 'Apresentação 2': './apresentacoes/apresentacao2.md'
