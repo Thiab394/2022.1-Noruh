@@ -14,6 +14,7 @@ nav:
             - 'Introspecção': './elicitacao/tecnicas/introspeccao.md'
             - 'Observação': './elicitacao/tecnicas/observacao.md'
             - 'Questionário': './elicitacao/tecnicas/questionario.md'
+            - 'Storytelling': './elicitacao/tecnicas/storytelling.md'
         - Priorização:
             - 'MoSCoW': './elicitacao/priorizacao/moscow.md'
             - 'First Things First': './elicitacao/priorizacao/firstThingsFirst.md'
