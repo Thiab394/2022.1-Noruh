@@ -100,4 +100,4 @@
 ## Histórico de versão
 | Versão |      Alteração      | Responsável |           Revisor            |   Data   | Hora  |
 | :----: | :-----------------: | :---------: | :--------------------------: | :------: | :------: |
-|  1.0   |      Criação do documento          |    Lucas   |-               | 7/09/22 |15:00 às 16:00 |
+|  1.0   |      Criação do documento          |    Lucas   |  João            | 7/09/22 |15:00 às 16:00 |

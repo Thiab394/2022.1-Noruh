@@ -509,3 +509,4 @@
 |  1.6   |                Adicionando as tabelas RF09 - RF19                 |     Lucas      |    Eurico     | 24/08/22 | 18:00 às 19:30 |
 |  1.7   |                     Finalizado os RF20 - RF29                     |     Eurico     | João Henrique | 24/08/22 | 19:00 às 20:00 |
 |  1.8   |                        Finalizado os RNFs                         |     Bruno      | João Henrique | 24/08/22 | 19:00 às 20:10 |
+|  1.9   |                   Adiciona hyperlinks léxicos e iStar                   |     Lucas      | João Henrique | 7/09/22 | 16:00 às 16:40 |
