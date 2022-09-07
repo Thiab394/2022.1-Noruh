@@ -139,7 +139,7 @@
 |       Adicionar perfil de usuário             |        Lucas        |  João   | 29/8 |✅|
 |           Verificação das personas            |        Lucas        |  João   | 29/8 |✅|
 |             Revisar Brainstorming             |        Bruno        |  João   | 29/8 |✅|
-|             Verificação Introspecção          |        Karla        |  João   | 29/8 ||
+|             Verificação Introspecção          |        Lucas        |  João   | 29/8 |✅|
 |              Revisar Observação               |        Lucas        |  João   | 29/8 |✅|
 |             Revisar Questionário              |       Eurico        |  João   | 29/8 |✅|
 |                  Fazer iStar                  |    João, Eurico     |  Lucas  | 29/8 |✅|
