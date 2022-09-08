@@ -42,6 +42,7 @@
 |  1.1   | Adição do protótipo |    Lucas    |         |  14/08/22  | 19:30 às 21:30 |
 |  1.2   | Adição da entrevista |    Lucas    |   João    |  17/08/22  | 21:30 às 22:00 |
 |  1.3   | Arquivo revisado |    João    |   -    |  17/08/22  | 22:00  |
+|  1.4   | Adiciona estilo e concerta erros no protótipo |    Lucas    |   -    |  8/08/22  |17:00 as 17:40  |
 
 ## Referências
 

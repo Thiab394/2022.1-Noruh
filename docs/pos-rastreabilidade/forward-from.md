@@ -283,6 +283,7 @@
 |           US            |                                                                                    [US23](../../modelagem/historiasDeUsuario/#3-historias-de-usuario)                                                                                     |
 | Status da implementação |                                                                                                        Requisito não implementado                                                                                                         |
 |        Artefatos        | [UC02](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/Diagramas/CasoDeUso2/#caso-de-uso-1-fazer-pedido) <br> [C06](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/cenarios/#caso-6-formas-de-pagamento) |
+|Funcionalidade ([Protótipo](../analise/validacao/prototipo.md))   |                                               <img src="../../assets/foward-from/rf23.gif" alt="Requisito Funcional" width="180" height=auto title="Requisito Funcional">                                               |
 
 ### RF24
 
@@ -510,3 +511,4 @@
 |  1.7   |                     Finalizado os RF20 - RF29                     |     Eurico     | João Henrique | 24/08/22 | 19:00 às 20:00 |
 |  1.8   |                        Finalizado os RNFs                         |     Bruno      | João Henrique | 24/08/22 | 19:00 às 20:10 |
 |  1.9   |                   Adiciona hyperlinks léxicos e iStar                   |     Lucas      | João Henrique | 7/09/22 | 16:00 às 16:40 |
+|  1.10   |                   Adiciona gif protótipo RF23                   |     Lucas      | - | 8/09/22 | 17:50 às 18:00 |
