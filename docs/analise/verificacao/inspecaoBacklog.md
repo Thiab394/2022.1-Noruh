@@ -144,6 +144,43 @@
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
+## 4.1 Inspeção após correção das Histórias de Usuário
+
+&emsp;&emsp;Versão 2 da checklist gerada a partir da inspeção após correção das Histórias de usuários
+
+| ID | Questão | US01 | US02 | US03 | US04 | US05 | US06 | US07 | US08 | US09 | US10 | US11 | US12 | US13 | US14 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Possui descrição clara e de fácil entendimento? | ✅ |✅  |✅  |✅  |✅  |✅  |✅  |✅  |✅  |✅  |✅  |✅  |✅  |✅  |
+| 2 | Possui rastreabilidade? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 3 | É possível identificar os atores? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |✅  |✅  |✅  |✅  |✅  |
+| 4 | É possível identificar os desejos dos atores? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 5 | A prioridade está correta? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 6 | Possui identificação? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 7 | Possui critérios de aceitação? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 8 | Os critérios estão claros e contemplam cada funcionalidade dentro da história? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+<figcaption align='center'>
+    <b>Tabela 7: Checklist 2 Histórias de Usuário US01-US14 </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
+
+| ID | Questão | US15 | US16 | US17 | US18 | US19 | US20 | US21 | US22 | US23 | US24 | US25 | US26 | US27 | US28 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Possui descrição clara e de fácil entendimento? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 2 | Possui rastreabilidade? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 3 | É possível identificar os atores? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 4 | É possível identificar os desejos dos atores? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 5 | A prioridade está correta? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 6 | Possui identificação? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |✅  | ✅ |
+| 7 | Possui critérios de aceitação? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |  ✅|  ✅|  ✅|  ✅|  ✅|  ✅|
+| 8 | Os critérios estão claros e contemplam cada funcionalidade dentro da história? | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+<figcaption align='center'>
+    <b>Tabela 8: Checklist 2 Histórias de Usuário US15-US28 </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
+
+
 ## 4.2 Resultados
 &emsp;&emsp;A partir da inspeção feita nas histórias de usuário,como podemos observar no gráfico abaixo, todas as histórias de usuário possuem um erro em comum nos critérios de aceitação. Assim mantendo uma taxa de acertos de quase 90% por história de usuário.
 
@@ -158,6 +195,20 @@
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
+## 4.2 Resultados após correção
+&emsp;&emsp;Após a correção, a inspeção feita nas histórias de usuário,resultou no gráfico abaixo, com todas as histórias de usuário de acordo com os critérios. Gerando uma taxa de acerto de 100%.
+
+<center>
+
+![Grafico](../../assets/verificacao/grafico-inspecao-apos-correcao.png)
+
+</center>
+
+<figcaption align='center'>
+    <b>Figura 4: Gráfico Inspeção História de Usuário após correção </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
+
 ## Referências
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2022. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
@@ -167,3 +218,4 @@
 | Versão |      Alteração      | Responsável |           Revisor            |   Data   | Hora  |
 | :----: | :-----------------: | :---------: | :--------------------------: | :------: | :------: |
 |  1.0   |      Criação do documento          |    Lucas   |-               | 14/08/22 |13:00 às 16:35 |
+|  2.0   |      Checklist 2.0 das histórias de usuário após correção          |    Eurico   | João Henrique | 08/09/22 |12:00 às 12:30 |
