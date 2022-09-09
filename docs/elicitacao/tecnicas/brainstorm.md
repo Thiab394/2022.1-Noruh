@@ -37,45 +37,46 @@
 
 <center>
 
-| ID |                                Requisitos Funcionais                                |
-| :----: | :---------------------------------------------------------------------------------: |
-|  BS01  |                        O usuário deve poder criar uma conta                         |
-|  BS02  |                    O usuário deve poder realizar login na conta                     |
-|  BS03  |                         O usuário deve poder fazer pedidos                          |
-|  BS04  |             O usuário deve poder filtrar restaurantes pela localização              |
-|  BS05  |                       O usuário deve poder acessar o cardápio                       |
-|  BS06  |             O usuário deve poder cadastrar seu cartão de crédito/débito             |
-|  BS07  |        O usuário deve poder abrir uma comanda a partir da leitura do QR Code        |
-|  BS08  |                      O usuário deve poder realizar pagamentos                       |
-|  BS09  |                  O usuário deve poder avaliar restaurantes e bares                  |
-|  BS10  |              O usuário deve poder filtrar restaurantes por categorias               |
-|  BS11  |                O usuário deve poder acompanhar seu pedido de delivery               |
-|  BS12  |                       O usuário deve poder editar seu perfil                        |
-|  BS13  |              O usuário deve poder ver restaurantes abertos no momento               |
-|  BS14  |                O usuário deve poder filtrar restaurante por avalição                |
-|  BS15  |               O usuário deve poder ver estabelecimentos com promoções               |
-|  BS16  |        O usuário deve poder receber notificações sobre o andamento do pedido        |
-|  BS17  |                     O usuário deve poder pesquisar restaurantes                     |
-|  BS18  |                  O usuário deve poder acessar histórico de contas                   |
-|  BS19  |                  O usuário deve poder ter acesso aos termos de uso                  |
-|  BS20  | O usuário deve poder ver a localização dos estabelecimentos a partir do google maps |
-|  BS21  |       O usuário deve poder ver uma breve descrição sobre o restaurante ou bar       |
+|  ID  |                                Requisitos Funcionais                                |
+| :--: | :---------------------------------------------------------------------------------: |
+| BS01 |                        O usuário deve poder criar uma conta                         |
+| BS02 |                    O usuário deve poder realizar login na conta                     |
+| BS03 |                         O usuário deve poder fazer pedidos                          |
+| BS04 |             O usuário deve poder filtrar restaurantes pela localização              |
+| BS05 |                       O usuário deve poder acessar o cardápio                       |
+| BS06 |             O usuário deve poder cadastrar seu cartão de crédito/débito             |
+| BS07 |        O usuário deve poder abrir uma comanda a partir da leitura do QR Code        |
+| BS08 |                      O usuário deve poder realizar pagamentos                       |
+| BS09 |                  O usuário deve poder avaliar restaurantes e bares                  |
+| BS10 |              O usuário deve poder filtrar restaurantes por categorias               |
+| BS11 |               O usuário deve poder acompanhar seu pedido de delivery                |
+| BS12 |                       O usuário deve poder editar seu perfil                        |
+| BS13 |              O usuário deve poder ver restaurantes abertos no momento               |
+| BS14 |                O usuário deve poder filtrar restaurante por avalição                |
+| BS15 |               O usuário deve poder ver estabelecimentos com promoções               |
+| BS16 |        O usuário deve poder receber notificações sobre o andamento do pedido        |
+| BS17 |                     O usuário deve poder pesquisar restaurantes                     |
+| BS18 |                  O usuário deve poder acessar histórico de contas                   |
+| BS19 |                  O usuário deve poder ter acesso aos termos de uso                  |
+| BS20 | O usuário deve poder ver a localização dos estabelecimentos a partir do google maps |
+| BS21 |       O usuário deve poder ver uma breve descrição sobre o restaurante ou bar       |
 
 <figcaption>Tabela 1: Requisitos funcionais.</figcaption>
 <br><small>Fonte: Elaboração Própria</small>
 
-| ID | Requisitos Não Funcionais                                                                         |
-| ------ | ------------------------------------------------------------------------------------------------- |
-| BS01   | O sistema deve restringir a idade para uso do app                                                 |
-| BS02   | O sistema deve ser responsivo                                                                     |
-| BS03   | O sistema deve ser disponível para android versão 5.0 ou superior e IOS versão IOS 11 ou superior |
-| BS04   | O sistema deve possuir uma interface gráfica                                                      |
-| BS05   | O sistema deve apresentar um design minimalista                                                   |
-| BS06   | O sistema deve ter um tempo de comunicação com o servidor de no máximo 10 segundos                |
-| BS07   | O sistema deve garantir a privacidade e segurança dos dados do usuário                            |
-| BS08   | O sistema não deve ficar fora do ar por mais de 4 horas                                           |
-| BS09   | O sistema deve permitir com que pagamentos sejam realizados com segurança                         |
-| BS10   | O sistema deve fornecer uma interface gráfica intuitiva                                           |
+| ID   | Requisitos Não Funcionais                                                                         |
+| ---- | ------------------------------------------------------------------------------------------------- |
+| BS22 | O sistema deve restringir a idade para uso do app                                                 |
+| BS23 | O sistema deve ser responsivo                                                                     |
+| BS24 | O sistema deve ser disponível para android versão 5.0 ou superior e IOS versão IOS 11 ou superior |
+| BS25 | O sistema deve possuir uma interface gráfica                                                      |
+| BS26 | O sistema deve apresentar um design minimalista                                                   |
+| BS27 | O sistema deve ter um tempo de comunicação com o servidor de no máximo 10 segundos                |
+| BS28 | O sistema deve garantir a privacidade e segurança dos dados do usuário                            |
+| BS29 | O sistema não deve ficar fora do ar por mais de 4 horas                                           |
+| BS30 | O sistema deve permitir com que pagamentos sejam realizados com segurança                         |
+| BS31 | O sistema deve fornecer uma interface gráfica intuitiva                                           |
+| BS32 | O sistema deve ter integração com o sistema do restaurante                                        |
 
 <figcaption>Tabela 2: Requisitos não funcionais.</figcaption>
 <br><small>Fonte: Elaboração Própria</small>

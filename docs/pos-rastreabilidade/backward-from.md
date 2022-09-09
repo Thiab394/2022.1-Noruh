@@ -23,6 +23,7 @@
 
 &emsp;&emsp; A tabela da pós-ratreabilidade backward-from dos requisitos funcionais podem ser encontrados abaixo:
 
+<!--
 | Requisito funcional |                                          Técnica utilizada                                          |                                    Onde encontrar                                    |       Elos        |
 | :-----------------: | :-------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :---------------: |
 |         RF1         | [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) | [RF01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) | [**EF01**](#ef01) |
@@ -56,6 +57,41 @@
 |        RF29         |                         [Observação](../elicitacao/tecnicas/observacao.md)                          |            [RF29](../../elicitacao/resultados/#21-requisitos-funcionais)             | [**EF29**](#ef29) |
 |        RF30         |                         [Observação](../elicitacao/tecnicas/observacao.md)                          |            [RF30](../../elicitacao/resultados/#21-requisitos-funcionais)             | [**EF30**](#ef30) |
 |        RF31         |                         [Observação](../elicitacao/tecnicas/observacao.md)                          |            [RF31](../../elicitacao/resultados/#21-requisitos-funcionais)             | [**EF31**](#ef31) |
+-->
+
+|  ID  |                                      Descrição                                      |                                                                                                                                                                                                                                                            Técnica utilizada                                                                                                                                                                                                                                                             |
+| :--: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| RF1  |                        O usuário deve poder criar uma conta                         |                                                                                                                                                                      [BS01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [I01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)                                                                                                                                                                       |
+| RF2  |                    O usuário deve poder realizar login na conta                     |                                                                                                            [BS02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [I02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/), </br> [ST01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/storytelling/#5-resultados)                                                                                                             |
+| RF3  |                         O usuário deve poder fazer pedidos                          |                                                                                                                                                                    [BS03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [AD1](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)                                                                                                                                                                     |
+| RF4  |                       O usuário deve poder acessar o cardápio                       |                                                                                                            [BS05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [I021](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/), </br> [ST02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/storytelling/#5-resultados)                                                                                                            |
+| RF5  |        O usuário deve poder abrir uma comanda a partir da leitura do QR Code        |                                                                                                                                                                      [BS07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [I011](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)                                                                                                                                                                      |
+| RF6  |                       O usuário deve poder editar seu perfil                        |                                                                                                                                                                                                                      [BS12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)                                                                                                                                                                                                                       |
+| RF7  |                     O usuário deve poder pesquisar restaurantes                     |                                                                                                             [BS17](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [I07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/), </br> [Q05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)                                                                                                              |
+| RF8  |                  O usuário deve poder ter acesso aos termos de uso                  |                                                                                                                                                                    [BS19](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [AD5](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)                                                                                                                                                                     |
+| RF9  | O usuário deve poder ver a localização dos estabelecimentos a partir do google maps |                                                                                                                                                                      [BS20](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [I015](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)                                                                                                                                                                      |
+| RF10 |               O usuário deve conseguir cadastrar múltiplos endereços                |                                                                                                                                                                                                               [OBS04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                                                                                                                |
+| RF11 |                        O usuário deve fazer logout do perfil                        |                                                                                                                                                                                                               [OBS01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                                                                                                                |
+| RF12 |  O usuário deve poder selecionar a cidade em que deseja buscar restaurantes/bares   |                                                                                                                                                               [I06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/), [OBS03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                                                                |
+| RF13 |         O usuário deve poder solicitar a conta para o pagamento fora do app         |                                                                                                                                                               [I025](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/), [Q03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)                                                                                                                                                                |
+| RF14 |             O usuário deve poder cadastrar seu cartão de crédito/débito             |                                                                                                                                                                                                                      [BS06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)                                                                                                                                                                                                                       |
+| RF15 |                      O usuário deve poder realizar pagamentos                       | [BS08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [I026](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/), </br> [Q02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado), [ST04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/storytelling/#5-resultados), </br> [AD2](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/) |
+| RF16 |              O usuário deve poder ver restaurantes abertos no momento               |                                                                                                                                                                      [BS13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [I08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)                                                                                                                                                                       |
+| RF17 |        O usuário deve poder receber notificações sobre o andamento do pedido        |                                                                                                                                                                                                                      [BS16](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)                                                                                                                                                                                                                       |
+| RF18 |                  O usuário deve poder acessar histórico de contas                   |                                                                                                                                                                [BS18](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [Q07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)                                                                                                                                                                 |
+| RF19 |       O usuário deve poder ver uma breve descrição sobre o restaurante ou bar       |                                                                                                                                                                                                                      [BS21](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)                                                                                                                                                                                                                       |
+| RF20 |            O usuário deve poder adicionar multiplas formas de pagamento             |                                                                                                                                                                                                               [OBS02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                                                                                                                |
+| RF21 |    O usuário deve poder ter a opção de parcelar seus pagamentos quando possível     |                                                                                                                                                             [OBS07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados), [AD3](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)                                                                                                                                                              |
+| RF22 |             O usuário deve poder filtrar restaurantes pela localização              |                                                                                                                                                                                                                      [BS04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)                                                                                                                                                                                                                       |
+| RF23 |                  O usuário deve poder avaliar restaurantes e bares                  |                                                                                                                                                                [BS09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [Q08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)                                                                                                                                                                 |
+| RF24 |              O usuário deve poder filtrar restaurantes por categorias               |                                                                                                                                                                      [BS10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [I09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)                                                                                                                                                                       |
+| RF25 |               O usuário deve poder filtrar restaurante por avaliação                |                                                                                                                                                                                                                      [BS14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)                                                                                                                                                                                                                       |
+| RF26 |               O usuário deve poder ver estabelecimentos com promoções               |                                                                                                                 [BS15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [I010](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/), </br> [AD4](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)                                                                                                                 |
+| RF27 |      O usuário deve poder entrar na fila de espera do estabelecimento pelo app      |                                                                                                       [I018](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) [OBS05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados),</br> [Q04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)                                                                                                       |
+| RF28 |       O usuário deve receber notificações sobre o andamento da fila de espera       |                                                                                                                                                                                                               [OBS06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                                                                                                                |
+| RF29 |                 O usuário deve receber um tutorial no primeiro uso                  |                                                                                                                                                                                                               [OBS08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                                                                                                                |
+| RF30 |                O usuário deve poder criar uma comanda compartilhada                 |                                                                                                                                                                                                               [OBS09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                                                                                                                |
+| RF31 |                 O usuário deve poder pesquisar produtos no cardápio                 |                                                                                                                                                               [I023](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/), [OBS10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                                                               |
 
 <figcaption align='center'>
     <b>Tabela 1: análise backward-from requisitos funcionais  </b>
@@ -64,219 +100,314 @@
 
 ## Elos Funcionais
 
-### EF01
+### RF01
 
 **Categoria**:Desenvolvimento
+
+**Elementos Rastreáveis**:
+Brainstorm [BS01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+Introspecção [I01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
 
 **Elos:** </br>
 Representação: [RF01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US01](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF02
+### RF02
 
 **Categoria**:Desenvolvimento
+
+**Elementos Rastreáveis**:
+Brainstorm [BS02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+Introspecção [I02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
+Storytelling [ST01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/storytelling/#5-resultados)
 
 **Elos:** </br>
 Representação: [RF02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US02](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF03
+### RF03
 
 **Categoria**:Desenvolvimento
+
+**Elementos Rastreáveis**:
+Brainstorm [BS03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+Ánalise de Documento [AD1](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)
 
 **Elos:** </br>
 Representação: [RF03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF04
+### RF04
 
 **Categoria**:Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Brainstorm [BS05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+Introspecção [I021](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
+Storytelling [ST02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/storytelling/#5-resultados)
 
 **Elos:** </br>
 Representação: [RF04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US04](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF05
+### RF05
 
 **Categoria**:Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Brainstorm [BS07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+Introspecção [I011](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
 
 **Elos:** </br>
 Representação: [RF05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF06
+### RF06
 
 **Categoria**:Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Brainstorm [BS12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
 
 **Elos:** </br>
 Representação: [RF06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US06](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF07
+### RF07
 
 **Categoria**:Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Brainstorm [BS17](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+Introspecção [I07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
+Questionário [Q05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
 
 **Elos:** </br>
 Representação: [RF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US07](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF08
+### RF08
 
 **Categoria**:Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Brainstorm [BS19](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+Análise de Documento [AD5](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)
 
 **Elos:** </br>
 Representação: [RF08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US08](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF09
+### RF09
 
 **Categoria**:Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Brainstorm [BS20](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+Introspecção [I015](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
 
 **Elos:** </br>
 Representação: [RF09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US09](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF10
+### RF10
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Observação [OBS04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos:** </br>
 Representação: [RF10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US10](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF11
+### RF11
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Observação [OBS01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos:** </br>
 Representação: [RF11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US11](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF12
+### RF12
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Introspecção [I06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
+Observação [OBS03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos:** </br>
 Representação: [RF12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US12](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF13
+### RF13
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US13](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF14
+### RF14
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US14](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF15
+### RF15
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US15](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF16
+### RF16
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF16](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US16](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF17
+### RF17
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF17](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US17](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF18
+### RF18
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF18](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US18](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF19
+### RF19
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF19](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US19](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF20
+### RF20
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF20](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US20](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF21
+### RF21
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF21](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US21](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF22
+### RF22
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF22](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US22](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF23
+### RF23
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF23](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US23](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF24
+### RF24
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF24](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US24](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF25
+### RF25
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF25](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US25](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF26
+### RF26
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF26](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US26](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF27
+### RF27
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF27](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US27](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF28
+### RF28
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF28](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US28](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF29
+### RF29
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:** </br>
 Representação: [RF29](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US29](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
-### EF30
+### RF30
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:**  
 Recurso: [RF30](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) depende dos recursos do [RF05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
 
-### EF31
+### RF31
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
 
 **Elos:**  
 Recurso: [RF31](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) depende dos recursos do [RF04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
@@ -285,24 +416,24 @@ Recurso: [RF31](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao
 
 &emsp;&emsp; A tabela da pós-ratreabilidade backward-from dos requisitos não funcionais podem ser encontrados abaixo:
 
-| Requisito funcional |                                            Técnica utilizada                                            |                                                   Onde encontrar                                                   |        Elos         |
-| :-----------------: | :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------: |
-|        RNF1         |   [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)   | [RNF1](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais)  | [**ENF01**](#ENF01) |
-|        RNF2         |   [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)   | [RNF2](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais)  | [**ENF02**](#ENF02) |
-|        RNF3         |   [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)   | [RNF3](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais)  | [**ENF03**](#ENF03) |
-|        RNF4         |   [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)   | [RNF4](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais)  | [**ENF04**](#ENF04) |
-|        RNF5         |   [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)   | [RNF5](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais)  | [**ENF05**](#ENF05) |
-|        RNF6         |   [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)   | [RNF6](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais)  | [**ENF06**](#ENF06) |
-|        RNF7         |   [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)   | [RNF7](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais)  | [**ENF07**](#ENF07) |
-|        RNF8         | [Introspecção](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) | [RNF8](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais)  | [**ENF08**](#ENF08) |
-|        RNF9         |   [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)   | [RNF9](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais)  | [**ENF09**](#ENF09) |
-|        RNF10        |   [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)   | [RNF10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) | [**ENF10**](#ENF10) |
-|        RNF11        |   [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/)   | [RNF11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) | [**ENF11**](#ENF11) |
-|        RNF12        |   [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/)   | [RNF12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) | [**ENF12**](#ENF12) |
-|        RNF13        |   [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/)   | [RNF13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) | [**ENF13**](#ENF13) |
-|        RNF14        |   [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)   | [RNF14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) | [**ENF14**](#ENF14) |
-|        RNF15        |   [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/)   | [RNF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) | [**ENF15**](#ENF15) |
-|        RNF16        |   [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/)   | [RNF16](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) | [**ENF16**](#ENF16) |
+|  ID   |                                                Descrição                                                 |                                                                                                                                                                           Técnica Utilizada                                                                                                                                                                            |
+| :---: | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| RNF1  |                            O sistema deve restringir a idade para uso do app                             |                                                                 [BS22](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados), [AD6](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento)                                                                  |
+| RNF2  |                                      O sistema deve ser responsivo                                       |                                                                                                                               [BS23](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)                                                                                                                               |
+| RNF3  |    O sistema deve ser disponível para android versão 5.0 ou superior e IOS versão IOS 11 ou superior     | [BS24](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados), [AD7](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento), </br> [AD8](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento) |
+| RNF4  |                               O sistema deve possuir uma interface gráfica                               |                                                                                                                               [BS25](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)                                                                                                                               |
+| RNF5  |            O sistema deve ter um tempo de comunicação com o servidor de no máximo 10 segundos            |                                                                                                                               [BS27](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)                                                                                                                               |
+| RNF6  |                  O sistema deve garantir a privacidade e segurança dos dados do usuário                  |                                                                 [BS28](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados), [AD11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento)                                                                 |
+| RNF7  |                O sistema deve permitir com que pagamentos sejam realizados com segurança                 |                                                                 [BS30](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados), [AD12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento)                                                                 |
+| RNF8  |                        O sistema deve ter integração com o sistema do restaurante                        |                                                                                                                               [BS32](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)                                                                                                                               |
+| RNF9  |                              sistema deve apresentar um design minimalista                               |                                                                                                                               [BS26](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)                                                                                                                               |
+| RNF10 |                         O sistema não deve ficar fora do ar por mais de 4 horas                          |                                                                                                                               [BS29](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)                                                                                                                               |
+| RNF11 |              O sistema deve permitir a navegação pelo app sem a necessidade de um cadastro               |                                                                                                                              [OBS11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                               |
+| RNF12 | A navegação pelo cardápio dos restaurantes deve ser de fácil entendimento e mostrar imagens dos produtos |                                                                                                                              [OBS12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                               |
+| RNF13 |                              O pagamento pelo app deve ser simples e rápido                              |                                                                                                                              [OBS13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                               |
+| RNF14 |                         O sistema deve fornecer uma interface gráfica intuitiva                          |                                                                         [BS31](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados), [Q10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)                                                                         |
+| RNF15 |                     O sistema deve ter um tempo de resposta de no máximo 2 segundos                      |                                                                        [OBS14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados), [Q11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)                                                                         |
+| RNF16 |                 O sistema deve ter integração com o google e facebook para criar contas                  |                                                                                                                              [OBS15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                               |
 
 <figcaption align='center'>
     <b>Tabela 2: análise backward-from requisitos não funcionais  </b>
@@ -311,49 +442,49 @@ Recurso: [RF31](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao
 
 ## Elos Não-Funcionais
 
-### ENF01
+### RNF01
 
 **Categoria**: Desenvolvimento
 
 **Elos:**  
 Alocado: [RNF01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
-### ENF02
+### RNF02
 
 **Categoria**: Desenvolvimento
 
 **Elos:**  
 Alocado: [RNF02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
-### ENF03
+### RNF03
 
 **Categoria**: Desenvolvimento
 
 **Elos:**  
 Alocado: [RNF03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
-### ENF04
+### RNF04
 
 **Categoria**: Desenvolvimento
 
 **Elos:**  
 Alocado: [RNF04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
-### ENF05
+### RNF05
 
 **Categoria**: Desenvolvimento
 
 **Elos:**  
 Alocado: [RNF05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
-### ENF06
+### RNF06
 
 **Categoria**: Desenvolvimento
 
 **Elos:**  
 Alocado: [RNF06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
-### ENF07
+### RNF07
 
 **Categoria**: Desenvolvimento
 
@@ -362,42 +493,42 @@ Alocado: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 Recurso: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) depende dos recursos do [RF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)  
 Agregação: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) agrega [RF20](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) e [RF21](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
 
-### ENF08
+### RNF08
 
 **Categoria**: Desenvolvimento
 
 **Elos**:
 Alocado: [RNF08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Instrospecção](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/#3-resultados)
 
-### ENF09
+### RNF09
 
 **Categoria**: Desenvolvimento
 
 **Elos**:
 Alocado: [RNF09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
-### ENF10
+### RNF10
 
 **Categoria**: Desenvolvimento
 
 **Elos**:
 Alocado: [RNF10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
-### ENF11
+### RNF11
 
 **Categoria**: Desenvolvimento
 
 **Elos**:
 Alocado: [RNF11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
-### ENF12
+### RNF12
 
 **Categoria**: Desenvolvimento
 
 **Elos**:
 Alocado: [RNF12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
-### ENF13
+### RNF13
 
 **Categoria**: Desenvolvimento
 
@@ -405,21 +536,21 @@ Alocado: [RNF12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 Alocado: [RNF13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no
 Recurso: [RNF13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) depende dos recursos do [RF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) E [RF20](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
 
-### ENF14
+### RNF14
 
 **Categoria**: Desenvolvimento
 
 **Elos**:
 Alocado: [RNF14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
-### ENF15
+### RNF15
 
 **Categoria**: Desenvolvimento
 
 **Elos**:
 Alocado: [RNF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
-### ENF16
+### RNF16
 
 **Categoria**: Desenvolvimento
 
