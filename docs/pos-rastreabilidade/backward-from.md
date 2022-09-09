@@ -499,12 +499,21 @@ Recurso: [RF31](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao
 
 **Categoria**: Desenvolvimento
 
+**Elementos Rastreáveis**:
+
+Brainstorm [BS22](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+Análise de Documento [AD6](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento)
+
 **Elos:**  
 Alocado: [RNF01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
 ### RNF02
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Brainstorm [BS23](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
 **Elos:**  
 Alocado: [RNF02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
@@ -513,12 +522,22 @@ Alocado: [RNF02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 
 **Categoria**: Desenvolvimento
 
+**Elementos Rastreáveis**:
+
+Brainstorm [BS24](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+Análise de Documento [AD7](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento)
+Análise de Documento [AD8](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento)
+
 **Elos:**  
 Alocado: [RNF03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
 ### RNF04
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Brainstorm [BS25](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
 **Elos:**  
 Alocado: [RNF04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
@@ -527,6 +546,10 @@ Alocado: [RNF04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 
 **Categoria**: Desenvolvimento
 
+**Elementos Rastreáveis**:
+
+Brainstorm [BS27](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+
 **Elos:**  
 Alocado: [RNF05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
@@ -534,12 +557,22 @@ Alocado: [RNF05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 
 **Categoria**: Desenvolvimento
 
+**Elementos Rastreáveis**:
+
+Brainstorm [BS28](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+Análise do Documento [AD11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento)
+
 **Elos:**  
 Alocado: [RNF06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
 ### RNF07
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Brainstorm [BS30](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+Análise de Documento [AD12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento)
 
 **Elos:**  
 Alocado: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)  
@@ -550,12 +583,20 @@ Agregação: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elici
 
 **Categoria**: Desenvolvimento
 
+**Elementos Rastreáveis**:
+
+Brainstorm [BS32](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+
 **Elos**:
 Alocado: [RNF08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Instrospecção](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/#3-resultados)
 
 ### RNF09
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Brainstorm [BS26](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
 **Elos**:
 Alocado: [RNF09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
@@ -564,12 +605,20 @@ Alocado: [RNF09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 
 **Categoria**: Desenvolvimento
 
+**Elementos Rastreáveis**:
+
+Brainstorm [BS29](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+
 **Elos**:
 Alocado: [RNF10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
 ### RNF11
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Observação [OBS11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos**:
 Alocado: [RNF11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
@@ -578,12 +627,20 @@ Alocado: [RNF11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 
 **Categoria**: Desenvolvimento
 
+**Elementos Rastreáveis**:
+
+Observação [OBS12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
+
 **Elos**:
 Alocado: [RNF12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 ### RNF13
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Observação [OBS13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos**:
 Alocado: [RNF13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no
@@ -593,6 +650,11 @@ Recurso: [RNF13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 
 **Categoria**: Desenvolvimento
 
+**Elementos Rastreáveis**:
+
+Brainstorm [BS31](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+Questionário [Q10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
+
 **Elos**:
 Alocado: [RNF14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
@@ -600,12 +662,21 @@ Alocado: [RNF14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 
 **Categoria**: Desenvolvimento
 
+**Elementos Rastreáveis**:
+
+Observação [OBS14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
+Questionário [Q11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
+
 **Elos**:
 Alocado: [RNF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 ### RNF16
 
 **Categoria**: Desenvolvimento
+
+**Elementos Rastreáveis**:
+
+Observação [OBS15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos**:
 Alocado: [RNF16](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
