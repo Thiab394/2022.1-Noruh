@@ -87,7 +87,7 @@
 | RF24 |              O usuário deve poder filtrar restaurantes por categorias               |                                                                                                                                                                      [BS10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [I09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)                                                                                                                                                                       |
 | RF25 |               O usuário deve poder filtrar restaurante por avaliação                |                                                                                                                                                                                                                      [BS14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)                                                                                                                                                                                                                       |
 | RF26 |               O usuário deve poder ver estabelecimentos com promoções               |                                                                                                                 [BS15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/), [I010](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/), </br> [AD4](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)                                                                                                                 |
-| RF27 |      O usuário deve poder entrar na fila de espera do estabelecimento pelo app      |                                                                                                       [I018](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) [OBS05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados),</br> [Q04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)                                                                                                       |
+| RF27 |      O usuário deve poder entrar na fila de espera do estabelecimento pelo app      |                                                                                                      [I018](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/), [OBS05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados),</br> [Q04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)                                                                                                       |
 | RF28 |       O usuário deve receber notificações sobre o andamento da fila de espera       |                                                                                                                                                                                                               [OBS06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                                                                                                                |
 | RF29 |                 O usuário deve receber um tutorial no primeiro uso                  |                                                                                                                                                                                                               [OBS08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                                                                                                                |
 | RF30 |                O usuário deve poder criar uma comanda compartilhada                 |                                                                                                                                                                                                               [OBS09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                                                                                                                |
@@ -129,7 +129,7 @@ Representação: [RF02](https://requisitos-de-software.github.io/2022.1-Noruh/el
 
 **Elementos Rastreáveis**:
 Brainstorm [BS03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
-Ánalise de Documento [AD1](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)
+Análise de Documento [AD1](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)
 
 **Elos:** </br>
 Representação: [RF03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
@@ -247,6 +247,9 @@ Representação: [RF12](https://requisitos-de-software.github.io/2022.1-Noruh/el
 
 **Elementos Rastreáveis**:
 
+Introspecção [I025](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
+Questionário [Q03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
+
 **Elos:** </br>
 Representação: [RF13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US13](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
@@ -255,6 +258,8 @@ Representação: [RF13](https://requisitos-de-software.github.io/2022.1-Noruh/el
 **Categoria**: Desenvolvimento
 
 **Elementos Rastreáveis**:
+
+Brainstorm [BS06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
 
 **Elos:** </br>
 Representação: [RF14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US14](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
@@ -265,6 +270,12 @@ Representação: [RF14](https://requisitos-de-software.github.io/2022.1-Noruh/el
 
 **Elementos Rastreáveis**:
 
+Brainstorm [BS08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+Instrospecção [I026](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
+Questionário [Q02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
+Storytelling [ST04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/storytelling/#5-resultados)
+Análise de Documento[AD2](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)
+
 **Elos:** </br>
 Representação: [RF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US15](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
@@ -273,6 +284,9 @@ Representação: [RF15](https://requisitos-de-software.github.io/2022.1-Noruh/el
 **Categoria**: Desenvolvimento
 
 **Elementos Rastreáveis**:
+
+Brainstorm [BS13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+Introspecção [I08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
 
 **Elos:** </br>
 Representação: [RF16](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US16](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
@@ -283,6 +297,8 @@ Representação: [RF16](https://requisitos-de-software.github.io/2022.1-Noruh/el
 
 **Elementos Rastreáveis**:
 
+Brainstorm [BS16](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+
 **Elos:** </br>
 Representação: [RF17](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US17](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
@@ -291,6 +307,9 @@ Representação: [RF17](https://requisitos-de-software.github.io/2022.1-Noruh/el
 **Categoria**: Desenvolvimento
 
 **Elementos Rastreáveis**:
+
+Brainstorm [BS18](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+Questionário [Q07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
 
 **Elos:** </br>
 Representação: [RF18](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US18](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
@@ -301,6 +320,8 @@ Representação: [RF18](https://requisitos-de-software.github.io/2022.1-Noruh/el
 
 **Elementos Rastreáveis**:
 
+Brainstorm [BS21](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+
 **Elos:** </br>
 Representação: [RF19](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US19](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
@@ -309,6 +330,8 @@ Representação: [RF19](https://requisitos-de-software.github.io/2022.1-Noruh/el
 **Categoria**: Desenvolvimento
 
 **Elementos Rastreáveis**:
+
+Observação [OBS02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos:** </br>
 Representação: [RF20](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US20](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
@@ -319,6 +342,9 @@ Representação: [RF20](https://requisitos-de-software.github.io/2022.1-Noruh/el
 
 **Elementos Rastreáveis**:
 
+Observação [OBS07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
+Análise de Documento [AD3](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)
+
 **Elos:** </br>
 Representação: [RF21](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US21](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
@@ -327,6 +353,8 @@ Representação: [RF21](https://requisitos-de-software.github.io/2022.1-Noruh/el
 **Categoria**: Desenvolvimento
 
 **Elementos Rastreáveis**:
+
+Brainstorm [BS04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
 
 **Elos:** </br>
 Representação: [RF22](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US22](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
@@ -337,6 +365,9 @@ Representação: [RF22](https://requisitos-de-software.github.io/2022.1-Noruh/el
 
 **Elementos Rastreáveis**:
 
+Brainstorm [BS09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+Questionário [Q08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
+
 **Elos:** </br>
 Representação: [RF23](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US23](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
@@ -345,6 +376,9 @@ Representação: [RF23](https://requisitos-de-software.github.io/2022.1-Noruh/el
 **Categoria**: Desenvolvimento
 
 **Elementos Rastreáveis**:
+
+Brainstorm [BS10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+Introspecção [I09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
 
 **Elos:** </br>
 Representação: [RF24](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US24](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
@@ -355,6 +389,8 @@ Representação: [RF24](https://requisitos-de-software.github.io/2022.1-Noruh/el
 
 **Elementos Rastreáveis**:
 
+Brainstorm [BS14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+
 **Elos:** </br>
 Representação: [RF25](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US25](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
@@ -363,6 +399,10 @@ Representação: [RF25](https://requisitos-de-software.github.io/2022.1-Noruh/el
 **Categoria**: Desenvolvimento
 
 **Elementos Rastreáveis**:
+
+Brainstorm [BS15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
+Introspecção [I010](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
+Análise de Documento [AD4](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)
 
 **Elos:** </br>
 Representação: [RF26](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US26](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
@@ -373,6 +413,10 @@ Representação: [RF26](https://requisitos-de-software.github.io/2022.1-Noruh/el
 
 **Elementos Rastreáveis**:
 
+Introspecção [I018](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
+Observação [OBS05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
+Questionário [Q04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
+
 **Elos:** </br>
 Representação: [RF27](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US27](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
@@ -381,6 +425,8 @@ Representação: [RF27](https://requisitos-de-software.github.io/2022.1-Noruh/el
 **Categoria**: Desenvolvimento
 
 **Elementos Rastreáveis**:
+
+Observação [OBS06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos:** </br>
 Representação: [RF28](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US28](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
@@ -391,6 +437,8 @@ Representação: [RF28](https://requisitos-de-software.github.io/2022.1-Noruh/el
 
 **Elementos Rastreáveis**:
 
+Observação [OBS08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
+
 **Elos:** </br>
 Representação: [RF29](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US29](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
 
@@ -400,6 +448,8 @@ Representação: [RF29](https://requisitos-de-software.github.io/2022.1-Noruh/el
 
 **Elementos Rastreáveis**:
 
+Observação [OBS09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
+
 **Elos:**  
 Recurso: [RF30](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) depende dos recursos do [RF05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
 
@@ -408,6 +458,9 @@ Recurso: [RF30](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao
 **Categoria**: Desenvolvimento
 
 **Elementos Rastreáveis**:
+
+Introspecção [I023](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
+Observação [OBS10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos:**  
 Recurso: [RF31](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) depende dos recursos do [RF04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
