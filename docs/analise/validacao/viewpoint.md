@@ -33,21 +33,15 @@ Uma análise das técnicas de levantamento de requisitos</small>
 <p>&emsp;&emsp;O gerente do restaurante, deseja que o usuário consiga logar no aplicativo de forma rápida e segura para que consiga fazer os seus pedidos.</p>
 
 ### 2.3.1 Viewpoint direto 3
-<p>&emsp;&emsp;O usuário deseja que seja possível procurar pelo mapa os restaurantes e bares que estão no aplicativo.</p>
-
-### 2.3.2 Viewpoint indireto 3
-<p>&emsp;&emsp;O gerente do restaurante, deseja que o usuário consiga encontrar o seu restaurante ou bar pelo aplicativo, com a finalidade de atrair mais clientes</p>
-
-### 2.4.1 Viewpoint direto 4
 <p>&emsp;&emsp;O usuário deseja que seja possível acessar o cardápio e realizar pedidos com o seu celular.</p>
 
-### 2.4.2 Viewpoint indireto 4
+### 2.3.2 Viewpoint indireto 3
 <p>&emsp;&emsp;O gerente do restaurante, deseja que o usuário consiga acessar o cardápio e realizar pedidos com o seu celular, com a finalidade de ter o atendimento agilizado.</p>
 
-### 2.5.1 Viewpoint direto 5
+### 2.4.1 Viewpoint direto 4
 <p>&emsp;&emsp;O usuário deseja que seja possível finalizar os pedidos e solicitar a conta, além de poder fazer o pagamento pelo aplicativo de forma segura.</p>
 
-### 2.5.2 Viewpoint indireto 5
+### 2.4.2 Viewpoint indireto 4
 <p>&emsp;&emsp;O gerente do restaurante, deseja que o usuário consiga finalizar o seu pedido, pedir a conta e realizar o pagamento da forma desejada.</p>
 
 ## 3. Análise final
