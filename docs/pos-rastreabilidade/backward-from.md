@@ -109,7 +109,7 @@ Brainstorm [BS01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitac
 Introspecção [I01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
 
 **Elos:** </br>
-Representação: [RF01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US01](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Agregação: [I01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) agrega [BS01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
 
 ### RF02
 
@@ -121,7 +121,7 @@ Introspecção [I02](https://requisitos-de-software.github.io/2022.1-Noruh/elici
 Storytelling [ST01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/storytelling/#5-resultados)
 
 **Elos:** </br>
-Representação: [RF02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US02](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Agregação: [BS02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) agrega [I02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) e [ST01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/storytelling/#5-resultados)
 
 ### RF03
 
@@ -132,7 +132,7 @@ Brainstorm [BS03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitac
 Análise de Documento [AD1](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)
 
 **Elos:** </br>
-Representação: [RF03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US03](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Representação: [BS03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) representa [AD1](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/) </br>
 
 ### RF04
 
@@ -145,7 +145,8 @@ Introspecção [I021](https://requisitos-de-software.github.io/2022.1-Noruh/elic
 Storytelling [ST02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/storytelling/#5-resultados)
 
 **Elos:** </br>
-Representação: [RF04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US04](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Representação: [BS05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) e [ST02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/storytelling/#5-resultados) representa [ST02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/storytelling/#5-resultados) </br>
+Agregação: [BS03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) agrega [ST02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/storytelling/#5-resultados)
 
 ### RF05
 
@@ -157,7 +158,7 @@ Brainstorm [BS07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitac
 Introspecção [I011](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
 
 **Elos:** </br>
-Representação: [RF05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US05](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Representação: [BS07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) representa [I011](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) </br>
 
 ### RF06
 
@@ -168,7 +169,8 @@ Representação: [RF05](https://requisitos-de-software.github.io/2022.1-Noruh/el
 Brainstorm [BS12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
 
 **Elos:** </br>
-Representação: [RF06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US06](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+- Não existe artefato para moldar o elo </br>
 
 ### RF07
 
@@ -181,7 +183,8 @@ Introspecção [I07](https://requisitos-de-software.github.io/2022.1-Noruh/elici
 Questionário [Q05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
 
 **Elos:** </br>
-Representação: [RF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US07](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Representação: [BS17](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) e [Q05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado) representa [I07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) </br>
+Agregação: [BS17](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) agrega [Q05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
 
 ### RF08
 
@@ -193,7 +196,7 @@ Brainstorm [BS19](https://requisitos-de-software.github.io/2022.1-Noruh/elicitac
 Análise de Documento [AD5](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)
 
 **Elos:** </br>
-Representação: [RF08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US08](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Representação: [BS19](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) representa [AD5](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/) </br>
 
 ### RF09
 
@@ -205,7 +208,7 @@ Brainstorm [BS20](https://requisitos-de-software.github.io/2022.1-Noruh/elicitac
 Introspecção [I015](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
 
 **Elos:** </br>
-Representação: [RF09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US09](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Representação: [BS20](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) representa [I015](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) </br>
 
 ### RF10
 
@@ -216,7 +219,8 @@ Representação: [RF09](https://requisitos-de-software.github.io/2022.1-Noruh/el
 Observação [OBS04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos:** </br>
-Representação: [RF10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US10](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+- Não existe artefato para moldar o elo </br>
 
 ### RF11
 
@@ -227,7 +231,8 @@ Representação: [RF10](https://requisitos-de-software.github.io/2022.1-Noruh/el
 Observação [OBS01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos:** </br>
-Representação: [RF11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US11](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+- Não existe artefato para moldar o elo </br>
 
 ### RF12
 
@@ -239,7 +244,7 @@ Introspecção [I06](https://requisitos-de-software.github.io/2022.1-Noruh/elici
 Observação [OBS03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos:** </br>
-Representação: [RF12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US12](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Representação: [I06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) representa [OBS03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados) </br>
 
 ### RF13
 
@@ -251,7 +256,7 @@ Introspecção [I025](https://requisitos-de-software.github.io/2022.1-Noruh/elic
 Questionário [Q03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
 
 **Elos:** </br>
-Representação: [RF13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US13](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Recurso: [Q03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado) depende de um recurso de [I025](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) </br>
 
 ### RF14
 
@@ -262,7 +267,8 @@ Representação: [RF13](https://requisitos-de-software.github.io/2022.1-Noruh/el
 Brainstorm [BS06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
 
 **Elos:** </br>
-Representação: [RF14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US14](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+- Não existe artefato para moldar o elo </br>
 
 ### RF15
 
@@ -274,10 +280,12 @@ Brainstorm [BS08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitac
 Instrospecção [I026](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
 Questionário [Q02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
 Storytelling [ST04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/storytelling/#5-resultados)
-Análise de Documento[AD2](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)
+Análise de Documento [AD2](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)
 
 **Elos:** </br>
-Representação: [RF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US15](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Representação: [AD2](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/) representa [I026](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) </br>
+Agregação: [BS08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) agrega [ST04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/storytelling/#5-resultados) </br>
+Recurso: [Q02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado) depende de um recurso de [I026](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) </br>
 
 ### RF16
 
@@ -289,7 +297,7 @@ Brainstorm [BS13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitac
 Introspecção [I08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
 
 **Elos:** </br>
-Representação: [RF16](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US16](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Representação: [BS13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) representa [I08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) </br>
 
 ### RF17
 
@@ -300,7 +308,8 @@ Representação: [RF16](https://requisitos-de-software.github.io/2022.1-Noruh/el
 Brainstorm [BS16](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
 
 **Elos:** </br>
-Representação: [RF17](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US17](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+- Não existe artefato para moldar o elo </br>
 
 ### RF18
 
@@ -312,7 +321,7 @@ Brainstorm [BS18](https://requisitos-de-software.github.io/2022.1-Noruh/elicitac
 Questionário [Q07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
 
 **Elos:** </br>
-Representação: [RF18](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US18](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Representação: [BS18](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) representa [Q07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado) </br>
 
 ### RF19
 
@@ -323,7 +332,8 @@ Representação: [RF18](https://requisitos-de-software.github.io/2022.1-Noruh/el
 Brainstorm [BS21](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
 
 **Elos:** </br>
-Representação: [RF19](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US19](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+- Não existe artefato para moldar o elo </br>
 
 ### RF20
 
@@ -334,7 +344,8 @@ Representação: [RF19](https://requisitos-de-software.github.io/2022.1-Noruh/el
 Observação [OBS02](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos:** </br>
-Representação: [RF20](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US20](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+- Não existe artefato para moldar o elo </br>
 
 ### RF21
 
@@ -346,7 +357,7 @@ Observação [OBS07](https://requisitos-de-software.github.io/2022.1-Noruh/elici
 Análise de Documento [AD3](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)
 
 **Elos:** </br>
-Representação: [RF21](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US21](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Representação: [AD3](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/) representa [OBS07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados) </br>
 
 ### RF22
 
@@ -357,7 +368,8 @@ Representação: [RF21](https://requisitos-de-software.github.io/2022.1-Noruh/el
 Brainstorm [BS04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
 
 **Elos:** </br>
-Representação: [RF22](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US22](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+- Não existe artefato para moldar o elo </br>
 
 ### RF23
 
@@ -369,7 +381,7 @@ Brainstorm [BS09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitac
 Questionário [Q08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
 
 **Elos:** </br>
-Representação: [RF23](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US23](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Agregação: [BS09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) representa [Q08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado) </br>
 
 ### RF24
 
@@ -381,7 +393,7 @@ Brainstorm [BS10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitac
 Introspecção [I09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/)
 
 **Elos:** </br>
-Representação: [RF24](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US24](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Representação: [BS10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) representa [I09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) </br>
 
 ### RF25
 
@@ -392,7 +404,8 @@ Representação: [RF24](https://requisitos-de-software.github.io/2022.1-Noruh/el
 Brainstorm [BS14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/)
 
 **Elos:** </br>
-Representação: [RF25](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US25](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+- Não existe artefato para moldar o elo </br>
 
 ### RF26
 
@@ -405,7 +418,7 @@ Introspecção [I010](https://requisitos-de-software.github.io/2022.1-Noruh/elic
 Análise de Documento [AD4](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/)
 
 **Elos:** </br>
-Representação: [RF26](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US26](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Recurso: [BS15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/) e [AD4](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/) depende de um recurso de [I010](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) </br>
 
 ### RF27
 
@@ -418,7 +431,8 @@ Observação [OBS05](https://requisitos-de-software.github.io/2022.1-Noruh/elici
 Questionário [Q04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
 
 **Elos:** </br>
-Representação: [RF27](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US27](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+Representação: [I018](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) representa [Q04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado) </br>
+Agregação: [Q04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado) e [I018](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) agrega [OBS05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 ### RF28
 
@@ -429,7 +443,8 @@ Representação: [RF27](https://requisitos-de-software.github.io/2022.1-Noruh/el
 Observação [OBS06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos:** </br>
-Representação: [RF28](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US28](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+- Não existe artefato para moldar o elo </br>
 
 ### RF29
 
@@ -440,7 +455,8 @@ Representação: [RF28](https://requisitos-de-software.github.io/2022.1-Noruh/el
 Observação [OBS08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos:** </br>
-Representação: [RF29](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/) representa [US29](https://requisitos-de-software.github.io/2022.1-Noruh/modelagem/historiasDeUsuario/) </br>
+
+- Não existe artefato para moldar o elo </br>
 
 ### RF30
 
@@ -450,8 +466,9 @@ Representação: [RF29](https://requisitos-de-software.github.io/2022.1-Noruh/el
 
 Observação [OBS09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
-**Elos:**  
-Recurso: [RF30](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) depende dos recursos do [RF05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
+**Elos:**
+
+- Não existe artefato para moldar o elo </br>
 
 ### RF31
 
@@ -463,7 +480,7 @@ Introspecção [I023](https://requisitos-de-software.github.io/2022.1-Noruh/elic
 Observação [OBS10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos:**  
-Recurso: [RF31](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) depende dos recursos do [RF04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
+Representação: [I023](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/) depende dos recursos do [OBS10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 # 4. Requisitos Não Funcionais
 
@@ -505,7 +522,7 @@ Brainstorm [BS22](https://requisitos-de-software.github.io/2022.1-Noruh/elicitac
 Análise de Documento [AD6](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento)
 
 **Elos:**  
-Alocado: [RNF01](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+Representação: [AD6](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento) representa [BS22](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
 ### RNF02
 
@@ -529,7 +546,7 @@ Análise de Documento [AD7](https://requisitos-de-software.github.io/2022.1-Noru
 Análise de Documento [AD8](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento)
 
 **Elos:**  
-Alocado: [RNF03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+Representação: [BS24](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados) representa [AD7](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento) e [AD8](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento)
 
 ### RNF04
 
@@ -539,8 +556,9 @@ Alocado: [RNF03](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 
 Brainstorm [BS25](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
-**Elos:**  
-Alocado: [RNF04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+**Elos:**
+
+- Não existe artefato para moldar o elo </br>
 
 ### RNF05
 
@@ -550,8 +568,9 @@ Alocado: [RNF04](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 
 Brainstorm [BS27](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
-**Elos:**  
-Alocado: [RNF05](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+**Elos:**
+
+- Não existe artefato para moldar o elo </br>
 
 ### RNF06
 
@@ -563,7 +582,7 @@ Brainstorm [BS28](https://requisitos-de-software.github.io/2022.1-Noruh/elicitac
 Análise do Documento [AD11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento)
 
 **Elos:**  
-Alocado: [RNF06](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+Representação: [AD11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento) representa [BS28](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
 ### RNF07
 
@@ -575,9 +594,7 @@ Brainstorm [BS30](https://requisitos-de-software.github.io/2022.1-Noruh/elicitac
 Análise de Documento [AD12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento)
 
 **Elos:**  
-Alocado: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)  
-Recurso: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) depende dos recursos do [RF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)  
-Agregação: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) agrega [RF20](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) e [RF21](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
+Representação: [AD12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/analiseDcoumento/#3-analise-do-documento) repsenta [BS30](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
 ### RNF08
 
@@ -588,7 +605,8 @@ Agregação: [RNF07](https://requisitos-de-software.github.io/2022.1-Noruh/elici
 Brainstorm [BS32](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
 **Elos**:
-Alocado: [RNF08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Instrospecção](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/#3-resultados)
+
+- Não existe artefato para moldar o elo </br>
 
 ### RNF09
 
@@ -599,7 +617,8 @@ Alocado: [RNF08](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 Brainstorm [BS26](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
 **Elos**:
-Alocado: [RNF09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+
+- Não existe artefato para moldar o elo </br>
 
 ### RNF10
 
@@ -610,7 +629,8 @@ Alocado: [RNF09](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 Brainstorm [BS29](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
 **Elos**:
-Alocado: [RNF10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+
+- Não existe artefato para moldar o elo </br>
 
 ### RNF11
 
@@ -621,7 +641,8 @@ Alocado: [RNF10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 Observação [OBS11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos**:
-Alocado: [RNF11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
+
+- Não existe artefato para moldar o elo </br>
 
 ### RNF12
 
@@ -632,7 +653,8 @@ Alocado: [RNF11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 Observação [OBS12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos**:
-Alocado: [RNF12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
+
+- Não existe artefato para moldar o elo </br>
 
 ### RNF13
 
@@ -643,8 +665,8 @@ Alocado: [RNF12](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 Observação [OBS13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos**:
-Alocado: [RNF13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no
-Recurso: [RNF13](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) depende dos recursos do [RF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais) E [RF20](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
+
+- Não existe artefato para moldar o elo </br>
 
 ### RNF14
 
@@ -656,7 +678,7 @@ Brainstorm [BS31](https://requisitos-de-software.github.io/2022.1-Noruh/elicitac
 Questionário [Q10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
 
 **Elos**:
-Alocado: [RNF14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Brainstorm](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
+Representação: [Q10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado) representa [BS31](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/brainstorm/#4-resultados)
 
 ### RNF15
 
@@ -668,7 +690,7 @@ Observação [OBS14](https://requisitos-de-software.github.io/2022.1-Noruh/elici
 Questionário [Q11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado)
 
 **Elos**:
-Alocado: [RNF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
+Recurso: [Q11](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/questionario/#4-resultado) depende de um recurso de [OBS14](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 ### RNF16
 
@@ -679,8 +701,8 @@ Alocado: [RNF15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitaca
 Observação [OBS15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
 
 **Elos**:
-Alocado: [RNF16](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) está alocado no [Observação](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)
-Recurso: [RNF16](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#22-requisitos-nao-funcionais) dependo dos recursos do [RF1](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/resultados/#21-requisitos-funcionais)
+
+- Não existe artefato para moldar o elo </br>
 
 ## Referências
 
