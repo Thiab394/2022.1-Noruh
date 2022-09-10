@@ -34,6 +34,8 @@
 
 ## 3. Inspeção: Checklist do iStar
 
+&emsp;&emsp;A checklist após inspeção da [versão 1 do iStar](../../modelagem/iStarV1.md) pode ser encontrado abaixo:
+
 | ID  | Questão                                                           | Conta | Pesquisa | Pedido |
 | --- | ----------------------------------------------------------------- | ----- | -------- | ------ |
 | 1   | O iStar condiz com os requisitos elicitados do aplicativo?        | ✅     | ✅        | ✅      |
@@ -89,7 +91,7 @@
 
 ## Referências
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2022. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
-- Dalpiaz, F., Franch, X. and Horkoff, J. (2016) iStar 2.0 language guide. Disponível em: https://arxiv.org/abs/1605.07767. Acesso em: 09/09/2022
+- Dalpiaz, F., Franch, X. and Horkoff, J. (2016) iStar 2.0 language guide. Disponível em: https://sites.google.com/site/istarlanguage/home. Acesso em: 09/09/2022
 
 ## Histórico de versão
 | Versão |      Alteração       | Responsável | Revisor |   Data   |
