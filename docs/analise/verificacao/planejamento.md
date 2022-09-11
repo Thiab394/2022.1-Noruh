@@ -3,7 +3,7 @@
 
 ## 2. Metodologia
 
-&emsp;&emsp; Para fazer a verificação destes artefatos, iremos utilizar a técnica de Inspeção, que possui com objetivo verificar se  o modelo do artefato está de acordo com o que se esperava. Para isso, com o objetivo de fazermos uma inspeção de qualidade, também utilizaremos os 6 passos de Fagal, que são:
+&emsp;&emsp; Para fazer a verificação destes artefatos, iremos utilizar a técnica de Inspeção, que possui com objetivo verificar se  o modelo do artefato está de acordo com o que se esperava. Para isso, com o objetivo de fazermos uma inspeção de qualidade, também utilizaremos os 6 passos de Fagan, que são:
 
 - Planejamento
 - Visão Geral
