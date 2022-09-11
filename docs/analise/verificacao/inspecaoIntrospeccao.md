@@ -87,4 +87,4 @@
 ## Histórico de versão
 | Versão |      Alteração      | Responsável |           Revisor            |   Data   | Hora  |
 | :----: | :-----------------: | :---------: | :--------------------------: | :------: | :------: |
-|  1.0   |      Criação do documento          |    Lucas   |-               | 7/09/22 |14:00 às 14:35 |
+|  1.0   |      Criação do documento          |    Lucas   | Eurico               | 7/09/22 |14:00 às 14:35 |

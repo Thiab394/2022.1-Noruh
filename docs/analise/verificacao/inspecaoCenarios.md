@@ -365,4 +365,4 @@
 
 | Versão |      Alteração       | Responsável | Revisor |   Data   |      Hora      |
 | :----: | :------------------: | :---------: | :-----: | :------: | :------------: |
-|  1.0   | Criação do documento |    Bruno    |    -    | 15/08/22 | 21:40 às 22:35 |
+|  1.0   | Criação do documento |    Bruno    |    Eurico    | 15/08/22 | 21:40 às 22:35 |
