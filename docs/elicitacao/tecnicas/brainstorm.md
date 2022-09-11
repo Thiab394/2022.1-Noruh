@@ -87,7 +87,7 @@
 
 | Versão |      Alteração       |                Responsável                 |    Revisor    | Data  |     Hora     |
 | :----: | :------------------: | :----------------------------------------: | :-----------: | :---: | :----------: |
-|  1.0   |          -           | João Henrique, Eurico, Lucas, Karla, Bruno |     Todos     | 09/07 |      -       |
+|  1.0   |          -           | João Henrique, Eurico, Lucas, Karla, Bruno |     João Hnrique     | 09/07 |      -       |
 |  2.0   | Melhorando Documento |                   Bruno                    | João Henrique | 29/08 | 9:00 às 9:30 |
 
 ## Referências
