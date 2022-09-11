@@ -47,7 +47,7 @@
 
 | Versão |                Alteração               | Responsável |         Revisor        |  Data |
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
-|   1.0  |                    -                   |    Lucas |  | 17/07 |
+|   1.0  |                    -                   |    Lucas | Eurico | 17/07 |
 
 ## Referências
 - REINEHR, S. Engenharia de Requisitos; Grupo A, 2020.
