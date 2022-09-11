@@ -215,5 +215,5 @@
 ## Histórico de versão
 | Versão |      Alteração      | Responsável |           Revisor            |   Data   | 
 | :----: | :-----------------: | :---------: | :--------------------------: | :------: | 
-|  1.0   |      Criação do documento          |    Karla   |       -        | 15/08/22 |
-|  1.1   | Adição do acompanhamento e correções |    Karla   |       -        | 16/08/22 |
+|  1.0   |      Criação do documento          |    Karla   |       Eurico        | 15/08/22 |
+|  1.1   | Adição do acompanhamento e correções |    Karla   |       Eurico        | 16/08/22 |
