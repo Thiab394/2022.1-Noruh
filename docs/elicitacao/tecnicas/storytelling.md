@@ -20,6 +20,16 @@ Data: 07/09/2022
 
 ## 4. Storytelling 2
 
+| Nome   | Papel    | Ocupação         |
+| ------ | -------- | ---------------- |
+| Thiago | Narrador | Usuário          |
+| Bruno  | Relator  | Membro da equipe |
+
+Link da gravação: [Storytelling 2](../../assets/elicitacao//storytelling2.mp3)
+Data: 10/09/2022
+
+&emsp;&emsp;Thiago tem 21 anos e cursa Análise de Desenvolvimento de Sistemas. Thiago tem o costume de frequentar bares e restaurantes durante seu cotidiano e acredita que perde bastante tempo esperando o atendimento do garçom ou na hora de pagar a conta. Com a utilização do aplicativo Noruh, ele foi capaz de poupar esse tempo desperdiçado e aproveitou muito mais sua experiência, com o fácil acesso do aplicativo e sua interface intuitiva com poucos passos. Outra experiência do usuário foi no momento de pagar a conta, com o aplicativo é mais díficil de ter erros ao colocar os preços dos produtos, pois o mesmo fornece a função de abrir sua comanda e paga-lá pelo próprio aplicativo, tendo assim uma experiência mais prática ao frequentar os estabelecimentos.
+
 ## 5. Resultados
 
 Á partir das histórias relatadas foi possível elicitar os seguintes requisitos:
