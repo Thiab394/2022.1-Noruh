@@ -13,7 +13,6 @@
 | ![drawing](../assets/ferramentas/forms.png)   | Google Forms    | Utilizado para fazer questioários |
 | ![drawing](../assets/ferramentas/Mural.png)    | Mural     | Ferramenta utilizada para o brainstorming |
 | ![drawing](../assets/ferramentas/Teams.png)    | Teams     | Utilizado para a gravação das apresentações do projeto |
-| ![drawing](../assets/ferramentas/trello.png)   | Trello    | Utilizado para definir as atividades dos integrantes do projeto |
 | ![drawing](../assets/ferramentas/vscode.png)   | VsCode    | Editor de texto para o repositório |
 | ![drawing](../assets/ferramentas/whatsapp.png) | Whatsapp  | Aplicativo de conversas, onde criamos um grupo para o projeto |
 
