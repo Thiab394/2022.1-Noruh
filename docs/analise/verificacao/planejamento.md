@@ -15,12 +15,17 @@
 &emsp;&emsp; Desta forma, os artefatos verificados serão:
 
 - [Rich Picture](../../pre-rastreabilidade/RichPicture.md)
+- [Personas](../../elicitacao/personas.md)
+- [Análise de Documento](../../elicitacao/tecnicas/analiseDcoumento.md)
+- [Introspecção](../../elicitacao/tecnicas/introspeccao.md)
 - [Casos de Uso](../../modelagem/casosDeUso.md)
 - [Backlog](../../modelagem/backlog.md)
 - [Especificação Suplementar](../../modelagem/especificacao.md)
 - [NFR Framework](../../modelagem/nfrframework.md)
 - [Léxicos](../../modelagem/lexicos.md)
 - [Cenários](../../modelagem/cenarios.md)
+- [iStar](../../modelagem/iStar.md)
+- [Foward-From](../../pos-rastreabilidade/forward-from.md)
 
 ## 3. Planejamento
 &emsp;&emsp; Assim, para a execução da verificação, devidimos a equipe para que cada membro pudesse revisar 2 artefatos feitos por outra pessoa, e fazendo esta divisão chegamos no seguinte cronograma:
