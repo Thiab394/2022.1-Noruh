@@ -1,6 +1,10 @@
 # Matriz geral
 
-## 1.Matriz geral
+## 1. Introdução
+&emsp;&emsp; Com o objetivo de melhorar a visualização da Pós-Rastreabilidade do projeto, montamos uma matriz geral que contém informações tanto da análise [Foward-from](../pos-rastreabilidade/forward-from.md) quanto da [Backward-from](../pos-rastreabilidade/backward-from.md).
+
+## 2.Matriz geral
+&emsp;&emsp; Sendo assim, a matriz geral da pós-rastreabilidade do projeto pode ser encontrada abaixo:
 
 |Id   | Descrição  | Técnicas de elicitação | Artefatos  | Foi implementado?  | Forward-from |
 |:--: |:----------:|:----------------------:|:----------:|:------------------:|:------------:|
