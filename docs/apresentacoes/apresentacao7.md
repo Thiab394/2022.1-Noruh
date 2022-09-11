@@ -3,6 +3,8 @@
 ## 1. Apresentação Final
 &emsp;&emsp; O vídeo com a apresentação final do projeto pode ser encontrado abaixo:
 
+<iframe width="942" height="530" src="https://www.youtube.com/embed/aj_rTkphkxY" title="Apresentação Final | Requisitos de Software | UnB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 2. Slides
 &emsp;&emsp; Os slides utilizados durante a apresentação podem ser encontrados a partir do seguinte [link](https://docs.google.com/presentation/d/14AlmQHHHoOX6uIPFCUq6zRTLdU-PaMoLgth7REEQIXA/edit?usp=sharing)
 
