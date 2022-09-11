@@ -31,6 +31,12 @@
 ## 3. Priorização
 &emsp;&emsp; O vídeo da reunião em que foi feita a priorização pode ser encontrado abaixo:
 
+<iframe width="942" height="530" src="https://www.youtube.com/embed/M8VdPbON59k" title="Role Playing First Things First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<figcaption align='center'>
+    <b>Vídeo 1: Role playing  </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
 
 ## 4. Resultados
 &emsp;&emsp; Os resultados a gerados a partir da priorização estão representados na seguinte tabela:
