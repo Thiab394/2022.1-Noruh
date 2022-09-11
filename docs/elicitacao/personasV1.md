@@ -107,7 +107,7 @@ Habilidades: especialidade, grau de escolaridade, grau de familiaridade com tecn
 |:------:|:--------------------------------------:|:-----------:|:----------------------:|:-----:|
 |   1.0  |                    -                   |    Eurico  | João Henrique, Karla, Bruno. Lucas | 09/07 |
 |   1.1  |  Página revisada                   |    João Henrique, Karla, Bruno. Lucas  | - | 09/07 |
-|   1.2  |  Melhorias na introdução e adição de metodologia                  |    Lucas  | - | 26/07 |
+|   1.2  |  Melhorias na introdução e adição de metodologia                  |    Lucas  | João Henrique | 26/07 |
 
 ## Referências
 - Alan Cooper; Robert Reimann; David Cronin; About Face: The Essentials of Interaction Design 3
