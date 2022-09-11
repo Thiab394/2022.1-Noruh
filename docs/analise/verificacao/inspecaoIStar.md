@@ -96,4 +96,4 @@
 ## Histórico de versão
 | Versão |      Alteração       | Responsável | Revisor |   Data   |
 | :----: | :------------------: | :---------: | :-----: | :------: |
-|  1.0   | Criação do documento |    Karla    |    -    | 09/09/22 |
+|  1.0   | Criação do documento |    Karla    |    Bruno    | 09/09/22 |
