@@ -19,6 +19,7 @@ nav:
         - Priorização:
             - 'MoSCoW': './elicitacao/priorizacao/moscow.md'
             - 'First Things First': './elicitacao/priorizacao/firstThingsFirst.md'
+            - 'House of Quality': './elicitacao/priorizacao/houseofquality.md'
         - 'Resultados': './elicitacao/resultados.md'
     - Modelagem:
         - 'Especificação Suplementar': './modelagem/especificacao.md'
