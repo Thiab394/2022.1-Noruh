@@ -9,6 +9,8 @@
 - Interação (ou diretos), que interagem diretamente com o sistema.
 - Indiretos, que são aqueles usuários que possuem interesse no sistema mas não tem contato direto com o software
 
+&emsp;&emsp;Para esse documento, foi escolhido a metodologia em que os viewpoints são retratados em linguagem natural, facilitando a leitura e o entendimento por outras pessoas fora da equipe técnica, baseado primariamente na pesquisa [4] (Requirements Analysis through Viewpoints Oriented Requirements Model (VORD)).
+
 <p>&emsp;&emsp;Após identificar os pontos de vista, eles são agrupados de acordo com a hierarquia.</p>
 <center>
 
@@ -33,34 +35,32 @@ Uma análise das técnicas de levantamento de requisitos</small>
 <p>&emsp;&emsp;O gerente do restaurante, deseja que o usuário consiga logar no aplicativo de forma rápida e segura para que consiga fazer os seus pedidos.</p>
 
 ### 2.3.1 Viewpoint direto 3
-<p>&emsp;&emsp;O usuário deseja que seja possível procurar pelo mapa os restaurantes e bares que estão no aplicativo.</p>
-
-### 2.3.2 Viewpoint indireto 3
-<p>&emsp;&emsp;O gerente do restaurante, deseja que o usuário consiga encontrar o seu restaurante ou bar pelo aplicativo, com a finalidade de atrair mais clientes</p>
-
-### 2.4.1 Viewpoint direto 4
 <p>&emsp;&emsp;O usuário deseja que seja possível acessar o cardápio e realizar pedidos com o seu celular.</p>
 
-### 2.4.2 Viewpoint indireto 4
+### 2.3.2 Viewpoint indireto 3
 <p>&emsp;&emsp;O gerente do restaurante, deseja que o usuário consiga acessar o cardápio e realizar pedidos com o seu celular, com a finalidade de ter o atendimento agilizado.</p>
 
-### 2.5.1 Viewpoint direto 5
+### 2.4.1 Viewpoint direto 4
 <p>&emsp;&emsp;O usuário deseja que seja possível finalizar os pedidos e solicitar a conta, além de poder fazer o pagamento pelo aplicativo de forma segura.</p>
 
-### 2.5.2 Viewpoint indireto 5
+### 2.4.2 Viewpoint indireto 4
 <p>&emsp;&emsp;O gerente do restaurante, deseja que o usuário consiga finalizar o seu pedido, pedir a conta e realizar o pagamento da forma desejada.</p>
+
+### 2.5.1 Viewpoint direto 5
+<p>&emsp;&emsp;O usuário deseja que seja possível procurar pelo mapa os restaurantes e bares que estão no aplicativo.</p>
+
+### 2.5.2 Viewpoint indireto 5
+<p>&emsp;&emsp;O gerente do restaurante, deseja que o usuário consiga encontrar o seu restaurante ou bar pelo aplicativo, com a finalidade de atrair mais clientes</p>
 
 ## 3. Análise final
 <p>&emsp;&emsp;Após a análise dos pontos de vista, conclui-se que não existem inconsistências, ou fatos faltantes, com isso não é necessário mudanças nos requisitos, uma vez que os pontos de vista estão alinhados.</p>
 
 
-
-
 ## Referências
-- SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 23. Material apresentado durante a disciplina de Requisitos de Software, FGA 2022.1.
-- Messaoudi M. Requirements Engineering Through Viewpoints.
-- Samuel Fabiano Barbosa Silva. ENGENHARIA DE REQUISITOS: Uma análise das técnicas de levantamento de requisitos
-- Ahmed M. Salem. Requirements Analysis through Viewpoints Oriented Requirements Model (VORD)
+- [1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 23. Material apresentado durante a disciplina de Requisitos de Software, FGA 2022.1.
+- [2] Messaoudi M. Requirements Engineering Through Viewpoints.
+- [3] Samuel Fabiano Barbosa Silva. ENGENHARIA DE REQUISITOS: Uma análise das técnicas de levantamento de requisitos
+- [4] Ahmed M. Salem. Requirements Analysis through Viewpoints Oriented Requirements Model (VORD)
 
 ## Histórico de versões
 
@@ -69,3 +69,5 @@ Uma análise das técnicas de levantamento de requisitos</small>
 |   1.0  | Criação do documento           |    Eurico  | João Henrique | 16/08 |
 |   1.0  | Adição do conteúdo           |    Eurico  | João Henrique | 17/08 |
 |   1.1  | Adição dos pontos de vista           |    Eurico  | João Henrique | 17/08 |
+|   2.0  | Correção e remoção de um vp           |    Eurico  | João Henrique | 09/09 |
+|   2.1  | Melhoria nos vp |    Eurico  | João Henrique | 09/09 |
