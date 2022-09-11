@@ -44,6 +44,11 @@
 |  RF30  |                O usuário deve poder criar uma comanda compartilhada                 |  Observação   |
 |  RF31  |                 O usuário deve poder pesquisar produtos no cardápio                 |  Observação   |
 
+<figcaption align='center'>
+    <b>Tabela 1: Requisitos Funcionais  </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
+
 ### 2.2 Requisitos Não Funcionais
 
 | Número |                                                Requisito                                                 |   Técnica    |
@@ -62,8 +67,13 @@
 | RNF12  | A navegação pelo cardápio dos restaurantes deve ser de fácil entendimento e mostrar imagens dos produtos |  Observação  |
 | RNF13  |                              O pagamento pelo app deve ser simples e rápido                              |  Observação  |
 | RNF14  |                         O sistema deve fornecer uma interface gráfica intuitiva                          |  Brainstorm  |
-| RNF15  |                        O sistema deve ter um tempo de resposta de no máximo 2 segundos                   |  Observação  |
+| RNF15  |                     O sistema deve ter um tempo de resposta de no máximo 2 segundos                      |  Observação  |
 | RNF16  |                 O sistema deve ter integração com o google e facebook para criar contas                  |  Observação  |
+
+<figcaption align='center'>
+    <b>Tabela 2: Requisitos Não Funcionais  </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
 
 ## Histórico de Versão
 

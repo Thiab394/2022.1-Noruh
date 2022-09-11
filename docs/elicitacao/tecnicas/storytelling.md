@@ -8,10 +8,15 @@
 
 ## 3. Storytelling 1
 
-| Nome    | Papel     | Ocupação         |
-| ------- | --------- | ---------------- |
-| Letícia | Narradora | Usuário          |
-| Karla   | Relatora  | Membro da equipe |
+|  Nome   |   Papel   |     Ocupação     |
+| :-----: | :-------: | :--------------: |
+| Letícia | Narradora |     Usuário      |
+|  Karla  | Relatora  | Membro da equipe |
+
+<figcaption align='center'>
+    <b>Tabela 1: Storytteling 1  </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
 
 Link da gravação: [Storytelling 1](../../assets/elicitacao//storytelling1.mp3)  
 Data: 07/09/2022
@@ -20,10 +25,15 @@ Data: 07/09/2022
 
 ## 4. Storytelling 2
 
-| Nome   | Papel    | Ocupação         |
-| ------ | -------- | ---------------- |
-| Thiago | Narrador | Usuário          |
+|  Nome  |  Papel   |     Ocupação     |
+| :----: | :------: | :--------------: |
+| Thiago | Narrador |     Usuário      |
 | Bruno  | Relator  | Membro da equipe |
+
+<figcaption align='center'>
+    <b>Tabela 2: Storytteling 2  </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
 
 Link da gravação: [Storytelling 2](../../assets/elicitacao//storytelling2.mp3)
 Data: 10/09/2022
@@ -42,6 +52,11 @@ Data: 10/09/2022
 | ST04 | O usuário deve poder realizar pagamentos                  | Requisito Funcional     |
 | ST05 | O usuário deve poder acompanhar seus pedidos              | Requisito Não Funcional |
 | ST06 | O sistema deve permitir realizar ações com poucos cliques | Requisito Não Funcional |
+
+<figcaption align='center'>
+    <b>Tabela 3: Requisitos elicitados  </b>
+    <br><small> Fonte: Elaboração Própria </small>
+</figcaption>
 
 ## Histórico de Versão
 
