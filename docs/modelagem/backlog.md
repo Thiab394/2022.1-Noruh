@@ -277,9 +277,9 @@
 
 | Versão |       Alteração       | Responsável | Revisor |    Data    |      Hora      |
 | :----: | :-------------------: | :---------: | :-----: | :--------: | :------------: |
-|  1.0   | Abertura do documento |    Bruno    |         |  01/08/22  | 10:30 às 12:10 |
-|  1.1   |  Adicionando épicos   |    Bruno    |         | 02/08/2022 | 19:30 às 20:15 |
-|  2.0   |  Adicionando temas e alterando épicos   |    Lucas    |         | 14/08/2022 | 14:00 às 16:30 |
+|  1.0   | Abertura do documento |    Bruno    |    Karla     |  01/08/22  | 10:30 às 12:10 |
+|  1.1   |  Adicionando épicos   |    Bruno    |    João     | 02/08/2022 | 19:30 às 20:15 |
+|  2.0   |  Adicionando temas e alterando épicos   |    Lucas    |   Eurico      | 14/08/2022 | 14:00 às 16:30 |
 
 ## 5. Referências
 
