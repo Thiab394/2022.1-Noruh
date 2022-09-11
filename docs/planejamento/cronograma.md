@@ -148,21 +148,21 @@
 |            Adicionar IDs Cenários             |     Karla     |  Lucas  | 31/8 |  ✅   |
 |  Adicionar hyperlinks e titulos nos léxicos   |     Bruno     |  João   | 31/8 |  ✅   |
 |        Adiconar metodologia do projeto        |     Karla     |  Lucas  | 31/8 |  ✅   |
-|              Fazer storytelling               | Karla , Bruno | Eurico  | 3/9  |   ✅    |
+|              Fazer storytelling               | Karla , Bruno | Eurico  | 3/9  |  ✅   |
 |        Fazer observação participativa         |     Lucas     |  Karla  | 3/9  |  ✅   |
 |         Fazer analise de documentação         |     João      |  Karla  | 3/9  |  ✅   |
-| Fazer verificação da analise de documentação  |    Eurico     |  Karla  | 3/9  |  ✅     |
+| Fazer verificação da analise de documentação  |    Eurico     |  Karla  | 3/9  |  ✅   |
 |            Verificação Foward-from            |     Lucas     |  João   | 5/9  |  ✅   |
-|           Verificação Backward-from           |     Bruno     |  João   | 5/9  |  ✅     |
+|           Verificação Backward-from           |     Bruno     |  João   | 5/9  |  ✅   |
 |              Fazer matriz geral               | João, Eurico  |  João   | 5/9  |  ✅   |
 | Correções da verificação histórias de usuário | Eurico, João  |  Lucas  | 7/9  |  ✅   |
-|               Revisão viewpoint               |    Eurico     |  Bruno  | 7/9  |  ✅     |
+|               Revisão viewpoint               |    Eurico     |  Bruno  | 7/9  |  ✅   |
 |             Melhoria no protótipo             |     Lucas     |  João   | 7/9  |  ✅   |
-|       Melhoria motivação da escolha app       |     Bruno     |  Lucas  | 8/9  |  ✅     |
-|               Verificação iStar               |     Karla     |  João   | 8/9  |       |
-|           Revisão Geral do Projeto            |     Todos     |    -    | 10/9 |       |
-|                 Fazer slides                  |     Todos     |    -    | 10/9 |       |
-|            Gravação entrega final             |     Todos     |    -    | 11/9 |       |
+|       Melhoria motivação da escolha app       |     Bruno     |  Lucas  | 8/9  |  ✅   |
+|               Verificação iStar               |     Karla     |  João   | 8/9  |  ✅   |
+|           Revisão Geral do Projeto            |     Todos     |    -    | 10/9 |  ✅   |
+|                 Fazer slides                  |     Todos     |    -    | 10/9 |  ✅   |
+|            Gravação entrega final             |     Todos     |    -    | 11/9 |  ✅   |
 
 </center>
 
