@@ -67,4 +67,4 @@
 ## Histórico de versão
 | Versão |      Alteração      | Responsável |           Revisor            |   Data   | 
 | :----: | :-----------------: | :---------: | :--------------------------: | :------: | 
-|  1.0   |      Criação do documento          |    Karla   |       -        | 15/08/22 |
+|  1.0   |      Criação do documento          |    Karla   |       Eurico        | 15/08/22 |
