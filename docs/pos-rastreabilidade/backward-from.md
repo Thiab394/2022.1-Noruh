@@ -63,7 +63,7 @@
 | RF31 |                 O usuário deve poder pesquisar produtos no cardápio                 |                                                                                                                                                               [I023](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/introspeccao/), [OBS10](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                                                               |
 
 <figcaption align='center'>
-    <b>Tabela 1: análise backward-from requisitos funcionais  </b>
+    <b>Tabela 1: Análise backward-from requisitos funcionais  </b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
@@ -475,7 +475,7 @@ Representação: [I023](https://requisitos-de-software.github.io/2022.1-Noruh/el
 | RNF16 |                 O sistema deve ter integração com o google e facebook para criar contas                  |                                                                                                                              [OBS15](https://requisitos-de-software.github.io/2022.1-Noruh/elicitacao/tecnicas/observacao/#4-resultados)                                                                                                                               |
 
 <figcaption align='center'>
-    <b>Tabela 2: análise backward-from requisitos não funcionais  </b>
+    <b>Tabela 2: Análise backward-from requisitos não funcionais  </b>
     <br><small> Fonte: Elaboração Própria </small>
 </figcaption>
 
