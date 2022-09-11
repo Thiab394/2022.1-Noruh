@@ -5,7 +5,8 @@
 &emsp;&emsp;Os rich pictures abaixo são uma ferramenta para analisar problemas e expressar idéias de maneira informal. Ela ajuda a identificar todos os stakeholders, suas preocupações e alguns detalhes da estrutura de sistemas. Com isso, nós começamos com uma versão mais simples do desenho, utilizando apenas papel e caneta, para então começarmos a evoluí-lo.
 
 ## Rich Picture aplicativo Noruh
-### Versão 1.0
+### Versão 1
+&emsp;&emsp; A primeira versão da Rich Picture do app Noruh, feita em papel e caneta, pode ser encontrada abaixo:
 
 ![Rich Picture de baixa fidelidade](../assets/richPictures/RichPictureV1.png)
 
@@ -14,9 +15,10 @@
     <br><small>Fonte: Elaboração Própria</small>
 </figcaption>
 
-### Versão 2.1
+### Versão 2
+&emsp;&emsp; A segunda versão da Rich Picture do app Noruh, feita com auxílio da ferramenta Figma, pode ser encontrada abaixo:
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FJZg9lBOSRzqSJniBQEUttz%2FRichPictureV2%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+![Rich Picture de baixa fidelidade](../assets/richPictures/RichPictureV2Noruh.png)
 
 <figcaption align='center'>
     <b>Figura 2: Segunda Versão Rich Picture</b>
