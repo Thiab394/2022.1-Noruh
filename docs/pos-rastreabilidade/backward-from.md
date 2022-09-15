@@ -8,10 +8,9 @@
 
 &emsp;&emsp; Para a análise backward-from dos requisitos iremos utilizar uma tabela dividida nas seguintes colunas:
 
-- Requisito
+- ID
+- Descrição
 - Ténica utilizada
-- Onde encontrar
-- Elos
 
 &emsp;&emsp; Abaixo pode-se encontrar a legenda para as abreviaturas que serão utilizadas:
 
